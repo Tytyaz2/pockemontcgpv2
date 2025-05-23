@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <title>Pokémon TCG Premium Collection</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;700&display=swap" rel="stylesheet">
+    <link th:href="@{/css/collections.css}" rel="stylesheet">
+</head>
+<body>
+<div class="container">
+    <header class="header">
+        <h1><i class="fas fa-pokeball"></i> Pokémon TCG Collections</h1>
+        <div class="filter-controls">
+            <div class="search-box">
+                <input type="text" id="searchInput" placeholder="Rechercher une carte...">
+                <i class="fas fa-search"></i>
+            </div>
+            <div class="collection-filters">
+                <button class="filter-btn active" data-filter="all">Toutes</button>
+                <button class="filter-btn" data-filter="a1">Collection A1</button>
+                <button class="filter-btn" data-filter="a1a">Collection A1a</button>
+                <button class="filter-btn" data-filter="a2">Collection A2</button>
+                <button class="filter-btn" data-filter="a2a">Collection A2a</button>
+                <button class="filter-btn" data-filter="a2b">Collection A2b</button>
+                <button class="filter-btn" data-filter="a3">Collection A3</button>
+            </div>
+        </div>
+    </header>
+
+    <main>
+        <!-- Collection A1 -->
+        <section class="collection-section" data-collection="a1" th:unless="${a1Cards.isEmpty()}">
+            <h2 class="collection-title"><i class="fas fa-star"></i> Collection A1</h2>
+            <div class="cards-grid">
+                <div class="card" th:each="card : ${a1Cards}" th:data-name="${card.substring(0, card.length()-4)}">
+                    <div class="card-inner">
+                        <img th:src="@{'/a1/' + ${card}}" th:alt="${card}" class="card-image">
+                        <div class="card-overlay">
+                            <span class="card-number" th:text="${card.substring(0, card.length()-4)}"></span>
+                            <button class="zoom-btn"><i class="fas fa-expand"></i></button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section class="collection-section" data-collection="a1a" th:unless="${a1aCards.isEmpty()}">
+            <h2 class="collection-title"><i class="fas fa-star"></i> Collection A1</h2>
+            <div class="cards-grid">
+                <div class="card" th:each="card : ${a1aCards}" th:data-name="${card.substring(0, card.length()-4)}">
+                    <div class="card-inner">
+                        <img th:src="@{'/a1a/' + ${card}}" th:alt="${card}" class="card-image">
+                        <div class="card-overlay">
+                            <span class="card-number" th:text="${card.substring(0, card.length()-4)}"></span>
+                            <button class="zoom-btn"><i class="fas fa-expand"></i></button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section class="collection-section" data-collection="a2" th:unless="${a2Cards.isEmpty()}">
+            <h2 class="collection-title"><i class="fas fa-star"></i> Collection A1</h2>
+            <div class="cards-grid">
+                <div class="card" th:each="card : ${a2Cards}" th:data-name="${card.substring(0, card.length()-4)}">
+                    <div class="card-inner">
+                        <img th:src="@{'/a2/' + ${card}}" th:alt="${card}" class="card-image">
+                        <div class="card-overlay">
+                            <span class="card-number" th:text="${card.substring(0, card.length()-4)}"></span>
+                            <button class="zoom-btn"><i class="fas fa-expand"></i></button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section class="collection-section" data-collection="a2a" th:unless="${a2aCards.isEmpty()}">
+            <h2 class="collection-title"><i class="fas fa-star"></i> Collection A1</h2>
+            <div class="cards-grid">
+                <div class="card" th:each="card : ${a2aCards}" th:data-name="${card.substring(0, card.length()-4)}">
+                    <div class="card-inner">
+                        <img th:src="@{'/a2a/' + ${card}}" th:alt="${card}" class="card-image">
+                        <div class="card-overlay">
+                            <span class="card-number" th:text="${card.substring(0, card.length()-4)}"></span>
+                            <button class="zoom-btn"><i class="fas fa-expand"></i></button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section class="collection-section" data-collection="a2b" th:unless="${a2bCards.isEmpty()}">
+            <h2 class="collection-title"><i class="fas fa-star"></i> Collection A1</h2>
+            <div class="cards-grid">
+                <div class="card" th:each="card : ${a2bCards}" th:data-name="${card.substring(0, card.length()-4)}">
+                    <div class="card-inner">
+                        <img th:src="@{'/a2b/' + ${card}}" th:alt="${card}" class="card-image">
+                        <div class="card-overlay">
+                            <span class="card-number" th:text="${card.substring(0, card.length()-4)}"></span>
+                            <button class="zoom-btn"><i class="fas fa-expand"></i></button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section class="collection-section" data-collection="a3" th:unless="${a3Cards.isEmpty()}">
+            <h2 class="collection-title"><i class="fas fa-star"></i> Collection A1</h2>
+            <div class="cards-grid">
+                <div class="card" th:each="card : ${a3Cards}" th:data-name="${card.substring(0, card.length()-4)}">
+                    <div class="card-inner">
+                        <img th:src="@{'/a3/' + ${card}}" th:alt="${card}" class="card-image">
+                        <div class="card-overlay">
+                            <span class="card-number" th:text="${card.substring(0, card.length()-4)}"></span>
+                            <button class="zoom-btn"><i class="fas fa-expand"></i></button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+
+    </main>
+
+    <!-- Modal pour l'aperçu zoomé -->
+    <div class="modal-overlay" id="modalOverlay">
+        <div class="modal-content">
+            <button class="close-modal" id="closeModalBtn">&times;</button>
+            <img src="" alt="Carte zoomée" class="zoomed-card" id="modalImage">
+            <div class="card-details" id="cardDetails">
+                <h3 class="zoomed-card-title" id="modalTitle"></h3>
+                <p><strong>Numéro :</strong> <span id="modalNumber"></span></p>
+                <p><strong>Collection :</strong> <span id="modalCollection"></span></p>
+                <p><strong>Rareté :</strong> <span id="modalRarity"></span></p>
+                <p><strong>Type :</strong> <span id="modalType"></span></p>
+                <p><strong>PV :</strong> <span id="modalHP"></span></p>
+                <p><strong>Stade :</strong> <span id="modalStage"></span></p>
+                <h4>Attaques :</h4>
+                <ul class="attacks-list" id="modalAttacks"></ul>
+                <p><strong>Obtention :</strong> <span id="modalObtainedFrom"></span></p>
+            </div>
+        </div>
+    </div>
+</div>
+
+<script src="/js/collections.js"></script>
+</body>
+</html>
