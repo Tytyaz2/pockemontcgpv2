@@ -1,0 +1,2184 @@
+[
+  {
+    "metadata": {
+      "number": "P-A 001",
+      "name": "Potion",
+      "collection_name": "Promo",
+      "rarity": "Unknown",
+      "image_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+    },
+    "stats": {
+      "hp": "",
+      "stage": "",
+      "type": "Pokemon TCG Pocket - Item"
+    },
+    "attacks": [],
+    "obtained_from": "Purchase in Shop with Shop Tickets"
+  },
+  {
+    "metadata": {
+      "number": "P-A 002",
+      "name": "X Speed",
+      "collection_name": "Promo",
+      "rarity": "Unknown",
+      "image_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+    },
+    "stats": {
+      "hp": "",
+      "stage": "",
+      "type": "Pokemon TCG Pocket - Item"
+    },
+    "attacks": [],
+    "obtained_from": "Purchase in Shop with Shop Tickets"
+  },
+  {
+    "metadata": {
+      "number": "P-A 003",
+      "name": "Hand Scope",
+      "collection_name": "Promo",
+      "rarity": "Unknown",
+      "image_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+    },
+    "stats": {
+      "hp": "",
+      "stage": "",
+      "type": "Pokemon TCG Pocket - Item"
+    },
+    "attacks": [],
+    "obtained_from": "Purchase in Shop with Shop Tickets"
+  },
+  {
+    "metadata": {
+      "number": "P-A 004",
+      "name": "Pokedex",
+      "collection_name": "Promo",
+      "rarity": "Unknown",
+      "image_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+    },
+    "stats": {
+      "hp": "",
+      "stage": "",
+      "type": "Pokemon TCG Pocket - Item"
+    },
+    "attacks": [],
+    "obtained_from": "Purchase in Shop with Shop Tickets"
+  },
+  {
+    "metadata": {
+      "number": "P-A 005",
+      "name": "Poke Ball",
+      "collection_name": "Promo",
+      "rarity": "Unknown",
+      "image_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+    },
+    "stats": {
+      "hp": "",
+      "stage": "",
+      "type": "Pokemon TCG Pocket - Item"
+    },
+    "attacks": [],
+    "obtained_from": "Purchase in Shop with Shop Tickets"
+  },
+  {
+    "metadata": {
+      "number": "P-A 006",
+      "name": "Red Card",
+      "collection_name": "Promo",
+      "rarity": "Unknown",
+      "image_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+    },
+    "stats": {
+      "hp": "",
+      "stage": "",
+      "type": "Pokemon TCG Pocket - Item"
+    },
+    "attacks": [],
+    "obtained_from": "Purchase in Shop with Shop Tickets"
+  },
+  {
+    "metadata": {
+      "number": "P-A 007",
+      "name": "Professor's Research",
+      "collection_name": "Promo",
+      "rarity": "Unknown",
+      "image_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+    },
+    "stats": {
+      "hp": "",
+      "stage": "",
+      "type": "Pokemon TCG Pocket - Supporter"
+    },
+    "attacks": [],
+    "obtained_from": "Purchase in Shop with Shop Tickets"
+  },
+  {
+    "metadata": {
+      "number": "P-A 008",
+      "name": "Pokedex",
+      "collection_name": "Promo",
+      "rarity": "Unknown",
+      "image_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+    },
+    "stats": {
+      "hp": "",
+      "stage": "",
+      "type": "Pokemon TCG Pocket - Item"
+    },
+    "attacks": [
+      {
+        "name": "-",
+        "cost": [
+          "-"
+        ],
+        "damage": "- Look at the top 3 cards of your deck."
+      }
+    ],
+    "obtained_from": "Obtained from a gift"
+  },
+  {
+    "metadata": {
+      "number": "P-A 009",
+      "name": "Pikachu",
+      "collection_name": "Promo",
+      "rarity": "Unknown",
+      "image_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+    },
+    "stats": {
+      "hp": "60",
+      "stage": "Basic",
+      "type": "Pokemon TCG Pocket - Lightning"
+    },
+    "attacks": [
+      {
+        "name": "Retreat Cost",
+        "cost": [
+          "Pokemon TCG Pocket - Retreat Cost"
+        ],
+        "damage": "20"
+      },
+      {
+        "name": "Gnaw",
+        "cost": [
+          "Lightning"
+        ],
+        "damage": "20"
+      }
+    ],
+    "obtained_from": "Purchase in Shop with Premium Tickets"
+  },
+  {
+    "metadata": {
+      "number": "P-A 010",
+      "name": "Mewtwo",
+      "collection_name": "Promo",
+      "rarity": "Unknown",
+      "image_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+    },
+    "stats": {
+      "hp": "120",
+      "stage": "Basic",
+      "type": "Pokemon TCG Pocket - Psychic"
+    },
+    "attacks": [
+      {
+        "name": "Retreat Cost",
+        "cost": [
+          "Pokemon TCG Pocket - Retreat Cost"
+        ],
+        "damage": "Discard 2 Psychic Energy from this Pokemon."
+      },
+      {
+        "name": "Power Blast",
+        "cost": [
+          "Psychic 2",
+          "Colorless 2"
+        ],
+        "damage": "Discard 2 Psychic Energy from this Pokemon."
+      }
+    ],
+    "obtained_from": "Obtained from a mission"
+  },
+  {
+    "metadata": {
+      "number": "P-A 011",
+      "name": "Chansey",
+      "collection_name": "Promo",
+      "rarity": "Unknown",
+      "image_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+    },
+    "stats": {
+      "hp": "120",
+      "stage": "Basic",
+      "type": "Pokemon TCG Pocket - Colorless"
+    },
+    "attacks": [
+      {
+        "name": "Retreat Cost",
+        "cost": [
+          "Pokemon TCG Pocket - Retreat Cost"
+        ],
+        "damage": "60"
+      },
+      {
+        "name": "Gentle Slap",
+        "cost": [
+          "Colorless 3"
+        ],
+        "damage": "60"
+      }
+    ],
+    "obtained_from": "Obtainable from Chansey Wonder Picks"
+  },
+  {
+    "metadata": {
+      "number": "P-A 012",
+      "name": "Meowth",
+      "collection_name": "Promo",
+      "rarity": "Unknown",
+      "image_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+    },
+    "stats": {
+      "hp": "60",
+      "stage": "Basic",
+      "type": "Pokemon TCG Pocket - Colorless"
+    },
+    "attacks": [
+      {
+        "name": "Retreat Cost",
+        "cost": [
+          "Pokemon TCG Pocket - Retreat Cost"
+        ],
+        "damage": "Draw 1 card."
+      },
+      {
+        "name": "Pay Day",
+        "cost": [
+          "Colorless"
+        ],
+        "damage": "Draw 1 card."
+      }
+    ],
+    "obtained_from": "Obtainable from Chansey Wonder Picks"
+  },
+  {
+    "metadata": {
+      "number": "P-A 013",
+      "name": "Butterfree",
+      "collection_name": "Promo",
+      "rarity": "Unknown",
+      "image_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+    },
+    "stats": {
+      "hp": "120",
+      "stage": "Stage 2",
+      "type": "Pokemon TCG Pocket - Grass"
+    },
+    "attacks": [
+      {
+        "name": "Retreat Cost",
+        "cost": [
+          "Pokemon TCG Pocket - Retreat Cost"
+        ],
+        "damage": "60"
+      },
+      {
+        "name": "Gust",
+        "cost": [
+          "Grass",
+          "Colorless 2"
+        ],
+        "damage": "60"
+      }
+    ],
+    "obtained_from": "Open Promo Pack A Series Vol. 1"
+  },
+  {
+    "metadata": {
+      "number": "P-A 014",
+      "name": "Lapras ex",
+      "collection_name": "Promo",
+      "rarity": "Unknown",
+      "image_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+    },
+    "stats": {
+      "hp": "140",
+      "stage": "Basic",
+      "type": "Pokemon TCG Pocket - Water"
+    },
+    "attacks": [
+      {
+        "name": "Retreat Cost",
+        "cost": [
+          "Pokemon TCG Pocket - Retreat Cost"
+        ],
+        "damage": "Heal 20 damage from this Pokemon."
+      },
+      {
+        "name": "Bubble Drain",
+        "cost": [
+          "Water 2",
+          "Colorless"
+        ],
+        "damage": "Heal 20 damage from this Pokemon."
+      }
+    ],
+    "obtained_from": "Open Promo Pack A Series Vol. 1"
+  },
+  {
+    "metadata": {
+      "number": "P-A 015",
+      "name": "Pikachu",
+      "collection_name": "Promo",
+      "rarity": "Unknown",
+      "image_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+    },
+    "stats": {
+      "hp": "60",
+      "stage": "Basic",
+      "type": "Pokemon TCG Pocket - Lightning"
+    },
+    "attacks": [
+      {
+        "name": "Retreat Cost",
+        "cost": [
+          "Pokemon TCG Pocket - Retreat Cost"
+        ],
+        "damage": "20"
+      },
+      {
+        "name": "Gnaw",
+        "cost": [
+          "Lightning"
+        ],
+        "damage": "20"
+      }
+    ],
+    "obtained_from": "Open Promo Pack A Series Vol. 1"
+  },
+  {
+    "metadata": {
+      "number": "P-A 016",
+      "name": "Clefairy",
+      "collection_name": "Promo",
+      "rarity": "Unknown",
+      "image_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+    },
+    "stats": {
+      "hp": "60",
+      "stage": "Basic",
+      "type": "Pokemon TCG Pocket - Psychic"
+    },
+    "attacks": [
+      {
+        "name": "Retreat Cost",
+        "cost": [
+          "Pokemon TCG Pocket - Retreat Cost"
+        ],
+        "damage": "20"
+      },
+      {
+        "name": "Slap",
+        "cost": [
+          "Psychic"
+        ],
+        "damage": "20"
+      }
+    ],
+    "obtained_from": "Open Promo Pack A Series Vol. 1"
+  },
+  {
+    "metadata": {
+      "number": "P-A 017",
+      "name": "Mankey",
+      "collection_name": "Promo",
+      "rarity": "Unknown",
+      "image_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+    },
+    "stats": {
+      "hp": "50",
+      "stage": "Basic",
+      "type": "Pokemon TCG Pocket - Fighting"
+    },
+    "attacks": [
+      {
+        "name": "Retreat Cost",
+        "cost": [
+          "Pokemon TCG Pocket - Retreat Cost"
+        ],
+        "damage": "This Pokemon also does 10 damage to itself."
+      },
+      {
+        "name": "Reckless Charge",
+        "cost": [
+          "Fighting"
+        ],
+        "damage": "This Pokemon also does 10 damage to itself."
+      }
+    ],
+    "obtained_from": "Open Promo Pack A Series Vol. 1"
+  },
+  {
+    "metadata": {
+      "number": "P-A 018",
+      "name": "Venusaur",
+      "collection_name": "Promo",
+      "rarity": "Unknown",
+      "image_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+    },
+    "stats": {
+      "hp": "160",
+      "stage": "Stage 2",
+      "type": "Pokemon TCG Pocket - Grass"
+    },
+    "attacks": [
+      {
+        "name": "Retreat Cost",
+        "cost": [
+          "Pokemon TCG Pocket - Retreat Cost"
+        ],
+        "damage": "Heal 30 damage from this Pokemon."
+      },
+      {
+        "name": "Mega Drain",
+        "cost": [
+          "Grass 2",
+          "Colorless 2"
+        ],
+        "damage": "Heal 30 damage from this Pokemon."
+      }
+    ],
+    "obtained_from": "Open Promo Pack A Series Vol. 2"
+  },
+  {
+    "metadata": {
+      "number": "P-A 019",
+      "name": "Greninja",
+      "collection_name": "Promo",
+      "rarity": "Unknown",
+      "image_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+    },
+    "stats": {
+      "hp": "120",
+      "stage": "Stage 2",
+      "type": "Pokemon TCG Pocket - Water"
+    },
+    "attacks": [
+      {
+        "name": "Retreat Cost",
+        "cost": [
+          "Pokemon TCG Pocket - Retreat Cost"
+        ],
+        "damage": "60"
+      },
+      {
+        "name": "Mist Slash",
+        "cost": [
+          "Water",
+          "Colorless"
+        ],
+        "damage": "60"
+      }
+    ],
+    "obtained_from": "Open Promo Pack A Series Vol. 2"
+  },
+  {
+    "metadata": {
+      "number": "P-A 020",
+      "name": "Haunter",
+      "collection_name": "Promo",
+      "rarity": "Unknown",
+      "image_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+    },
+    "stats": {
+      "hp": "70",
+      "stage": "Stage 1",
+      "type": "Pokemon TCG Pocket - Psychic"
+    },
+    "attacks": [
+      {
+        "name": "Retreat Cost",
+        "cost": [
+          "Pokemon TCG Pocket - Retreat Cost"
+        ],
+        "damage": "Flip a coin. If tails, this attack does nothing."
+      },
+      {
+        "name": "Surprise Attack",
+        "cost": [
+          "Psychic"
+        ],
+        "damage": "Flip a coin. If tails, this attack does nothing."
+      }
+    ],
+    "obtained_from": "Open Promo Pack A Series Vol. 2"
+  },
+  {
+    "metadata": {
+      "number": "P-A 021",
+      "name": "Onix",
+      "collection_name": "Promo",
+      "rarity": "Unknown",
+      "image_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+    },
+    "stats": {
+      "hp": "110",
+      "stage": "Basic",
+      "type": "Pokemon TCG Pocket - Fighting"
+    },
+    "attacks": [
+      {
+        "name": "Retreat Cost",
+        "cost": [
+          "Pokemon TCG Pocket - Retreat Cost"
+        ],
+        "damage": "70"
+      },
+      {
+        "name": "Land Crush",
+        "cost": [
+          "Fighting 3"
+        ],
+        "damage": "70"
+      }
+    ],
+    "obtained_from": "Open Promo Pack A Series Vol. 2"
+  },
+  {
+    "metadata": {
+      "number": "P-A 022",
+      "name": "Jigglypuff",
+      "collection_name": "Promo",
+      "rarity": "Unknown",
+      "image_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+    },
+    "stats": {
+      "hp": "50",
+      "stage": "Basic",
+      "type": "Pokemon TCG Pocket - Colorless"
+    },
+    "attacks": [
+      {
+        "name": "Retreat Cost",
+        "cost": [
+          "Pokemon TCG Pocket - Retreat Cost"
+        ],
+        "damage": "Your opponent's Active Pokemon is now Asleep."
+      },
+      {
+        "name": "Sing",
+        "cost": [
+          "Colorless"
+        ],
+        "damage": "Your opponent's Active Pokemon is now Asleep."
+      }
+    ],
+    "obtained_from": "Open Promo Pack A Series Vol. 2"
+  },
+  {
+    "metadata": {
+      "number": "P-A 023",
+      "name": "Bulbasaur",
+      "collection_name": "Promo",
+      "rarity": "Unknown",
+      "image_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+    },
+    "stats": {
+      "hp": "70",
+      "stage": "Basic",
+      "type": "Pokemon TCG Pocket - Grass"
+    },
+    "attacks": [
+      {
+        "name": "Retreat Cost",
+        "cost": [
+          "Pokemon TCG Pocket - Retreat Cost"
+        ],
+        "damage": "40"
+      },
+      {
+        "name": "Vine Whip",
+        "cost": [
+          "Grass",
+          "Colorless"
+        ],
+        "damage": "40"
+      }
+    ],
+    "obtained_from": "Obtainable from Chansey Wonder Picks"
+  },
+  {
+    "metadata": {
+      "number": "P-A 024",
+      "name": "Magnemite",
+      "collection_name": "Promo",
+      "rarity": "Unknown",
+      "image_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+    },
+    "stats": {
+      "hp": "60",
+      "stage": "Basic",
+      "type": "Pokemon TCG Pocket - Lightning"
+    },
+    "attacks": [
+      {
+        "name": "Retreat Cost",
+        "cost": [
+          "Pokemon TCG Pocket - Retreat Cost"
+        ],
+        "damage": "20"
+      },
+      {
+        "name": "Lightning Ball",
+        "cost": [
+          "Lightning"
+        ],
+        "damage": "20"
+      }
+    ],
+    "obtained_from": "Obtainable from Chansey Wonder Picks"
+  },
+  {
+    "metadata": {
+      "number": "P-A 025",
+      "name": "Moltres ex",
+      "collection_name": "Promo",
+      "rarity": "Unknown",
+      "image_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+    },
+    "stats": {
+      "hp": "140",
+      "stage": "Basic",
+      "type": "Pokemon TCG Pocket - Fire"
+    },
+    "attacks": [
+      {
+        "name": "Retreat Cost",
+        "cost": [
+          "Pokemon TCG Pocket - Retreat Cost"
+        ],
+        "damage": "70"
+      },
+      {
+        "name": "Inferno Dance",
+        "cost": [
+          "Fire"
+        ],
+        "damage": "70"
+      },
+      {
+        "name": "Heat Blast",
+        "cost": [
+          "Fire",
+          "Colorless 2"
+        ],
+        "damage": "70"
+      }
+    ],
+    "obtained_from": "Obtained from a mission"
+  },
+  {
+    "metadata": {
+      "number": "P-A 026",
+      "name": "Pikachu",
+      "collection_name": "Promo",
+      "rarity": "Unknown",
+      "image_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+    },
+    "stats": {
+      "hp": "60",
+      "stage": "Basic",
+      "type": "Pokemon TCG Pocket - Lightning"
+    },
+    "attacks": [
+      {
+        "name": "Retreat Cost",
+        "cost": [
+          "Pokemon TCG Pocket - Retreat Cost"
+        ],
+        "damage": "20"
+      },
+      {
+        "name": "Gnaw",
+        "cost": [
+          "Lightning"
+        ],
+        "damage": "20"
+      }
+    ],
+    "obtained_from": "Obtained from a campaign"
+  },
+  {
+    "metadata": {
+      "number": "P-A 027",
+      "name": "Snivy",
+      "collection_name": "Promo",
+      "rarity": "Unknown",
+      "image_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+    },
+    "stats": {
+      "hp": "60",
+      "stage": "Basic",
+      "type": "Pokemon TCG Pocket - Grass"
+    },
+    "attacks": [
+      {
+        "name": "Retreat Cost",
+        "cost": [
+          "Pokemon TCG Pocket - Retreat Cost"
+        ],
+        "damage": "20"
+      },
+      {
+        "name": "Tackle",
+        "cost": [
+          "Grass"
+        ],
+        "damage": "20"
+      }
+    ],
+    "obtained_from": "Obtained from a promo pack"
+  },
+  {
+    "metadata": {
+      "number": "P-A 028",
+      "name": "Volcarona",
+      "collection_name": "Promo",
+      "rarity": "Unknown",
+      "image_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+    },
+    "stats": {
+      "hp": "120",
+      "stage": "Stage 1",
+      "type": "Pokemon TCG Pocket - Fire"
+    },
+    "attacks": [
+      {
+        "name": "Retreat Cost",
+        "cost": [
+          "Pokemon TCG Pocket - Retreat Cost"
+        ],
+        "damage": "Discard 2 Fire Energy from this Pokemon. This attack does 80 damage to 1 of your opponent's Pokemon."
+      },
+      {
+        "name": "Volcanic Ash",
+        "cost": [
+          "Fire 2",
+          "Colorless"
+        ],
+        "damage": "Discard 2 Fire Energy from this Pokemon. This attack does 80 damage to 1 of your opponent's Pokemon."
+      }
+    ],
+    "obtained_from": "Obtained from a promo pack"
+  },
+  {
+    "metadata": {
+      "number": "P-A 029",
+      "name": "Blastoise",
+      "collection_name": "Promo",
+      "rarity": "Unknown",
+      "image_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+    },
+    "stats": {
+      "hp": "150",
+      "stage": "Stage 2",
+      "type": "Pokemon TCG Pocket - Water"
+    },
+    "attacks": [
+      {
+        "name": "Retreat Cost",
+        "cost": [
+          "Pokemon TCG Pocket - Retreat Cost"
+        ],
+        "damage": "If this Pokemon has at least 2 extra Water Energy attached, this attack does 60 more damage."
+      },
+      {
+        "name": "Hydro Pump",
+        "cost": [
+          "Water 2",
+          "Colorless"
+        ],
+        "damage": "If this Pokemon has at least 2 extra Water Energy attached, this attack does 60 more damage."
+      }
+    ],
+    "obtained_from": "Obtained from a promo pack"
+  },
+  {
+    "metadata": {
+      "number": "P-A 030",
+      "name": "Eevee",
+      "collection_name": "Promo",
+      "rarity": "Unknown",
+      "image_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+    },
+    "stats": {
+      "hp": "60",
+      "stage": "Basic",
+      "type": "Pokemon TCG Pocket - Colorless"
+    },
+    "attacks": [
+      {
+        "name": "Retreat Cost",
+        "cost": [
+          "Pokemon TCG Pocket - Retreat Cost"
+        ],
+        "damage": "During your opponent's next turn, attacks used by the Defending Pokemon do -20 damage."
+      },
+      {
+        "name": "Growl",
+        "cost": [
+          "Colorless"
+        ],
+        "damage": "During your opponent's next turn, attacks used by the Defending Pokemon do -20 damage."
+      }
+    ],
+    "obtained_from": "Obtained from a promo pack"
+  },
+  {
+    "metadata": {
+      "number": "P-A 031",
+      "name": "Cinccino",
+      "collection_name": "Promo",
+      "rarity": "Unknown",
+      "image_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+    },
+    "stats": {
+      "hp": "90",
+      "stage": "Stage 1",
+      "type": "Pokemon TCG Pocket - Colorless"
+    },
+    "attacks": [
+      {
+        "name": "Retreat Cost",
+        "cost": [
+          "Pokemon TCG Pocket - Retreat Cost"
+        ],
+        "damage": "This attack does 30 damage for each of your Benched Pokemon."
+      },
+      {
+        "name": "Do the Wave",
+        "cost": [
+          "Colorless 3"
+        ],
+        "damage": "This attack does 30 damage for each of your Benched Pokemon."
+      }
+    ],
+    "obtained_from": "Obtained from a promo pack"
+  },
+  {
+    "metadata": {
+      "number": "P-A 032",
+      "name": "Charmander",
+      "collection_name": "Promo",
+      "rarity": "Unknown",
+      "image_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+    },
+    "stats": {
+      "hp": "60",
+      "stage": "Basic",
+      "type": "Pokemon TCG Pocket - Fire"
+    },
+    "attacks": [
+      {
+        "name": "Retreat Cost",
+        "cost": [
+          "Pokemon TCG Pocket - Retreat Cost"
+        ],
+        "damage": "Discard a Fire Energy from this Pokemon."
+      },
+      {
+        "name": "Ember",
+        "cost": [
+          "Fire"
+        ],
+        "damage": "Discard a Fire Energy from this Pokemon."
+      }
+    ],
+    "obtained_from": "Obtainable from Chansey Wonder Picks"
+  },
+  {
+    "metadata": {
+      "number": "P-A 033",
+      "name": "Squirtle",
+      "collection_name": "Promo",
+      "rarity": "Unknown",
+      "image_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+    },
+    "stats": {
+      "hp": "60",
+      "stage": "Basic",
+      "type": "Pokemon TCG Pocket - Water"
+    },
+    "attacks": [
+      {
+        "name": "Retreat Cost",
+        "cost": [
+          "Pokemon TCG Pocket - Retreat Cost"
+        ],
+        "damage": "20"
+      },
+      {
+        "name": "Water Gun",
+        "cost": [
+          "Water"
+        ],
+        "damage": "20"
+      }
+    ],
+    "obtained_from": "Obtainable from Chansey Wonder Picks"
+  },
+  {
+    "metadata": {
+      "number": "P-A 034",
+      "name": "Piplup",
+      "collection_name": "Promo",
+      "rarity": "Unknown",
+      "image_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+    },
+    "stats": {
+      "hp": "60",
+      "stage": "Basic",
+      "type": "Pokemon TCG Pocket - Water"
+    },
+    "attacks": [
+      {
+        "name": "Retreat Cost",
+        "cost": [
+          "Pokemon TCG Pocket - Retreat Cost"
+        ],
+        "damage": "Heal 20 damage from this Pokémon."
+      },
+      {
+        "name": "Nap",
+        "cost": [
+          "Colorless"
+        ],
+        "damage": "Heal 20 damage from this Pokémon."
+      }
+    ],
+    "obtained_from": "Obtained from a mission"
+  },
+  {
+    "metadata": {
+      "number": "P-A 035",
+      "name": "Turtwig",
+      "collection_name": "Promo",
+      "rarity": "Unknown",
+      "image_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+    },
+    "stats": {
+      "hp": "80",
+      "stage": "Basic",
+      "type": "Pokemon TCG Pocket - Grass"
+    },
+    "attacks": [
+      {
+        "name": "Retreat Cost",
+        "cost": [
+          "Pokemon TCG Pocket - Retreat Cost"
+        ],
+        "damage": "30"
+      },
+      {
+        "name": "Bite",
+        "cost": [
+          "Grass",
+          "Colorless"
+        ],
+        "damage": "30"
+      }
+    ],
+    "obtained_from": "Obtained from a promo pack"
+  },
+  {
+    "metadata": {
+      "number": "P-A 036",
+      "name": "Electivire",
+      "collection_name": "Promo",
+      "rarity": "Unknown",
+      "image_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+    },
+    "stats": {
+      "hp": "120",
+      "stage": "Stage 1",
+      "type": "Pokemon TCG Pocket - Lightning"
+    },
+    "attacks": [
+      {
+        "name": "Retreat Cost",
+        "cost": [
+          "Pokemon TCG Pocket - Retreat Cost"
+        ],
+        "damage": "If this Pokemon has atleast 2 extra Lightning Energy attatched, this attack does 80 more damage."
+      },
+      {
+        "name": "Exciting Voltage",
+        "cost": [
+          "Lightning 2"
+        ],
+        "damage": "If this Pokemon has atleast 2 extra Lightning Energy attatched, this attack does 80 more damage."
+      }
+    ],
+    "obtained_from": "Obtained from a promo pack"
+  },
+  {
+    "metadata": {
+      "number": "P-A 037",
+      "name": "Cresselia ex",
+      "collection_name": "Promo",
+      "rarity": "Unknown",
+      "image_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+    },
+    "stats": {
+      "hp": "140",
+      "stage": "Basic",
+      "type": "Pokemon TCG Pocket - Psychic"
+    },
+    "attacks": [
+      {
+        "name": "Retreat Cost",
+        "cost": [
+          "Pokemon TCG Pocket - Retreat Cost"
+        ],
+        "damage": "80"
+      },
+      {
+        "name": "Psychic Flash",
+        "cost": [
+          "Psychic 2",
+          "Colorless"
+        ],
+        "damage": "80"
+      }
+    ],
+    "obtained_from": "Obtained from a promo pack"
+  },
+  {
+    "metadata": {
+      "number": "P-A 038",
+      "name": "Misdreavus",
+      "collection_name": "Promo",
+      "rarity": "Unknown",
+      "image_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+    },
+    "stats": {
+      "hp": "60",
+      "stage": "Basic",
+      "type": "Pokemon TCG Pocket - Psychic"
+    },
+    "attacks": [
+      {
+        "name": "Retreat Cost",
+        "cost": [
+          "Pokemon TCG Pocket - Retreat Cost"
+        ],
+        "damage": "Your opponent's Pokemon is now Confused."
+      },
+      {
+        "name": "Confuse Ray",
+        "cost": [
+          "Psychic"
+        ],
+        "damage": "Your opponent's Pokemon is now Confused."
+      }
+    ],
+    "obtained_from": "Obtained from a promo pack"
+  },
+  {
+    "metadata": {
+      "number": "P-A 039",
+      "name": "Skarmory",
+      "collection_name": "Promo",
+      "rarity": "Unknown",
+      "image_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+    },
+    "stats": {
+      "hp": "80",
+      "stage": "Basic",
+      "type": "Pokemon TCG Pocket - Metal"
+    },
+    "attacks": [
+      {
+        "name": "Retreat Cost",
+        "cost": [
+          "Pokemon TCG Pocket - Retreat Cost"
+        ],
+        "damage": "If this Pokemon has a Pokemon Tool attatched, this attack does 30 more damage."
+      },
+      {
+        "name": "Metal Arms",
+        "cost": [
+          "Metal"
+        ],
+        "damage": "If this Pokemon has a Pokemon Tool attatched, this attack does 30 more damage."
+      }
+    ],
+    "obtained_from": "Obtained from a promo pack"
+  },
+  {
+    "metadata": {
+      "number": "P-A 040",
+      "name": "Chimchar",
+      "collection_name": "Promo",
+      "rarity": "Unknown",
+      "image_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+    },
+    "stats": {
+      "hp": "60",
+      "stage": "Basic",
+      "type": "Pokemon TCG Pocket - Fire"
+    },
+    "attacks": [
+      {
+        "name": "Retreat Cost",
+        "cost": [
+          "Pokemon TCG Pocket - Retreat Cost"
+        ],
+        "damage": "20"
+      },
+      {
+        "name": "Scratch",
+        "cost": [
+          "Fire"
+        ],
+        "damage": "20"
+      }
+    ],
+    "obtained_from": "Obtainable from Chansey Wonder Picks"
+  },
+  {
+    "metadata": {
+      "number": "P-A 041",
+      "name": "Togepi",
+      "collection_name": "Promo",
+      "rarity": "Unknown",
+      "image_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+    },
+    "stats": {
+      "hp": "50",
+      "stage": "Basic",
+      "type": "Pokemon TCG Pocket - Psychic"
+    },
+    "attacks": [
+      {
+        "name": "Retreat Cost",
+        "cost": [
+          "Pokemon TCG Pocket - Retreat Cost"
+        ],
+        "damage": "20"
+      },
+      {
+        "name": "Pound",
+        "cost": [
+          "Psychic"
+        ],
+        "damage": "20"
+      }
+    ],
+    "obtained_from": "Obtainable from Chansey Wonder Picks"
+  },
+  {
+    "metadata": {
+      "number": "P-A 042",
+      "name": "Darkrai ex",
+      "collection_name": "Promo",
+      "rarity": "Unknown",
+      "image_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+    },
+    "stats": {
+      "hp": "140",
+      "stage": "Basic",
+      "type": "Pokemon TCG Pocket - Darkness"
+    },
+    "attacks": [
+      {
+        "name": "Retreat Cost",
+        "cost": [
+          "Pokemon TCG Pocket - Retreat Cost"
+        ],
+        "damage": "80"
+      },
+      {
+        "name": "Dark Prism",
+        "cost": [
+          "Darkness 2",
+          "Colorless"
+        ],
+        "damage": "80"
+      }
+    ],
+    "obtained_from": "Obtained from a mission"
+  },
+  {
+    "metadata": {
+      "number": "P-A 043",
+      "name": "Cherrim",
+      "collection_name": "Promo",
+      "rarity": "Unknown",
+      "image_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+    },
+    "stats": {
+      "hp": "80",
+      "stage": "Stage 1",
+      "type": "Pokemon TCG Pocket - Grass"
+    },
+    "attacks": [
+      {
+        "name": "Retreat Cost",
+        "cost": [
+          "Pokemon TCG Pocket - Retreat Cost"
+        ],
+        "damage": "Heal 20 damage from this Pokemon."
+      },
+      {
+        "name": "Leech Seed",
+        "cost": [
+          "Grass 2"
+        ],
+        "damage": "Heal 20 damage from this Pokemon."
+      }
+    ],
+    "obtained_from": "Obtained from a promo pack"
+  },
+  {
+    "metadata": {
+      "number": "P-A 044",
+      "name": "Raichu",
+      "collection_name": "Promo",
+      "rarity": "Unknown",
+      "image_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+    },
+    "stats": {
+      "hp": "90",
+      "stage": "Stage 1",
+      "type": "Pokemon TCG Pocket - Lightning"
+    },
+    "attacks": [
+      {
+        "name": "Retreat Cost",
+        "cost": [
+          "Pokemon TCG Pocket - Retreat Cost"
+        ],
+        "damage": "This attack also does 20 damage to 1 of your opponent's Benched Pokemon."
+      },
+      {
+        "name": "Spark",
+        "cost": [
+          "Lightning 2"
+        ],
+        "damage": "This attack also does 20 damage to 1 of your opponent's Benched Pokemon."
+      }
+    ],
+    "obtained_from": "Obtained from a promo pack"
+  },
+  {
+    "metadata": {
+      "number": "P-A 045",
+      "name": "Nosepass",
+      "collection_name": "Promo",
+      "rarity": "Unknown",
+      "image_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+    },
+    "stats": {
+      "hp": "60",
+      "stage": "Basic",
+      "type": "Pokemon TCG Pocket - Fighting"
+    },
+    "attacks": [
+      {
+        "name": "Retreat Cost",
+        "cost": [
+          "Pokemon TCG Pocket - Retreat Cost"
+        ],
+        "damage": "Flip a coin. If heads, during your opponent's next turn, prevent all damage done to this Pokemon by attacks."
+      },
+      {
+        "name": "Iron Defense",
+        "cost": [
+          "Colorless 2"
+        ],
+        "damage": "Flip a coin. If heads, during your opponent's next turn, prevent all damage done to this Pokemon by attacks."
+      }
+    ],
+    "obtained_from": "Obtained from a promo pack"
+  },
+  {
+    "metadata": {
+      "number": "P-A 046",
+      "name": "Gible",
+      "collection_name": "Promo",
+      "rarity": "Unknown",
+      "image_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+    },
+    "stats": {
+      "hp": "60",
+      "stage": "Basic",
+      "type": "Pokemon TCG Pocket - Fighting"
+    },
+    "attacks": [
+      {
+        "name": "Retreat Cost",
+        "cost": [
+          "Pokemon TCG Pocket - Retreat Cost"
+        ],
+        "damage": "20"
+      },
+      {
+        "name": "Tackle",
+        "cost": [
+          "Fighting"
+        ],
+        "damage": "20"
+      }
+    ],
+    "obtained_from": "Obtained from a promo pack"
+  },
+  {
+    "metadata": {
+      "number": "P-A 047",
+      "name": "Staraptor",
+      "collection_name": "Promo",
+      "rarity": "Unknown",
+      "image_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+    },
+    "stats": {
+      "hp": "140",
+      "stage": "Stage 2",
+      "type": "Pokemon TCG Pocket - Colorless"
+    },
+    "attacks": [
+      {
+        "name": "Retreat Cost",
+        "cost": [
+          "Pokemon TCG Pocket - Retreat Cost"
+        ],
+        "damage": "90"
+      },
+      {
+        "name": "Wing Attack",
+        "cost": [
+          "Colorless 3"
+        ],
+        "damage": "90"
+      }
+    ],
+    "obtained_from": "Obtained from a promo pack"
+  },
+  {
+    "metadata": {
+      "number": "P-A 048",
+      "name": "Manaphy",
+      "collection_name": "Promo",
+      "rarity": "Unknown",
+      "image_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+    },
+    "stats": {
+      "hp": "50",
+      "stage": "Basic",
+      "type": "Pokemon TCG Pocket - Water"
+    },
+    "attacks": [
+      {
+        "name": "Retreat Cost",
+        "cost": [
+          "Pokemon TCG Pocket - Retreat Cost"
+        ],
+        "damage": "Choose 2 of your Benched Pokémon. For each of those Pokémon, take a Water Energy from your Energy Zone and attach it to that Pokémon."
+      },
+      {
+        "name": "Oceanic Gift",
+        "cost": [
+          "Water"
+        ],
+        "damage": "Choose 2 of your Benched Pokémon. For each of those Pokémon, take a Water Energy from your Energy Zone and attach it to that Pokémon."
+      }
+    ],
+    "obtained_from": "Obtainable from Chansey Wonder Picks"
+  },
+  {
+    "metadata": {
+      "number": "P-A 049",
+      "name": "Snorlax",
+      "collection_name": "Promo",
+      "rarity": "Unknown",
+      "image_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+    },
+    "stats": {
+      "hp": "140",
+      "stage": "Basic",
+      "type": "Pokemon TCG Pocket - Colorless"
+    },
+    "attacks": [
+      {
+        "name": "Retreat Cost",
+        "cost": [
+          "Pokemon TCG Pocket - Retreat Cost"
+        ],
+        "damage": "This Pokemon is now Asleep."
+      },
+      {
+        "name": "Collapse",
+        "cost": [
+          "Colorless 4"
+        ],
+        "damage": "This Pokemon is now Asleep."
+      }
+    ],
+    "obtained_from": "Obtainable from Chansey Wonder Picks"
+  },
+  {
+    "metadata": {
+      "number": "P-A 050",
+      "name": "Mewtwo ex",
+      "collection_name": "Promo",
+      "rarity": "Unknown",
+      "image_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+    },
+    "stats": {
+      "hp": "150",
+      "stage": "Basic",
+      "type": "Pokemon TCG Pocket - Psychic"
+    },
+    "attacks": [
+      {
+        "name": "Retreat Cost",
+        "cost": [
+          "Pokemon TCG Pocket - Retreat Cost"
+        ],
+        "damage": "Discard 2 Psychic Energy from this Pokémon."
+      },
+      {
+        "name": "Psychic Sphere",
+        "cost": [
+          "Psychic",
+          "Colorless"
+        ],
+        "damage": "Discard 2 Psychic Energy from this Pokémon."
+      },
+      {
+        "name": "Psydrive",
+        "cost": [
+          "Psychic 2",
+          "Colorless 2"
+        ],
+        "damage": "Discard 2 Psychic Energy from this Pokémon."
+      }
+    ],
+    "obtained_from": "Obtained from a mission"
+  },
+  {
+    "metadata": {
+      "number": "P-A 051",
+      "name": "Cyclizar",
+      "collection_name": "Promo",
+      "rarity": "Unknown",
+      "image_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+    },
+    "stats": {
+      "hp": "80",
+      "stage": "Basic",
+      "type": "Pokemon TCG Pocket - Colorless"
+    },
+    "attacks": [
+      {
+        "name": "Retreat Cost",
+        "cost": [
+          "Pokemon TCG Pocket - Retreat Cost"
+        ],
+        "damage": "During your next turn, this Pokémon's Overacceleration attack does 20+ damage"
+      },
+      {
+        "name": "Overacceleration",
+        "cost": [
+          "Colorless"
+        ],
+        "damage": "During your next turn, this Pokémon's Overacceleration attack does 20+ damage"
+      }
+    ],
+    "obtained_from": "Obtained from a campaign"
+  },
+  {
+    "metadata": {
+      "number": "P-A 052",
+      "name": "Sprigatito",
+      "collection_name": "Promo",
+      "rarity": "Unknown",
+      "image_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+    },
+    "stats": {
+      "hp": "60",
+      "stage": "Basic",
+      "type": "Pokemon TCG Pocket - Grass"
+    },
+    "attacks": [
+      {
+        "name": "Retreat Cost",
+        "cost": [
+          "Pokemon TCG Pocket - Retreat Cost"
+        ],
+        "damage": "Put 1 random Grass Pokémon from your deck into your hand."
+      },
+      {
+        "name": "Cry for Help",
+        "cost": [
+          "Grass"
+        ],
+        "damage": "Put 1 random Grass Pokémon from your deck into your hand."
+      }
+    ],
+    "obtained_from": "Obtained from a mission"
+  },
+  {
+    "metadata": {
+      "number": "P-A 053",
+      "name": "Floatzel",
+      "collection_name": "Promo",
+      "rarity": "Unknown",
+      "image_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+    },
+    "stats": {
+      "hp": "100",
+      "stage": "Stage 1",
+      "type": "Pokemon TCG Pocket - Water"
+    },
+    "attacks": [
+      {
+        "name": "Retreat Cost",
+        "cost": [
+          "Pokemon TCG Pocket - Retreat Cost"
+        ],
+        "damage": "If your opponent's Active Pokémon has damage on it, this attack does 60 more damage."
+      },
+      {
+        "name": "Attack the Wound",
+        "cost": [
+          "Water"
+        ],
+        "damage": "If your opponent's Active Pokémon has damage on it, this attack does 60 more damage."
+      }
+    ],
+    "obtained_from": "Obtained from a promo pack"
+  },
+  {
+    "metadata": {
+      "number": "P-A 054",
+      "name": "Pawmot",
+      "collection_name": "Promo",
+      "rarity": "Unknown",
+      "image_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+    },
+    "stats": {
+      "hp": "140",
+      "stage": "Stage 2",
+      "type": "Pokemon TCG Pocket - Lightning"
+    },
+    "attacks": [
+      {
+        "name": "Retreat Cost",
+        "cost": [
+          "Pokemon TCG Pocket - Retreat Cost"
+        ],
+        "damage": "70"
+      },
+      {
+        "name": "Electric Punch",
+        "cost": [
+          "Lightning 2"
+        ],
+        "damage": "70"
+      }
+    ],
+    "obtained_from": "Obtained from a promo pack"
+  },
+  {
+    "metadata": {
+      "number": "P-A 055",
+      "name": "Machamp",
+      "collection_name": "Promo",
+      "rarity": "Unknown",
+      "image_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+    },
+    "stats": {
+      "hp": "150",
+      "stage": "Stage 2",
+      "type": "Pokemon TCG Pocket - Fighting"
+    },
+    "attacks": [
+      {
+        "name": "Retreat Cost",
+        "cost": [
+          "Pokemon TCG Pocket - Retreat Cost"
+        ],
+        "damage": "If this Pokémon has at least 2 extra Fighting Energy attached, this attack does 50 more damage."
+      },
+      {
+        "name": "Power Press",
+        "cost": [
+          "Fighting 2"
+        ],
+        "damage": "If this Pokémon has at least 2 extra Fighting Energy attached, this attack does 50 more damage."
+      }
+    ],
+    "obtained_from": "Obtained from a promo pack"
+  },
+  {
+    "metadata": {
+      "number": "P-A 056",
+      "name": "Ekans",
+      "collection_name": "Promo",
+      "rarity": "Unknown",
+      "image_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+    },
+    "stats": {
+      "hp": "60",
+      "stage": "Basic",
+      "type": "Pokemon TCG Pocket - Darkness"
+    },
+    "attacks": [
+      {
+        "name": "Retreat Cost",
+        "cost": [
+          "Pokemon TCG Pocket - Retreat Cost"
+        ],
+        "damage": "Your opponent's Active Pokémon is now Poisoned."
+      },
+      {
+        "name": "Poison Sting",
+        "cost": [
+          "Darkness"
+        ],
+        "damage": "Your opponent's Active Pokémon is now Poisoned."
+      }
+    ],
+    "obtained_from": "Obtained from a promo pack"
+  },
+  {
+    "metadata": {
+      "number": "P-A 057",
+      "name": "Bidoof",
+      "collection_name": "Promo",
+      "rarity": "Unknown",
+      "image_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+    },
+    "stats": {
+      "hp": "70",
+      "stage": "Basic",
+      "type": "Pokemon TCG Pocket - Colorless"
+    },
+    "attacks": [
+      {
+        "name": "Retreat Cost",
+        "cost": [
+          "Pokemon TCG Pocket - Retreat Cost"
+        ],
+        "damage": "30"
+      },
+      {
+        "name": "Headbutt",
+        "cost": [
+          "Colorless 2"
+        ],
+        "damage": "30"
+      }
+    ],
+    "obtained_from": "Obtained from a promo pack"
+  },
+  {
+    "metadata": {
+      "number": "P-A 058",
+      "name": "Pachirisu",
+      "collection_name": "Promo",
+      "rarity": "Unknown",
+      "image_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+    },
+    "stats": {
+      "hp": "70",
+      "stage": "Basic",
+      "type": "Pokemon TCG Pocket - Lightning"
+    },
+    "attacks": [
+      {
+        "name": "Retreat Cost",
+        "cost": [
+          "Pokemon TCG Pocket - Retreat Cost"
+        ],
+        "damage": "Take a Lightning Energy from your Energy Zone and attach it to 1 of your Benched Lightning Pokémon."
+      },
+      {
+        "name": "Plasma",
+        "cost": [
+          "Lightning"
+        ],
+        "damage": "Take a Lightning Energy from your Energy Zone and attach it to 1 of your Benched Lightning Pokémon."
+      }
+    ],
+    "obtained_from": "Obtainable from Chansey Wonder Picks"
+  },
+  {
+    "metadata": {
+      "number": "P-A 059",
+      "name": "Riolu",
+      "collection_name": "Promo",
+      "rarity": "Unknown",
+      "image_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+    },
+    "stats": {
+      "hp": "70",
+      "stage": "Basic",
+      "type": "Pokemon TCG Pocket - Fighting"
+    },
+    "attacks": [
+      {
+        "name": "Retreat Cost",
+        "cost": [
+          "Pokemon TCG Pocket - Retreat Cost"
+        ],
+        "damage": "40"
+      },
+      {
+        "name": "Punch",
+        "cost": [
+          "Fighting 2"
+        ],
+        "damage": "40"
+      }
+    ],
+    "obtained_from": "Obtainable from Chansey Wonder Picks"
+  },
+  {
+    "metadata": {
+      "number": "P-A 060",
+      "name": "Exeggcute",
+      "collection_name": "Promo",
+      "rarity": "Unknown",
+      "image_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+    },
+    "stats": {
+      "hp": "50",
+      "stage": "Basic",
+      "type": "Pokemon TCG Pocket - Grass"
+    },
+    "attacks": [
+      {
+        "name": "Retreat Cost",
+        "cost": [
+          "Pokemon TCG Pocket - Retreat Cost"
+        ],
+        "damage": "Take a Grass Energy from your Energy Zone and attach it to this Pokemon."
+      },
+      {
+        "name": "Growth Spurt",
+        "cost": [
+          "Colorless"
+        ],
+        "damage": "Take a Grass Energy from your Energy Zone and attach it to this Pokemon."
+      }
+    ],
+    "obtained_from": "Obtained from a promo pack"
+  },
+  {
+    "metadata": {
+      "number": "P-A 061",
+      "name": "Froakie",
+      "collection_name": "Promo",
+      "rarity": "Unknown",
+      "image_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+    },
+    "stats": {
+      "hp": "60",
+      "stage": "Basic",
+      "type": "Pokemon TCG Pocket - Water"
+    },
+    "attacks": [
+      {
+        "name": "Retreat Cost",
+        "cost": [
+          "Pokemon TCG Pocket - Retreat Cost"
+        ],
+        "damage": "10"
+      },
+      {
+        "name": "Flop",
+        "cost": [
+          "Colorless"
+        ],
+        "damage": "10"
+      }
+    ],
+    "obtained_from": "Obtained from a promo pack"
+  },
+  {
+    "metadata": {
+      "number": "P-A 062",
+      "name": "Farfetch'd",
+      "collection_name": "Promo",
+      "rarity": "Unknown",
+      "image_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+    },
+    "stats": {
+      "hp": "60",
+      "stage": "Basic",
+      "type": "Pokemon TCG Pocket - Colorless"
+    },
+    "attacks": [
+      {
+        "name": "Retreat Cost",
+        "cost": [
+          "Pokemon TCG Pocket - Retreat Cost"
+        ],
+        "damage": "40"
+      },
+      {
+        "name": "Leek Slap",
+        "cost": [
+          "Colorless"
+        ],
+        "damage": "40"
+      }
+    ],
+    "obtained_from": "Obtained from a promo pack"
+  },
+  {
+    "metadata": {
+      "number": "P-A 063",
+      "name": "Rayquaza",
+      "collection_name": "Promo",
+      "rarity": "Unknown",
+      "image_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+    },
+    "stats": {
+      "hp": "100",
+      "stage": "Basic",
+      "type": "Pokemon TCG Pocket - Colorless"
+    },
+    "attacks": [
+      {
+        "name": "Retreat Cost",
+        "cost": [
+          "Pokemon TCG Pocket - Retreat Cost"
+        ],
+        "damage": "Flip a coin until you get tails. This attack does 30 more damage for each heads."
+      },
+      {
+        "name": "Spiral Rush",
+        "cost": [
+          "Colorless 4"
+        ],
+        "damage": "Flip a coin until you get tails. This attack does 30 more damage for each heads."
+      }
+    ],
+    "obtained_from": "Obtained from a promo pack"
+  },
+  {
+    "metadata": {
+      "number": "P-A 064",
+      "name": "Rayquaza ex",
+      "collection_name": "Promo",
+      "rarity": "Unknown",
+      "image_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+    },
+    "stats": {
+      "hp": "140",
+      "stage": "Basic",
+      "type": "Pokemon TCG Pocket - Colorless"
+    },
+    "attacks": [
+      {
+        "name": "Retreat Cost",
+        "cost": [
+          "Pokemon TCG Pocket - Retreat Cost"
+        ],
+        "damage": "1 of your opponent's Pokemon is chosen at random 4 times. For each time a Pokemon was chosen, do 40 damage to it."
+      },
+      {
+        "name": "Draco Meteor",
+        "cost": [
+          "Colorless 4"
+        ],
+        "damage": "1 of your opponent's Pokemon is chosen at random 4 times. For each time a Pokemon was chosen, do 40 damage to it."
+      }
+    ],
+    "obtained_from": "Obtained from a promo pack"
+  },
+  {
+    "metadata": {
+      "number": "P-A 065",
+      "name": "Rayquaza ex",
+      "collection_name": "Promo",
+      "rarity": "Unknown",
+      "image_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+    },
+    "stats": {
+      "hp": "140",
+      "stage": "Basic",
+      "type": "Pokemon TCG Pocket - Colorless"
+    },
+    "attacks": [
+      {
+        "name": "Retreat Cost",
+        "cost": [
+          "Pokemon TCG Pocket - Retreat Cost"
+        ],
+        "damage": "1 of your opponent's Pokemon is chosen at random 4 times. For each time a Pokemon was chosen, do 40 damage to it."
+      },
+      {
+        "name": "Draco Meteor",
+        "cost": [
+          "Colorless 4"
+        ],
+        "damage": "1 of your opponent's Pokemon is chosen at random 4 times. For each time a Pokemon was chosen, do 40 damage to it."
+      }
+    ],
+    "obtained_from": "Obtained from a Special Mission"
+  },
+  {
+    "metadata": {
+      "number": "P-A 066",
+      "name": "Mimikyu",
+      "collection_name": "Promo",
+      "rarity": "Unknown",
+      "image_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+    },
+    "stats": {
+      "hp": "70",
+      "stage": "Basic",
+      "type": "Pokemon TCG Pocket - Psychic"
+    },
+    "attacks": [
+      {
+        "name": "Retreat Cost",
+        "cost": [
+          "Pokemon TCG Pocket - Retreat Cost"
+        ],
+        "damage": "This attack also does 20 damage to 1 of your Pokémon."
+      },
+      {
+        "name": "Shadow Hit",
+        "cost": [
+          "Psychic",
+          "Colorless"
+        ],
+        "damage": "This attack also does 20 damage to 1 of your Pokémon."
+      }
+    ],
+    "obtained_from": "Obtained from a mission"
+  },
+  {
+    "metadata": {
+      "number": "P-A 067",
+      "name": "Cosmog",
+      "collection_name": "Promo",
+      "rarity": "Unknown",
+      "image_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+    },
+    "stats": {
+      "hp": "60",
+      "stage": "Basic",
+      "type": "Pokemon TCG Pocket - Psychic"
+    },
+    "attacks": [
+      {
+        "name": "Retreat Cost",
+        "cost": [
+          "Pokemon TCG Pocket - Retreat Cost"
+        ],
+        "damage": "Switch this Pokemon with 1 of your Benched Pokemon"
+      },
+      {
+        "name": "Teleport",
+        "cost": [
+          "Colorless"
+        ],
+        "damage": "Switch this Pokemon with 1 of your Benched Pokemon"
+      }
+    ],
+    "obtained_from": "Obtainable from Chansey Wonder Picks"
+  },
+  {
+    "metadata": {
+      "number": "P-A 068",
+      "name": "Lycanroc",
+      "collection_name": "Promo",
+      "rarity": "Unknown",
+      "image_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+    },
+    "stats": {
+      "hp": "100",
+      "stage": "Stage 1",
+      "type": "Pokemon TCG Pocket - Fighting"
+    },
+    "attacks": [
+      {
+        "name": "Retreat Cost",
+        "cost": [
+          "Pokemon TCG Pocket - Retreat Cost"
+        ],
+        "damage": "Flip a coin. If heads, discard a random Energy from your opponent's Active Pokemon."
+      },
+      {
+        "name": "Crunch",
+        "cost": [
+          "Fighting 2",
+          "Colorless"
+        ],
+        "damage": "Flip a coin. If heads, discard a random Energy from your opponent's Active Pokemon."
+      }
+    ],
+    "obtained_from": "Obtainable from Chansey Wonder Picks"
+  },
+  {
+    "metadata": {
+      "number": "P-A 069",
+      "name": "Alolan Exeggutor",
+      "collection_name": "Promo",
+      "rarity": "Unknown",
+      "image_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+    },
+    "stats": {
+      "hp": "150",
+      "stage": "Stage 1",
+      "type": "Pokemon TCG Pocket - Grass"
+    },
+    "attacks": [
+      {
+        "name": "Retreat Cost",
+        "cost": [
+          "Pokemon TCG Pocket - Retreat Cost"
+        ],
+        "damage": "Flip a coin. If tails, this attack does nothing."
+      },
+      {
+        "name": "Tropical Hammer",
+        "cost": [
+          "Grass",
+          "Colorless 2"
+        ],
+        "damage": "Flip a coin. If tails, this attack does nothing."
+      }
+    ],
+    "obtained_from": "Obtained from a promo pack"
+  },
+  {
+    "metadata": {
+      "number": "P-A 070",
+      "name": "Alolan Ninetales",
+      "collection_name": "Promo",
+      "rarity": "Unknown",
+      "image_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+    },
+    "stats": {
+      "hp": "110",
+      "stage": "Stage 1",
+      "type": "Pokemon TCG Pocket - Water"
+    },
+    "attacks": [
+      {
+        "name": "Retreat Cost",
+        "cost": [
+          "Pokemon TCG Pocket - Retreat Cost"
+        ],
+        "damage": "This attack also does 20 damage to each of your opponent's Benched Pokemon."
+      },
+      {
+        "name": "Blizzard",
+        "cost": [
+          "Water 3"
+        ],
+        "damage": "This attack also does 20 damage to each of your opponent's Benched Pokemon."
+      }
+    ],
+    "obtained_from": "Obtained from a promo pack"
+  },
+  {
+    "metadata": {
+      "number": "P-A 071",
+      "name": "Crabrawler",
+      "collection_name": "Promo",
+      "rarity": "Unknown",
+      "image_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+    },
+    "stats": {
+      "hp": "70",
+      "stage": "Basic",
+      "type": "Pokemon TCG Pocket - Fighting"
+    },
+    "attacks": [
+      {
+        "name": "Retreat Cost",
+        "cost": [
+          "Pokemon TCG Pocket - Retreat Cost"
+        ],
+        "damage": "20"
+      },
+      {
+        "name": "Punch",
+        "cost": [
+          "Colorless"
+        ],
+        "damage": "20"
+      }
+    ],
+    "obtained_from": "Obtained from a promo pack"
+  },
+  {
+    "metadata": {
+      "number": "P-A 072",
+      "name": "Alolan Grimer",
+      "collection_name": "Promo",
+      "rarity": "Unknown",
+      "image_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+    },
+    "stats": {
+      "hp": "70",
+      "stage": "Basic",
+      "type": "Pokemon TCG Pocket - Darkness"
+    },
+    "attacks": [
+      {
+        "name": "Retreat Cost",
+        "cost": [
+          "Pokemon TCG Pocket - Retreat Cost"
+        ],
+        "damage": "Your opponent's Active Pokemon is now Poisoned."
+      },
+      {
+        "name": "Poison Gas",
+        "cost": [
+          "Darkness"
+        ],
+        "damage": "Your opponent's Active Pokemon is now Poisoned."
+      }
+    ],
+    "obtained_from": "Obtained from a promo pack"
+  },
+  {
+    "metadata": {
+      "number": "P-A 073",
+      "name": "Toucannon",
+      "collection_name": "Promo",
+      "rarity": "Unknown",
+      "image_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+    },
+    "stats": {
+      "hp": "140",
+      "stage": "Stage 2",
+      "type": "Pokemon TCG Pocket - Colorless"
+    },
+    "attacks": [
+      {
+        "name": "Retreat Cost",
+        "cost": [
+          "Pokemon TCG Pocket - Retreat Cost"
+        ],
+        "damage": "80"
+      },
+      {
+        "name": "Beak Blast",
+        "cost": [
+          "Colorless 2"
+        ],
+        "damage": "80"
+      }
+    ],
+    "obtained_from": "Obtained from a promo pack"
+  }
+]

@@ -1,0 +1,3340 @@
+[
+  {
+    "metadata": {
+      "number": "A2b 001",
+      "name": "Weedle",
+      "collection_name": "Shining Revelry (A2b)",
+      "rarity": "Common",
+      "image_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+    },
+    "stats": {
+      "hp": "50",
+      "stage": "Basic",
+      "type": "Pokemon TCG Pocket - Grass"
+    },
+    "attacks": [
+      {
+        "name": "Retreat Cost",
+        "cost": [
+          "Pokemon TCG Pocket - Retreat Cost"
+        ],
+        "damage": "Put 1 random Weedle from your deck onto your Bench."
+      },
+      {
+        "name": "Multiply",
+        "cost": [
+          "Grass"
+        ],
+        "damage": "Put 1 random Weedle from your deck onto your Bench."
+      }
+    ],
+    "obtained_from": "Open Shining Revelry (A2b) packs"
+  },
+  {
+    "metadata": {
+      "number": "A2b 002",
+      "name": "Kakuna",
+      "collection_name": "Shining Revelry (A2b)",
+      "rarity": "Uncommon",
+      "image_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+    },
+    "stats": {
+      "hp": "80",
+      "stage": "Stage 1",
+      "type": "Pokemon TCG Pocket - Grass"
+    },
+    "attacks": [
+      {
+        "name": "Retreat Cost",
+        "cost": [
+          "Pokemon TCG Pocket - Retreat Cost"
+        ],
+        "damage": "Flip a coin. If heads, your opponent's Active Pokemon is now Paralyzed."
+      },
+      {
+        "name": "String Shot",
+        "cost": [
+          "Grass"
+        ],
+        "damage": "Flip a coin. If heads, your opponent's Active Pokemon is now Paralyzed."
+      }
+    ],
+    "obtained_from": "Open Shining Revelry (A2b) packs"
+  },
+  {
+    "metadata": {
+      "number": "A2b 003",
+      "name": "Beedrill ex",
+      "collection_name": "Shining Revelry (A2b)",
+      "rarity": "Super Rare",
+      "image_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+    },
+    "stats": {
+      "hp": "170",
+      "stage": "Stage 2",
+      "type": "Pokemon TCG Pocket - Grass"
+    },
+    "attacks": [
+      {
+        "name": "Retreat Cost",
+        "cost": [
+          "Pokemon TCG Pocket - Retreat Cost"
+        ],
+        "damage": "Discard a random Energy from your opponent's Active Pokemon."
+      },
+      {
+        "name": "Crushing Spear",
+        "cost": [
+          "Grass 2"
+        ],
+        "damage": "Discard a random Energy from your opponent's Active Pokemon."
+      }
+    ],
+    "obtained_from": "Open Shining Revelry (A2b) packs"
+  },
+  {
+    "metadata": {
+      "number": "A2b 004",
+      "name": "Pinsir",
+      "collection_name": "Shining Revelry (A2b)",
+      "rarity": "Common",
+      "image_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+    },
+    "stats": {
+      "hp": "90",
+      "stage": "Basic",
+      "type": "Pokemon TCG Pocket - Grass"
+    },
+    "attacks": [
+      {
+        "name": "Retreat Cost",
+        "cost": [
+          "Pokemon TCG Pocket - Retreat Cost"
+        ],
+        "damage": "Flip a coin until you get tails. This attack does 40 more damage for each heads."
+      },
+      {
+        "name": "Guillotine Rush",
+        "cost": [
+          "Grass",
+          "Colorless 2"
+        ],
+        "damage": "Flip a coin until you get tails. This attack does 40 more damage for each heads."
+      }
+    ],
+    "obtained_from": "Open Shining Revelry (A2b) packs"
+  },
+  {
+    "metadata": {
+      "number": "A2b 005",
+      "name": "Sprigatito",
+      "collection_name": "Shining Revelry (A2b)",
+      "rarity": "Common",
+      "image_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+    },
+    "stats": {
+      "hp": "60",
+      "stage": "Basic",
+      "type": "Pokemon TCG Pocket - Grass"
+    },
+    "attacks": [
+      {
+        "name": "Retreat Cost",
+        "cost": [
+          "Pokemon TCG Pocket - Retreat Cost"
+        ],
+        "damage": "Put 1 random Grass-type Pokemon from your deck into your hand."
+      },
+      {
+        "name": "Cry for Help",
+        "cost": [
+          "Grass"
+        ],
+        "damage": "Put 1 random Grass-type Pokemon from your deck into your hand."
+      }
+    ],
+    "obtained_from": "Open Shining Revelry (A2b) packs"
+  },
+  {
+    "metadata": {
+      "number": "A2b 006",
+      "name": "Floragato",
+      "collection_name": "Shining Revelry (A2b)",
+      "rarity": "Uncommon",
+      "image_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+    },
+    "stats": {
+      "hp": "90",
+      "stage": "Stage 1",
+      "type": "Pokemon TCG Pocket - Grass"
+    },
+    "attacks": [
+      {
+        "name": "Retreat Cost",
+        "cost": [
+          "Pokemon TCG Pocket - Retreat Cost"
+        ],
+        "damage": "50"
+      },
+      {
+        "name": "Slash",
+        "cost": [
+          "Grass 2"
+        ],
+        "damage": "50"
+      }
+    ],
+    "obtained_from": "Open Shining Revelry (A2b) packs"
+  },
+  {
+    "metadata": {
+      "number": "A2b 007",
+      "name": "Meowscarada",
+      "collection_name": "Shining Revelry (A2b)",
+      "rarity": "Rare",
+      "image_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+    },
+    "stats": {
+      "hp": "140",
+      "stage": "Stage 2",
+      "type": "Pokemon TCG Pocket - Grass"
+    },
+    "attacks": [
+      {
+        "name": "Retreat Cost",
+        "cost": [
+          "Pokemon TCG Pocket - Retreat Cost"
+        ],
+        "damage": "If your opponent's Active Pokemon is a Pokemon ex, this attack does 70 more damage."
+      },
+      {
+        "name": "Fighting Claws",
+        "cost": [
+          "Grass 2"
+        ],
+        "damage": "If your opponent's Active Pokemon is a Pokemon ex, this attack does 70 more damage."
+      }
+    ],
+    "obtained_from": "Open Shining Revelry (A2b) packs"
+  },
+  {
+    "metadata": {
+      "number": "A2b 008",
+      "name": "Charmander",
+      "collection_name": "Shining Revelry (A2b)",
+      "rarity": "Common",
+      "image_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+    },
+    "stats": {
+      "hp": "60",
+      "stage": "Basic",
+      "type": "Pokemon TCG Pocket - Fire"
+    },
+    "attacks": [
+      {
+        "name": "Retreat Cost",
+        "cost": [
+          "Pokemon TCG Pocket - Retreat Cost"
+        ],
+        "damage": "20"
+      },
+      {
+        "name": "Combustion",
+        "cost": [
+          "Fire"
+        ],
+        "damage": "20"
+      }
+    ],
+    "obtained_from": "Open Shining Revelry (A2b) packs"
+  },
+  {
+    "metadata": {
+      "number": "A2b 009",
+      "name": "Charmeleon",
+      "collection_name": "Shining Revelry (A2b)",
+      "rarity": "Uncommon",
+      "image_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+    },
+    "stats": {
+      "hp": "90",
+      "stage": "Stage 1",
+      "type": "Pokemon TCG Pocket - Fire"
+    },
+    "attacks": [
+      {
+        "name": "Retreat Cost",
+        "cost": [
+          "Pokemon TCG Pocket - Retreat Cost"
+        ],
+        "damage": "40"
+      },
+      {
+        "name": "Combustion",
+        "cost": [
+          "Fire 2"
+        ],
+        "damage": "40"
+      }
+    ],
+    "obtained_from": "Open Shining Revelry (A2b) packs"
+  },
+  {
+    "metadata": {
+      "number": "A2b 010",
+      "name": "Charizard ex",
+      "collection_name": "Shining Revelry (A2b)",
+      "rarity": "Super Rare",
+      "image_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+    },
+    "stats": {
+      "hp": "180",
+      "stage": "Stage 2",
+      "type": "Pokemon TCG Pocket - Fire"
+    },
+    "attacks": [
+      {
+        "name": "Retreat Cost",
+        "cost": [
+          "Pokemon TCG Pocket - Retreat Cost"
+        ],
+        "damage": "150"
+      },
+      {
+        "name": "Stoke",
+        "cost": [
+          "Fire"
+        ],
+        "damage": "150"
+      },
+      {
+        "name": "Steam Artillery",
+        "cost": [
+          "Fire 3"
+        ],
+        "damage": "150"
+      }
+    ],
+    "obtained_from": "Open Shining Revelry (A2b) packs"
+  },
+  {
+    "metadata": {
+      "number": "A2b 011",
+      "name": "Magmar",
+      "collection_name": "Shining Revelry (A2b)",
+      "rarity": "Common",
+      "image_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+    },
+    "stats": {
+      "hp": "70",
+      "stage": "Basic",
+      "type": "Pokemon TCG Pocket - Fire"
+    },
+    "attacks": [
+      {
+        "name": "Retreat Cost",
+        "cost": [
+          "Pokemon TCG Pocket - Retreat Cost"
+        ],
+        "damage": "20"
+      },
+      {
+        "name": "Flare",
+        "cost": [
+          "Fire"
+        ],
+        "damage": "20"
+      }
+    ],
+    "obtained_from": "Open Shining Revelry (A2b) packs"
+  },
+  {
+    "metadata": {
+      "number": "A2b 012",
+      "name": "Magmortar",
+      "collection_name": "Shining Revelry (A2b)",
+      "rarity": "Rare",
+      "image_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+    },
+    "stats": {
+      "hp": "120",
+      "stage": "Stage 1",
+      "type": "Pokemon TCG Pocket - Fire"
+    },
+    "attacks": [
+      {
+        "name": "Retreat Cost",
+        "cost": [
+          "Pokemon TCG Pocket - Retreat Cost"
+        ],
+        "damage": "During your opponent's next turn, if the Defending Pokemon tries to use an attack, your opponent flips a coin. If tails, that attack doesn't happen."
+      },
+      {
+        "name": "Smoke Bomb",
+        "cost": [
+          "Fire 2",
+          "Colorless"
+        ],
+        "damage": "During your opponent's next turn, if the Defending Pokemon tries to use an attack, your opponent flips a coin. If tails, that attack doesn't happen."
+      }
+    ],
+    "obtained_from": "Open Shining Revelry (A2b) packs"
+  },
+  {
+    "metadata": {
+      "number": "A2b 013",
+      "name": "Paldean Tauros",
+      "collection_name": "Shining Revelry (A2b)",
+      "rarity": "Uncommon",
+      "image_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+    },
+    "stats": {
+      "hp": "110",
+      "stage": "Basic",
+      "type": "Pokemon TCG Pocket - Fire"
+    },
+    "attacks": [
+      {
+        "name": "Retreat Cost",
+        "cost": [
+          "Pokemon TCG Pocket - Retreat Cost"
+        ],
+        "damage": "This Pokemon also does 10 damage to itself."
+      },
+      {
+        "name": "Blaze Tackle",
+        "cost": [
+          "Fire",
+          "Colorless 2"
+        ],
+        "damage": "This Pokemon also does 10 damage to itself."
+      }
+    ],
+    "obtained_from": "Open Shining Revelry (A2b) packs"
+  },
+  {
+    "metadata": {
+      "number": "A2b 014",
+      "name": "Tentacool",
+      "collection_name": "Shining Revelry (A2b)",
+      "rarity": "Common",
+      "image_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+    },
+    "stats": {
+      "hp": "70",
+      "stage": "Basic",
+      "type": "Pokemon TCG Pocket - Water"
+    },
+    "attacks": [
+      {
+        "name": "Retreat Cost",
+        "cost": [
+          "Pokemon TCG Pocket - Retreat Cost"
+        ],
+        "damage": "10"
+      },
+      {
+        "name": "Rain Splash",
+        "cost": [
+          "Water"
+        ],
+        "damage": "10"
+      }
+    ],
+    "obtained_from": "Open Shining Revelry (A2b) packs"
+  },
+  {
+    "metadata": {
+      "number": "A2b 015",
+      "name": "Tentacruel",
+      "collection_name": "Shining Revelry (A2b)",
+      "rarity": "Uncommon",
+      "image_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+    },
+    "stats": {
+      "hp": "100",
+      "stage": "Stage 1",
+      "type": "Pokemon TCG Pocket - Water"
+    },
+    "attacks": [
+      {
+        "name": "Retreat Cost",
+        "cost": [
+          "Pokemon TCG Pocket - Retreat Cost"
+        ],
+        "damage": "40"
+      },
+      {
+        "name": "Wave Splash",
+        "cost": [
+          "Water"
+        ],
+        "damage": "40"
+      }
+    ],
+    "obtained_from": "Open Shining Revelry (A2b) packs"
+  },
+  {
+    "metadata": {
+      "number": "A2b 016",
+      "name": "Buizel",
+      "collection_name": "Shining Revelry (A2b)",
+      "rarity": "Common",
+      "image_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+    },
+    "stats": {
+      "hp": "70",
+      "stage": "Basic",
+      "type": "Pokemon TCG Pocket - Water"
+    },
+    "attacks": [
+      {
+        "name": "Retreat Cost",
+        "cost": [
+          "Pokemon TCG Pocket - Retreat Cost"
+        ],
+        "damage": "10"
+      },
+      {
+        "name": "Water Gun",
+        "cost": [
+          "Water"
+        ],
+        "damage": "10"
+      }
+    ],
+    "obtained_from": "Open Shining Revelry (A2b) packs"
+  },
+  {
+    "metadata": {
+      "number": "A2b 017",
+      "name": "Floatzel",
+      "collection_name": "Shining Revelry (A2b)",
+      "rarity": "Uncommon",
+      "image_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+    },
+    "stats": {
+      "hp": "90",
+      "stage": "Stage 1",
+      "type": "Pokemon TCG Pocket - Water"
+    },
+    "attacks": [
+      {
+        "name": "Retreat Cost",
+        "cost": [
+          "Pokemon TCG Pocket - Retreat Cost"
+        ],
+        "damage": "This attack does 30 damage to 1 of your opponent's Pokemon."
+      },
+      {
+        "name": "Water Arrow",
+        "cost": [
+          "Water"
+        ],
+        "damage": "This attack does 30 damage to 1 of your opponent's Pokemon."
+      }
+    ],
+    "obtained_from": "Open Shining Revelry (A2b) packs"
+  },
+  {
+    "metadata": {
+      "number": "A2b 018",
+      "name": "Wiglett",
+      "collection_name": "Shining Revelry (A2b)",
+      "rarity": "Common",
+      "image_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+    },
+    "stats": {
+      "hp": "60",
+      "stage": "Basic",
+      "type": "Pokemon TCG Pocket - Water"
+    },
+    "attacks": [
+      {
+        "name": "Retreat Cost",
+        "cost": [
+          "Pokemon TCG Pocket - Retreat Cost"
+        ],
+        "damage": "1 of your opponent's Pokemon is chosen at random. Do 30 damage to it."
+      },
+      {
+        "name": "Spring Out",
+        "cost": [
+          "Water"
+        ],
+        "damage": "1 of your opponent's Pokemon is chosen at random. Do 30 damage to it."
+      }
+    ],
+    "obtained_from": "Open Shining Revelry (A2b) packs"
+  },
+  {
+    "metadata": {
+      "number": "A2b 019",
+      "name": "Wugtrio ex",
+      "collection_name": "Shining Revelry (A2b)",
+      "rarity": "Super Rare",
+      "image_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+    },
+    "stats": {
+      "hp": "140",
+      "stage": "Stage 1",
+      "type": "Pokemon TCG Pocket - Water"
+    },
+    "attacks": [
+      {
+        "name": "Retreat Cost",
+        "cost": [
+          "Pokemon TCG Pocket - Retreat Cost"
+        ],
+        "damage": "1 of your opponent's Pokemon is chosen at random 3 times. For each time a Pokemon was chosen, do 50 damage to it."
+      },
+      {
+        "name": "Pop Out Throughout",
+        "cost": [
+          "Water 3"
+        ],
+        "damage": "1 of your opponent's Pokemon is chosen at random 3 times. For each time a Pokemon was chosen, do 50 damage to it."
+      }
+    ],
+    "obtained_from": "Open Shining Revelry (A2b) packs"
+  },
+  {
+    "metadata": {
+      "number": "A2b 020",
+      "name": "Dondozo",
+      "collection_name": "Shining Revelry (A2b)",
+      "rarity": "Rare",
+      "image_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+    },
+    "stats": {
+      "hp": "120",
+      "stage": "Basic",
+      "type": "Pokemon TCG Pocket - Water"
+    },
+    "attacks": [
+      {
+        "name": "Retreat Cost",
+        "cost": [
+          "Pokemon TCG Pocket - Retreat Cost"
+        ],
+        "damage": "This attack also does 10 damage to each of your opponent's Benched Pokemon."
+      },
+      {
+        "name": "Ocean Cyclone",
+        "cost": [
+          "Water 2",
+          "Colorless 2"
+        ],
+        "damage": "This attack also does 10 damage to each of your opponent's Benched Pokemon."
+      }
+    ],
+    "obtained_from": "Open Shining Revelry (A2b) packs"
+  },
+  {
+    "metadata": {
+      "number": "A2b 021",
+      "name": "Tatsugiri",
+      "collection_name": "Shining Revelry (A2b)",
+      "rarity": "Uncommon",
+      "image_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+    },
+    "stats": {
+      "hp": "70",
+      "stage": "Basic",
+      "type": "Pokemon TCG Pocket - Water"
+    },
+    "attacks": [
+      {
+        "name": "Retreat Cost",
+        "cost": [
+          "Pokemon TCG Pocket - Retreat Cost"
+        ],
+        "damage": "20"
+      },
+      {
+        "name": "Rain Splash",
+        "cost": [
+          "Water"
+        ],
+        "damage": "20"
+      }
+    ],
+    "obtained_from": "Open Shining Revelry (A2b) packs"
+  },
+  {
+    "metadata": {
+      "number": "A2b 022",
+      "name": "Pikachu ex",
+      "collection_name": "Shining Revelry (A2b)",
+      "rarity": "Super Rare",
+      "image_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+    },
+    "stats": {
+      "hp": "120",
+      "stage": "Basic",
+      "type": "Pokemon TCG Pocket - Lightning"
+    },
+    "attacks": [
+      {
+        "name": "Retreat Cost",
+        "cost": [
+          "Pokemon TCG Pocket - Retreat Cost"
+        ],
+        "damage": "Discard all Energy from this Pokemon."
+      },
+      {
+        "name": "Thunderbolt",
+        "cost": [
+          "Lightning 3"
+        ],
+        "damage": "Discard all Energy from this Pokemon."
+      }
+    ],
+    "obtained_from": "Open Shining Revelry (A2b) packs"
+  },
+  {
+    "metadata": {
+      "number": "A2b 023",
+      "name": "Voltorb",
+      "collection_name": "Shining Revelry (A2b)",
+      "rarity": "Common",
+      "image_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+    },
+    "stats": {
+      "hp": "70",
+      "stage": "Basic",
+      "type": "Pokemon TCG Pocket - Lightning"
+    },
+    "attacks": [
+      {
+        "name": "Retreat Cost",
+        "cost": [
+          "Pokemon TCG Pocket - Retreat Cost"
+        ],
+        "damage": "10"
+      },
+      {
+        "name": "Lightning Ball",
+        "cost": [
+          "Lightning"
+        ],
+        "damage": "10"
+      }
+    ],
+    "obtained_from": "Open Shining Revelry (A2b) packs"
+  },
+  {
+    "metadata": {
+      "number": "A2b 024",
+      "name": "Electrode",
+      "collection_name": "Shining Revelry (A2b)",
+      "rarity": "Uncommon",
+      "image_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+    },
+    "stats": {
+      "hp": "90",
+      "stage": "Stage 1",
+      "type": "Pokemon TCG Pocket - Lightning"
+    },
+    "attacks": [
+      {
+        "name": "Retreat Cost",
+        "cost": [
+          "Pokemon TCG Pocket - Retreat Cost"
+        ],
+        "damage": "Flip a coin. If heads, this attack does 30 more damage."
+      },
+      {
+        "name": "Tumbling Attack",
+        "cost": [
+          "Lightning 2"
+        ],
+        "damage": "Flip a coin. If heads, this attack does 30 more damage."
+      }
+    ],
+    "obtained_from": "Open Shining Revelry (A2b) packs"
+  },
+  {
+    "metadata": {
+      "number": "A2b 025",
+      "name": "Pachirisu",
+      "collection_name": "Shining Revelry (A2b)",
+      "rarity": "Uncommon",
+      "image_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+    },
+    "stats": {
+      "hp": "70",
+      "stage": "Basic",
+      "type": "Pokemon TCG Pocket - Lightning"
+    },
+    "attacks": [
+      {
+        "name": "Retreat Cost",
+        "cost": [
+          "Pokemon TCG Pocket - Retreat Cost"
+        ],
+        "damage": "Take a Lightning Energy from your Energy Zone and attach it to 1 of your Benched Lightning Pokemon."
+      },
+      {
+        "name": "Plasma",
+        "cost": [
+          "Lightning"
+        ],
+        "damage": "Take a Lightning Energy from your Energy Zone and attach it to 1 of your Benched Lightning Pokemon."
+      }
+    ],
+    "obtained_from": "Open Shining Revelry (A2b) packs"
+  },
+  {
+    "metadata": {
+      "number": "A2b 026",
+      "name": "Pawmi",
+      "collection_name": "Shining Revelry (A2b)",
+      "rarity": "Common",
+      "image_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+    },
+    "stats": {
+      "hp": "60",
+      "stage": "Basic",
+      "type": "Pokemon TCG Pocket - Lightning"
+    },
+    "attacks": [
+      {
+        "name": "Retreat Cost",
+        "cost": [
+          "Pokemon TCG Pocket - Retreat Cost"
+        ],
+        "damage": "20"
+      },
+      {
+        "name": "Punch",
+        "cost": [
+          "Lightning"
+        ],
+        "damage": "20"
+      }
+    ],
+    "obtained_from": "Open Shining Revelry (A2b) packs"
+  },
+  {
+    "metadata": {
+      "number": "A2b 027",
+      "name": "Pawmo",
+      "collection_name": "Shining Revelry (A2b)",
+      "rarity": "Uncommon",
+      "image_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+    },
+    "stats": {
+      "hp": "90",
+      "stage": "Stage 1",
+      "type": "Pokemon TCG Pocket - Lightning"
+    },
+    "attacks": [
+      {
+        "name": "Retreat Cost",
+        "cost": [
+          "Pokemon TCG Pocket - Retreat Cost"
+        ],
+        "damage": "40"
+      },
+      {
+        "name": "Punch",
+        "cost": [
+          "Lightning"
+        ],
+        "damage": "40"
+      }
+    ],
+    "obtained_from": "Open Shining Revelry (A2b) packs"
+  },
+  {
+    "metadata": {
+      "number": "A2b 028",
+      "name": "Pawmot",
+      "collection_name": "Shining Revelry (A2b)",
+      "rarity": "Rare",
+      "image_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+    },
+    "stats": {
+      "hp": "140",
+      "stage": "Stage 2",
+      "type": "Pokemon TCG Pocket - Lightning"
+    },
+    "attacks": [
+      {
+        "name": "Retreat Cost",
+        "cost": [
+          "Pokemon TCG Pocket - Retreat Cost"
+        ],
+        "damage": "70"
+      },
+      {
+        "name": "Electric Punch",
+        "cost": [
+          "Lightning 2"
+        ],
+        "damage": "70"
+      }
+    ],
+    "obtained_from": "Open Shining Revelry (A2b) packs"
+  },
+  {
+    "metadata": {
+      "number": "A2b 029",
+      "name": "Abra",
+      "collection_name": "Shining Revelry (A2b)",
+      "rarity": "Common",
+      "image_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+    },
+    "stats": {
+      "hp": "60",
+      "stage": "Basic",
+      "type": "Pokemon TCG Pocket - Psychic"
+    },
+    "attacks": [
+      {
+        "name": "Retreat Cost",
+        "cost": [
+          "Pokemon TCG Pocket - Retreat Cost"
+        ],
+        "damage": "20"
+      },
+      {
+        "name": "Psyshot",
+        "cost": [
+          "Psychic"
+        ],
+        "damage": "20"
+      }
+    ],
+    "obtained_from": "Open Shining Revelry (A2b) packs"
+  },
+  {
+    "metadata": {
+      "number": "A2b 030",
+      "name": "Kadabra",
+      "collection_name": "Shining Revelry (A2b)",
+      "rarity": "Uncommon",
+      "image_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+    },
+    "stats": {
+      "hp": "80",
+      "stage": "Stage 1",
+      "type": "Pokemon TCG Pocket - Psychic"
+    },
+    "attacks": [
+      {
+        "name": "Retreat Cost",
+        "cost": [
+          "Pokemon TCG Pocket - Retreat Cost"
+        ],
+        "damage": "30"
+      },
+      {
+        "name": "Psyshot",
+        "cost": [
+          "Psychic"
+        ],
+        "damage": "30"
+      }
+    ],
+    "obtained_from": "Open Shining Revelry (A2b) packs"
+  },
+  {
+    "metadata": {
+      "number": "A2b 031",
+      "name": "Alakazam",
+      "collection_name": "Shining Revelry (A2b)",
+      "rarity": "Rare",
+      "image_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+    },
+    "stats": {
+      "hp": "130",
+      "stage": "Stage 2",
+      "type": "Pokemon TCG Pocket - Psychic"
+    },
+    "attacks": [
+      {
+        "name": "Retreat Cost",
+        "cost": [
+          "Pokemon TCG Pocket - Retreat Cost"
+        ],
+        "damage": "This attack also does 20 damage to each of your opponent's Benched Pokémon that has any Energy attached."
+      },
+      {
+        "name": "Psychic Suppression",
+        "cost": [
+          "Psychic 2"
+        ],
+        "damage": "This attack also does 20 damage to each of your opponent's Benched Pokémon that has any Energy attached."
+      }
+    ],
+    "obtained_from": "Open Shining Revelry (A2b) packs"
+  },
+  {
+    "metadata": {
+      "number": "A2b 032",
+      "name": "Mr. Mime",
+      "collection_name": "Shining Revelry (A2b)",
+      "rarity": "Common",
+      "image_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+    },
+    "stats": {
+      "hp": "90",
+      "stage": "Basic",
+      "type": "Pokemon TCG Pocket - Psychic"
+    },
+    "attacks": [
+      {
+        "name": "Retreat Cost",
+        "cost": [
+          "Pokemon TCG Pocket - Retreat Cost"
+        ],
+        "damage": "Flip 4 coins. This attack does 20 damage for each heads."
+      },
+      {
+        "name": "Juggling",
+        "cost": [
+          "Psychic",
+          "Colorless"
+        ],
+        "damage": "Flip 4 coins. This attack does 20 damage for each heads."
+      }
+    ],
+    "obtained_from": "Open Shining Revelry (A2b) packs"
+  },
+  {
+    "metadata": {
+      "number": "A2b 033",
+      "name": "Drifloon",
+      "collection_name": "Shining Revelry (A2b)",
+      "rarity": "Common",
+      "image_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+    },
+    "stats": {
+      "hp": "60",
+      "stage": "Basic",
+      "type": "Pokemon TCG Pocket - Psychic"
+    },
+    "attacks": [
+      {
+        "name": "Retreat Cost",
+        "cost": [
+          "Pokemon TCG Pocket - Retreat Cost"
+        ],
+        "damage": "20"
+      },
+      {
+        "name": "Ram",
+        "cost": [
+          "Psychic"
+        ],
+        "damage": "20"
+      }
+    ],
+    "obtained_from": "Open Shining Revelry (A2b) packs"
+  },
+  {
+    "metadata": {
+      "number": "A2b 034",
+      "name": "Drifblim",
+      "collection_name": "Shining Revelry (A2b)",
+      "rarity": "Uncommon",
+      "image_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+    },
+    "stats": {
+      "hp": "90",
+      "stage": "Stage 1",
+      "type": "Pokemon TCG Pocket - Psychic"
+    },
+    "attacks": [
+      {
+        "name": "Retreat Cost",
+        "cost": [
+          "Pokemon TCG Pocket - Retreat Cost"
+        ],
+        "damage": "40"
+      },
+      {
+        "name": "Gust",
+        "cost": [
+          "Psychic"
+        ],
+        "damage": "40"
+      }
+    ],
+    "obtained_from": "Open Shining Revelry (A2b) packs"
+  },
+  {
+    "metadata": {
+      "number": "A2b 035",
+      "name": "Giratina ex",
+      "collection_name": "Shining Revelry (A2b)",
+      "rarity": "Super Rare",
+      "image_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+    },
+    "stats": {
+      "hp": "150",
+      "stage": "Basic",
+      "type": "Pokemon TCG Pocket - Psychic"
+    },
+    "attacks": [
+      {
+        "name": "Retreat Cost",
+        "cost": [
+          "Pokemon TCG Pocket - Retreat Cost"
+        ],
+        "damage": "This Pokemon also does 20 damage to itself."
+      },
+      {
+        "name": "Chaotic Impact",
+        "cost": [
+          "Psychic 3",
+          "Colorless"
+        ],
+        "damage": "This Pokemon also does 20 damage to itself."
+      }
+    ],
+    "obtained_from": "Open Shining Revelry (A2b) packs"
+  },
+  {
+    "metadata": {
+      "number": "A2b 036",
+      "name": "Gimmighoul",
+      "collection_name": "Shining Revelry (A2b)",
+      "rarity": "Common",
+      "image_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+    },
+    "stats": {
+      "hp": "60",
+      "stage": "Basic",
+      "type": "Pokemon TCG Pocket - Psychic"
+    },
+    "attacks": [
+      {
+        "name": "Retreat Cost",
+        "cost": [
+          "Pokemon TCG Pocket - Retreat Cost"
+        ],
+        "damage": "Flip a coin. If heads, during your opponent's next turn, prevent all damage from—and effects of—attacks done to this Pokémon."
+      },
+      {
+        "name": "Chest-ouflage",
+        "cost": [
+          "Colorless"
+        ],
+        "damage": "Flip a coin. If heads, during your opponent's next turn, prevent all damage from—and effects of—attacks done to this Pokémon."
+      }
+    ],
+    "obtained_from": "Open Shining Revelry (A2b) packs"
+  },
+  {
+    "metadata": {
+      "number": "A2b 037",
+      "name": "Machop",
+      "collection_name": "Shining Revelry (A2b)",
+      "rarity": "Common",
+      "image_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+    },
+    "stats": {
+      "hp": "60",
+      "stage": "Basic",
+      "type": "Pokemon TCG Pocket - Fighting"
+    },
+    "attacks": [
+      {
+        "name": "Retreat Cost",
+        "cost": [
+          "Pokemon TCG Pocket - Retreat Cost"
+        ],
+        "damage": "20"
+      },
+      {
+        "name": "Low Kick",
+        "cost": [
+          "Fighting"
+        ],
+        "damage": "20"
+      }
+    ],
+    "obtained_from": "Open Shining Revelry (A2b) packs"
+  },
+  {
+    "metadata": {
+      "number": "A2b 038",
+      "name": "Machoke",
+      "collection_name": "Shining Revelry (A2b)",
+      "rarity": "Common",
+      "image_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+    },
+    "stats": {
+      "hp": "100",
+      "stage": "Stage 1",
+      "type": "Pokemon TCG Pocket - Fighting"
+    },
+    "attacks": [
+      {
+        "name": "Retreat Cost",
+        "cost": [
+          "Pokemon TCG Pocket - Retreat Cost"
+        ],
+        "damage": "Flip a coin. If heads, this attack does 30 more damage."
+      },
+      {
+        "name": "Pummel",
+        "cost": [
+          "Fighting 2"
+        ],
+        "damage": "Flip a coin. If heads, this attack does 30 more damage."
+      }
+    ],
+    "obtained_from": "Open Shining Revelry (A2b) packs"
+  },
+  {
+    "metadata": {
+      "number": "A2b 039",
+      "name": "Machamp",
+      "collection_name": "Shining Revelry (A2b)",
+      "rarity": "Rare",
+      "image_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+    },
+    "stats": {
+      "hp": "150",
+      "stage": "Stage 2",
+      "type": "Pokemon TCG Pocket - Fighting"
+    },
+    "attacks": [
+      {
+        "name": "Retreat Cost",
+        "cost": [
+          "Pokemon TCG Pocket - Retreat Cost"
+        ],
+        "damage": "If this Pokemon has at least 2 extra Fighting Energy attached, this attack does 50 more damage."
+      },
+      {
+        "name": "Power Press",
+        "cost": [
+          "Fighting 2"
+        ],
+        "damage": "If this Pokemon has at least 2 extra Fighting Energy attached, this attack does 50 more damage."
+      }
+    ],
+    "obtained_from": "Open Shining Revelry (A2b) packs"
+  },
+  {
+    "metadata": {
+      "number": "A2b 040",
+      "name": "Hitmonlee",
+      "collection_name": "Shining Revelry (A2b)",
+      "rarity": "Common",
+      "image_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+    },
+    "stats": {
+      "hp": "80",
+      "stage": "Basic",
+      "type": "Pokemon TCG Pocket - Fighting"
+    },
+    "attacks": [
+      {
+        "name": "Retreat Cost",
+        "cost": [
+          "Pokemon TCG Pocket - Retreat Cost"
+        ],
+        "damage": "20"
+      },
+      {
+        "name": "Kick",
+        "cost": [
+          "Fighting"
+        ],
+        "damage": "20"
+      }
+    ],
+    "obtained_from": "Open Shining Revelry (A2b) packs"
+  },
+  {
+    "metadata": {
+      "number": "A2b 041",
+      "name": "Hitmonchan",
+      "collection_name": "Shining Revelry (A2b)",
+      "rarity": "Common",
+      "image_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+    },
+    "stats": {
+      "hp": "90",
+      "stage": "Basic",
+      "type": "Pokemon TCG Pocket - Fighting"
+    },
+    "attacks": [
+      {
+        "name": "Retreat Cost",
+        "cost": [
+          "Pokemon TCG Pocket - Retreat Cost"
+        ],
+        "damage": "Retreat Cost:"
+      }
+    ],
+    "obtained_from": "Open Shining Revelry (A2b) packs"
+  },
+  {
+    "metadata": {
+      "number": "A2b 042",
+      "name": "Riolu",
+      "collection_name": "Shining Revelry (A2b)",
+      "rarity": "Common",
+      "image_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+    },
+    "stats": {
+      "hp": "70",
+      "stage": "Basic",
+      "type": "Pokemon TCG Pocket - Fighting"
+    },
+    "attacks": [
+      {
+        "name": "Retreat Cost",
+        "cost": [
+          "Pokemon TCG Pocket - Retreat Cost"
+        ],
+        "damage": "40"
+      },
+      {
+        "name": "Punch",
+        "cost": [
+          "Fighting 2"
+        ],
+        "damage": "40"
+      }
+    ],
+    "obtained_from": "Open Shining Revelry (A2b) packs"
+  },
+  {
+    "metadata": {
+      "number": "A2b 043",
+      "name": "Lucario ex",
+      "collection_name": "Shining Revelry (A2b)",
+      "rarity": "Super Rare",
+      "image_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+    },
+    "stats": {
+      "hp": "150",
+      "stage": "Stage 1",
+      "type": "Pokemon TCG Pocket - Fighting"
+    },
+    "attacks": [
+      {
+        "name": "Retreat Cost",
+        "cost": [
+          "Pokemon TCG Pocket - Retreat Cost"
+        ],
+        "damage": "This attack also does 30 damage to 1 of your opponent's Benched Pokemon."
+      },
+      {
+        "name": "Aura Sphere",
+        "cost": [
+          "Fighting 3"
+        ],
+        "damage": "This attack also does 30 damage to 1 of your opponent's Benched Pokemon."
+      }
+    ],
+    "obtained_from": "Open Shining Revelry (A2b) packs"
+  },
+  {
+    "metadata": {
+      "number": "A2b 044",
+      "name": "Flamigo",
+      "collection_name": "Shining Revelry (A2b)",
+      "rarity": "Uncommon",
+      "image_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+    },
+    "stats": {
+      "hp": "80",
+      "stage": "Basic",
+      "type": "Pokemon TCG Pocket - Fighting"
+    },
+    "attacks": [
+      {
+        "name": "Retreat Cost",
+        "cost": [
+          "Pokemon TCG Pocket - Retreat Cost"
+        ],
+        "damage": "Flip 2 coins. This attack does 50 damage for each heads."
+      },
+      {
+        "name": "Double Kick",
+        "cost": [
+          "Fighting 2"
+        ],
+        "damage": "Flip 2 coins. This attack does 50 damage for each heads."
+      }
+    ],
+    "obtained_from": "Open Shining Revelry (A2b) packs"
+  },
+  {
+    "metadata": {
+      "number": "A2b 045",
+      "name": "Ekans",
+      "collection_name": "Shining Revelry (A2b)",
+      "rarity": "Common",
+      "image_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+    },
+    "stats": {
+      "hp": "70",
+      "stage": "Basic",
+      "type": "Pokemon TCG Pocket - Darkness"
+    },
+    "attacks": [
+      {
+        "name": "Retreat Cost",
+        "cost": [
+          "Pokemon TCG Pocket - Retreat Cost"
+        ],
+        "damage": "30"
+      },
+      {
+        "name": "Ram",
+        "cost": [
+          "Darkness",
+          "Colorless"
+        ],
+        "damage": "30"
+      }
+    ],
+    "obtained_from": "Open Shining Revelry (A2b) packs"
+  },
+  {
+    "metadata": {
+      "number": "A2b 046",
+      "name": "Arbok",
+      "collection_name": "Shining Revelry (A2b)",
+      "rarity": "Uncommon",
+      "image_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+    },
+    "stats": {
+      "hp": "110",
+      "stage": "Stage 1",
+      "type": "Pokemon TCG Pocket - Darkness"
+    },
+    "attacks": [
+      {
+        "name": "Retreat Cost",
+        "cost": [
+          "Pokemon TCG Pocket - Retreat Cost"
+        ],
+        "damage": "Your opponent's Active Pokemon is now Poisoned."
+      },
+      {
+        "name": "Venomous Fang",
+        "cost": [
+          "Darkness 2",
+          "Colorless"
+        ],
+        "damage": "Your opponent's Active Pokemon is now Poisoned."
+      }
+    ],
+    "obtained_from": "Open Shining Revelry (A2b) packs"
+  },
+  {
+    "metadata": {
+      "number": "A2b 047",
+      "name": "Paldean Wooper",
+      "collection_name": "Shining Revelry (A2b)",
+      "rarity": "Common",
+      "image_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+    },
+    "stats": {
+      "hp": "50",
+      "stage": "Basic",
+      "type": "Pokemon TCG Pocket - Darkness"
+    },
+    "attacks": [
+      {
+        "name": "Retreat Cost",
+        "cost": [
+          "Pokemon TCG Pocket - Retreat Cost"
+        ],
+        "damage": "Your opponent's Active Pokemon is now Poisoned."
+      },
+      {
+        "name": "Poison Jab",
+        "cost": [
+          "Darkness"
+        ],
+        "damage": "Your opponent's Active Pokemon is now Poisoned."
+      }
+    ],
+    "obtained_from": "Open Shining Revelry (A2b) packs"
+  },
+  {
+    "metadata": {
+      "number": "A2b 048",
+      "name": "Paldean Clodsire ex",
+      "collection_name": "Shining Revelry (A2b)",
+      "rarity": "Super Rare",
+      "image_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+    },
+    "stats": {
+      "hp": "160",
+      "stage": "Stage 1",
+      "type": "Pokemon TCG Pocket - Darkness"
+    },
+    "attacks": [
+      {
+        "name": "Retreat Cost",
+        "cost": [
+          "Pokemon TCG Pocket - Retreat Cost"
+        ],
+        "damage": "If your opponent's Active Pokemon is Poisoned, this attack does 60 more damage."
+      },
+      {
+        "name": "Venoshock",
+        "cost": [
+          "Darkness 2"
+        ],
+        "damage": "If your opponent's Active Pokemon is Poisoned, this attack does 60 more damage."
+      }
+    ],
+    "obtained_from": "Open Shining Revelry (A2b) packs"
+  },
+  {
+    "metadata": {
+      "number": "A2b 049",
+      "name": "Spiritomb",
+      "collection_name": "Shining Revelry (A2b)",
+      "rarity": "Uncommon",
+      "image_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+    },
+    "stats": {
+      "hp": "80",
+      "stage": "Basic",
+      "type": "Pokemon TCG Pocket - Darkness"
+    },
+    "attacks": [
+      {
+        "name": "Retreat Cost",
+        "cost": [
+          "Pokemon TCG Pocket - Retreat Cost"
+        ],
+        "damage": "Flip a coin. If heads, your opponent's Active Pokemon is now Confused."
+      },
+      {
+        "name": "Confuse Ray",
+        "cost": [
+          "Darkness"
+        ],
+        "damage": "Flip a coin. If heads, your opponent's Active Pokemon is now Confused."
+      }
+    ],
+    "obtained_from": "Open Shining Revelry (A2b) packs"
+  },
+  {
+    "metadata": {
+      "number": "A2b 050",
+      "name": "Shroodle",
+      "collection_name": "Shining Revelry (A2b)",
+      "rarity": "Common",
+      "image_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+    },
+    "stats": {
+      "hp": "60",
+      "stage": "Basic",
+      "type": "Pokemon TCG Pocket - Darkness"
+    },
+    "attacks": [
+      {
+        "name": "Retreat Cost",
+        "cost": [
+          "Pokemon TCG Pocket - Retreat Cost"
+        ],
+        "damage": "20"
+      },
+      {
+        "name": "Gnaw",
+        "cost": [
+          "Darkness"
+        ],
+        "damage": "20"
+      }
+    ],
+    "obtained_from": "Open Shining Revelry (A2b) packs"
+  },
+  {
+    "metadata": {
+      "number": "A2b 051",
+      "name": "Grafaiai",
+      "collection_name": "Shining Revelry (A2b)",
+      "rarity": "Rare",
+      "image_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+    },
+    "stats": {
+      "hp": "90",
+      "stage": "Stage 1",
+      "type": "Pokemon TCG Pocket - Darkness"
+    },
+    "attacks": [
+      {
+        "name": "Retreat Cost",
+        "cost": [
+          "Pokemon TCG Pocket - Retreat Cost"
+        ],
+        "damage": "40"
+      },
+      {
+        "name": "Bite",
+        "cost": [
+          "Darkness 2"
+        ],
+        "damage": "40"
+      }
+    ],
+    "obtained_from": "Open Shining Revelry (A2b) packs"
+  },
+  {
+    "metadata": {
+      "number": "A2b 052",
+      "name": "Tinkatink",
+      "collection_name": "Shining Revelry (A2b)",
+      "rarity": "Common",
+      "image_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+    },
+    "stats": {
+      "hp": "60",
+      "stage": "Basic",
+      "type": "Pokemon TCG Pocket - Metal"
+    },
+    "attacks": [
+      {
+        "name": "Retreat Cost",
+        "cost": [
+          "Pokemon TCG Pocket - Retreat Cost"
+        ],
+        "damage": "20"
+      },
+      {
+        "name": "Corkscrew Punch",
+        "cost": [
+          "Metal"
+        ],
+        "damage": "20"
+      }
+    ],
+    "obtained_from": "Open Shining Revelry (A2b) packs"
+  },
+  {
+    "metadata": {
+      "number": "A2b 053",
+      "name": "Tinkatuff",
+      "collection_name": "Shining Revelry (A2b)",
+      "rarity": "Uncommon",
+      "image_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+    },
+    "stats": {
+      "hp": "90",
+      "stage": "Stage 1",
+      "type": "Pokemon TCG Pocket - Metal"
+    },
+    "attacks": [
+      {
+        "name": "Retreat Cost",
+        "cost": [
+          "Pokemon TCG Pocket - Retreat Cost"
+        ],
+        "damage": "Flip a coin. If heads, this attack does 30 more damage."
+      },
+      {
+        "name": "Tenacious Hammer",
+        "cost": [
+          "Metal 2"
+        ],
+        "damage": "Flip a coin. If heads, this attack does 30 more damage."
+      }
+    ],
+    "obtained_from": "Open Shining Revelry (A2b) packs"
+  },
+  {
+    "metadata": {
+      "number": "A2b 054",
+      "name": "Tinkaton ex",
+      "collection_name": "Shining Revelry (A2b)",
+      "rarity": "Super Rare",
+      "image_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+    },
+    "stats": {
+      "hp": "170",
+      "stage": "Stage 2",
+      "type": "Pokemon TCG Pocket - Metal"
+    },
+    "attacks": [
+      {
+        "name": "Retreat Cost",
+        "cost": [
+          "Pokemon TCG Pocket - Retreat Cost"
+        ],
+        "damage": "Flip a coin. If heads, this attack does 80 more damage."
+      },
+      {
+        "name": "Terrific Thumping",
+        "cost": [
+          "Metal 2",
+          "Colorless"
+        ],
+        "damage": "Flip a coin. If heads, this attack does 80 more damage."
+      }
+    ],
+    "obtained_from": "Open Shining Revelry (A2b) packs"
+  },
+  {
+    "metadata": {
+      "number": "A2b 055",
+      "name": "Varoom",
+      "collection_name": "Shining Revelry (A2b)",
+      "rarity": "Common",
+      "image_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+    },
+    "stats": {
+      "hp": "70",
+      "stage": "Basic",
+      "type": "Pokemon TCG Pocket - Metal"
+    },
+    "attacks": [
+      {
+        "name": "Retreat Cost",
+        "cost": [
+          "Pokemon TCG Pocket - Retreat Cost"
+        ],
+        "damage": "10"
+      },
+      {
+        "name": "Headbutt",
+        "cost": [
+          "Metal"
+        ],
+        "damage": "10"
+      }
+    ],
+    "obtained_from": "Open Shining Revelry (A2b) packs"
+  },
+  {
+    "metadata": {
+      "number": "A2b 056",
+      "name": "Revavroom",
+      "collection_name": "Shining Revelry (A2b)",
+      "rarity": "Uncommon",
+      "image_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+    },
+    "stats": {
+      "hp": "110",
+      "stage": "Stage 1",
+      "type": "Pokemon TCG Pocket - Metal"
+    },
+    "attacks": [
+      {
+        "name": "Retreat Cost",
+        "cost": [
+          "Pokemon TCG Pocket - Retreat Cost"
+        ],
+        "damage": "Flip a coin. If heads, during your opponent's next turn, prevent all damage from—and effects of—attacks done to this Pokémon."
+      },
+      {
+        "name": "Spinning Drift",
+        "cost": [
+          "Metal"
+        ],
+        "damage": "Flip a coin. If heads, during your opponent's next turn, prevent all damage from—and effects of—attacks done to this Pokémon."
+      }
+    ],
+    "obtained_from": "Open Shining Revelry (A2b) packs"
+  },
+  {
+    "metadata": {
+      "number": "A2b 057",
+      "name": "Gholdengo",
+      "collection_name": "Shining Revelry (A2b)",
+      "rarity": "Rare",
+      "image_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+    },
+    "stats": {
+      "hp": "120",
+      "stage": "Stage 1",
+      "type": "Pokemon TCG Pocket - Metal"
+    },
+    "attacks": [
+      {
+        "name": "Retreat Cost",
+        "cost": [
+          "Pokemon TCG Pocket - Retreat Cost"
+        ],
+        "damage": "Flip a coin for each Metal Energy attached to this Pokemon. This attack does 50 damage for each heads."
+      },
+      {
+        "name": "Scintillating Surfing",
+        "cost": [
+          "Metal",
+          "Colorless 2"
+        ],
+        "damage": "Flip a coin for each Metal Energy attached to this Pokemon. This attack does 50 damage for each heads."
+      }
+    ],
+    "obtained_from": "Open Shining Revelry (A2b) packs"
+  },
+  {
+    "metadata": {
+      "number": "A2b 058",
+      "name": "Rattata",
+      "collection_name": "Shining Revelry (A2b)",
+      "rarity": "Common",
+      "image_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+    },
+    "stats": {
+      "hp": "50",
+      "stage": "Basic",
+      "type": "Pokemon TCG Pocket - Colorless"
+    },
+    "attacks": [
+      {
+        "name": "Retreat Cost",
+        "cost": [
+          "Pokemon TCG Pocket - Retreat Cost"
+        ],
+        "damage": "10"
+      },
+      {
+        "name": "Tackle",
+        "cost": [
+          "Colorless"
+        ],
+        "damage": "10"
+      }
+    ],
+    "obtained_from": "Open Shining Revelry (A2b) packs"
+  },
+  {
+    "metadata": {
+      "number": "A2b 059",
+      "name": "Raticate",
+      "collection_name": "Shining Revelry (A2b)",
+      "rarity": "Common",
+      "image_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+    },
+    "stats": {
+      "hp": "90",
+      "stage": "Stage 1",
+      "type": "Pokemon TCG Pocket - Colorless"
+    },
+    "attacks": [
+      {
+        "name": "Retreat Cost",
+        "cost": [
+          "Pokemon TCG Pocket - Retreat Cost"
+        ],
+        "damage": "50"
+      },
+      {
+        "name": "Tackle",
+        "cost": [
+          "Colorless 2"
+        ],
+        "damage": "50"
+      }
+    ],
+    "obtained_from": "Open Shining Revelry (A2b) packs"
+  },
+  {
+    "metadata": {
+      "number": "A2b 060",
+      "name": "Jigglypuff",
+      "collection_name": "Shining Revelry (A2b)",
+      "rarity": "Common",
+      "image_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+    },
+    "stats": {
+      "hp": "60",
+      "stage": "Basic",
+      "type": "Pokemon TCG Pocket - Colorless"
+    },
+    "attacks": [
+      {
+        "name": "Retreat Cost",
+        "cost": [
+          "Pokemon TCG Pocket - Retreat Cost"
+        ],
+        "damage": "20"
+      },
+      {
+        "name": "Rollout",
+        "cost": [
+          "Colorless"
+        ],
+        "damage": "20"
+      }
+    ],
+    "obtained_from": "Open Shining Revelry (A2b) packs"
+  },
+  {
+    "metadata": {
+      "number": "A2b 061",
+      "name": "Wigglytuff",
+      "collection_name": "Shining Revelry (A2b)",
+      "rarity": "Rare",
+      "image_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+    },
+    "stats": {
+      "hp": "100",
+      "stage": "Stage 1",
+      "type": "Pokemon TCG Pocket - Colorless"
+    },
+    "attacks": [
+      {
+        "name": "Retreat Cost",
+        "cost": [
+          "Pokemon TCG Pocket - Retreat Cost"
+        ],
+        "damage": "50"
+      },
+      {
+        "name": "Gentle Slap",
+        "cost": [
+          "Colorless 2"
+        ],
+        "damage": "50"
+      }
+    ],
+    "obtained_from": "Open Shining Revelry (A2b) packs"
+  },
+  {
+    "metadata": {
+      "number": "A2b 062",
+      "name": "Lickitung",
+      "collection_name": "Shining Revelry (A2b)",
+      "rarity": "Common",
+      "image_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+    },
+    "stats": {
+      "hp": "80",
+      "stage": "Basic",
+      "type": "Pokemon TCG Pocket - Colorless"
+    },
+    "attacks": [
+      {
+        "name": "Retreat Cost",
+        "cost": [
+          "Pokemon TCG Pocket - Retreat Cost"
+        ],
+        "damage": "30"
+      },
+      {
+        "name": "Rollout",
+        "cost": [
+          "Colorless 2"
+        ],
+        "damage": "30"
+      }
+    ],
+    "obtained_from": "Open Shining Revelry (A2b) packs"
+  },
+  {
+    "metadata": {
+      "number": "A2b 063",
+      "name": "Lickilicky",
+      "collection_name": "Shining Revelry (A2b)",
+      "rarity": "Common",
+      "image_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+    },
+    "stats": {
+      "hp": "130",
+      "stage": "Stage 1",
+      "type": "Pokemon TCG Pocket - Colorless"
+    },
+    "attacks": [
+      {
+        "name": "Retreat Cost",
+        "cost": [
+          "Pokemon TCG Pocket - Retreat Cost"
+        ],
+        "damage": "70"
+      },
+      {
+        "name": "Rollout",
+        "cost": [
+          "Colorless 3"
+        ],
+        "damage": "70"
+      }
+    ],
+    "obtained_from": "Open Shining Revelry (A2b) packs"
+  },
+  {
+    "metadata": {
+      "number": "A2b 064",
+      "name": "Bidoof",
+      "collection_name": "Shining Revelry (A2b)",
+      "rarity": "Common",
+      "image_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+    },
+    "stats": {
+      "hp": "70",
+      "stage": "Basic",
+      "type": "Pokemon TCG Pocket - Colorless"
+    },
+    "attacks": [
+      {
+        "name": "Retreat Cost",
+        "cost": [
+          "Pokemon TCG Pocket - Retreat Cost"
+        ],
+        "damage": "30"
+      },
+      {
+        "name": "Headbutt",
+        "cost": [
+          "Colorless 2"
+        ],
+        "damage": "30"
+      }
+    ],
+    "obtained_from": "Open Shining Revelry (A2b) packs"
+  },
+  {
+    "metadata": {
+      "number": "A2b 065",
+      "name": "Bibarel ex",
+      "collection_name": "Shining Revelry (A2b)",
+      "rarity": "Super Rare",
+      "image_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+    },
+    "stats": {
+      "hp": "160",
+      "stage": "Stage 1",
+      "type": "Pokemon TCG Pocket - Colorless"
+    },
+    "attacks": [
+      {
+        "name": "Retreat Cost",
+        "cost": [
+          "Pokemon TCG Pocket - Retreat Cost"
+        ],
+        "damage": "Heal 30 damage from this Pokemon."
+      },
+      {
+        "name": "Carefree Press",
+        "cost": [
+          "Colorless 4"
+        ],
+        "damage": "Heal 30 damage from this Pokemon."
+      }
+    ],
+    "obtained_from": "Open Shining Revelry (A2b) packs"
+  },
+  {
+    "metadata": {
+      "number": "A2b 066",
+      "name": "Buneary",
+      "collection_name": "Shining Revelry (A2b)",
+      "rarity": "Common",
+      "image_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+    },
+    "stats": {
+      "hp": "50",
+      "stage": "Basic",
+      "type": "Pokemon TCG Pocket - Colorless"
+    },
+    "attacks": [
+      {
+        "name": "Retreat Cost",
+        "cost": [
+          "Pokemon TCG Pocket - Retreat Cost"
+        ],
+        "damage": "20"
+      },
+      {
+        "name": "Pound",
+        "cost": [
+          "Colorless"
+        ],
+        "damage": "20"
+      }
+    ],
+    "obtained_from": "Open Shining Revelry (A2b) packs"
+  },
+  {
+    "metadata": {
+      "number": "A2b 067",
+      "name": "Lopunny",
+      "collection_name": "Shining Revelry (A2b)",
+      "rarity": "Common",
+      "image_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+    },
+    "stats": {
+      "hp": "100",
+      "stage": "Stage 1",
+      "type": "Pokemon TCG Pocket - Colorless"
+    },
+    "attacks": [
+      {
+        "name": "Retreat Cost",
+        "cost": [
+          "Pokemon TCG Pocket - Retreat Cost"
+        ],
+        "damage": "30"
+      },
+      {
+        "name": "Hopping Shot",
+        "cost": [
+          "Colorless"
+        ],
+        "damage": "30"
+      }
+    ],
+    "obtained_from": "Open Shining Revelry (A2b) packs"
+  },
+  {
+    "metadata": {
+      "number": "A2b 068",
+      "name": "Cyclizar",
+      "collection_name": "Shining Revelry (A2b)",
+      "rarity": "Uncommon",
+      "image_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+    },
+    "stats": {
+      "hp": "80",
+      "stage": "Basic",
+      "type": "Pokemon TCG Pocket - Colorless"
+    },
+    "attacks": [
+      {
+        "name": "Retreat Cost",
+        "cost": [
+          "Pokemon TCG Pocket - Retreat Cost"
+        ],
+        "damage": "During your next turn, this Pokemon's Overacceleration attack does +20 damage."
+      },
+      {
+        "name": "Overacceleration",
+        "cost": [
+          "Colorless"
+        ],
+        "damage": "During your next turn, this Pokemon's Overacceleration attack does +20 damage."
+      }
+    ],
+    "obtained_from": "Open Shining Revelry (A2b) packs"
+  },
+  {
+    "metadata": {
+      "number": "A2b 069",
+      "name": "Iono",
+      "collection_name": "Shining Revelry (A2b)",
+      "rarity": "Uncommon",
+      "image_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+    },
+    "stats": {
+      "hp": "",
+      "stage": "",
+      "type": "Pokemon TCG Pocket - Supporter"
+    },
+    "attacks": [],
+    "obtained_from": "Open Shining Revelry (A2b) packs"
+  },
+  {
+    "metadata": {
+      "number": "A2b 070",
+      "name": "Pokemon Center Lady",
+      "collection_name": "Shining Revelry (A2b)",
+      "rarity": "Uncommon",
+      "image_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+    },
+    "stats": {
+      "hp": "",
+      "stage": "",
+      "type": "Pokemon TCG Pocket - Supporter"
+    },
+    "attacks": [],
+    "obtained_from": "Open Shining Revelry (A2b) packs"
+  },
+  {
+    "metadata": {
+      "number": "A2b 071",
+      "name": "Red",
+      "collection_name": "Shining Revelry (A2b)",
+      "rarity": "Uncommon",
+      "image_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+    },
+    "stats": {
+      "hp": "",
+      "stage": "",
+      "type": "Pokemon TCG Pocket - Supporter"
+    },
+    "attacks": [],
+    "obtained_from": "Open Shining Revelry (A2b) packs"
+  },
+  {
+    "metadata": {
+      "number": "A2b 072",
+      "name": "Team Rocket Grunt",
+      "collection_name": "Shining Revelry (A2b)",
+      "rarity": "Uncommon",
+      "image_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+    },
+    "stats": {
+      "hp": "",
+      "stage": "",
+      "type": "Pokemon TCG Pocket - Supporter"
+    },
+    "attacks": [],
+    "obtained_from": "Open Shining Revelry (A2b) packs"
+  },
+  {
+    "metadata": {
+      "number": "A2b 073",
+      "name": "Meowscarada",
+      "collection_name": "Shining Revelry (A2b)",
+      "rarity": "Star",
+      "image_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+    },
+    "stats": {
+      "hp": "140",
+      "stage": "Stage 2",
+      "type": "Pokemon TCG Pocket - Grass"
+    },
+    "attacks": [
+      {
+        "name": "Retreat Cost",
+        "cost": [
+          "Pokemon TCG Pocket - Retreat Cost"
+        ],
+        "damage": "If your opponent's Active Pokemon is a Pokemon ex, this attack does 70 more damage."
+      },
+      {
+        "name": "Fighting Claws",
+        "cost": [
+          "Grass 2"
+        ],
+        "damage": "If your opponent's Active Pokemon is a Pokemon ex, this attack does 70 more damage."
+      }
+    ],
+    "obtained_from": "Open Shining Revelry (A2b) packs"
+  },
+  {
+    "metadata": {
+      "number": "A2b 074",
+      "name": "Buizel",
+      "collection_name": "Shining Revelry (A2b)",
+      "rarity": "Star",
+      "image_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+    },
+    "stats": {
+      "hp": "70",
+      "stage": "Basic",
+      "type": "Pokemon TCG Pocket - Water"
+    },
+    "attacks": [
+      {
+        "name": "Retreat Cost",
+        "cost": [
+          "Pokemon TCG Pocket - Retreat Cost"
+        ],
+        "damage": "10"
+      },
+      {
+        "name": "Water Gun",
+        "cost": [
+          "Water"
+        ],
+        "damage": "10"
+      }
+    ],
+    "obtained_from": "Open Shining Revelry (A2b) packs"
+  },
+  {
+    "metadata": {
+      "number": "A2b 075",
+      "name": "Tatsugiri",
+      "collection_name": "Shining Revelry (A2b)",
+      "rarity": "Star",
+      "image_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+    },
+    "stats": {
+      "hp": "70",
+      "stage": "Basic",
+      "type": "Pokemon TCG Pocket - Water"
+    },
+    "attacks": [
+      {
+        "name": "Retreat Cost",
+        "cost": [
+          "Pokemon TCG Pocket - Retreat Cost"
+        ],
+        "damage": "20"
+      },
+      {
+        "name": "Rain Splash",
+        "cost": [
+          "Water"
+        ],
+        "damage": "20"
+      }
+    ],
+    "obtained_from": "Open Shining Revelry (A2b) packs"
+  },
+  {
+    "metadata": {
+      "number": "A2b 076",
+      "name": "Grafaiai",
+      "collection_name": "Shining Revelry (A2b)",
+      "rarity": "Star",
+      "image_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+    },
+    "stats": {
+      "hp": "90",
+      "stage": "Stage 1",
+      "type": "Pokemon TCG Pocket - Darkness"
+    },
+    "attacks": [
+      {
+        "name": "Retreat Cost",
+        "cost": [
+          "Pokemon TCG Pocket - Retreat Cost"
+        ],
+        "damage": "40"
+      },
+      {
+        "name": "Bite",
+        "cost": [
+          "Darkness 2"
+        ],
+        "damage": "40"
+      }
+    ],
+    "obtained_from": "Open Shining Revelry (A2b) packs"
+  },
+  {
+    "metadata": {
+      "number": "A2b 077",
+      "name": "Gholdengo",
+      "collection_name": "Shining Revelry (A2b)",
+      "rarity": "Star",
+      "image_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+    },
+    "stats": {
+      "hp": "120",
+      "stage": "Stage 1",
+      "type": "Pokemon TCG Pocket - Metal"
+    },
+    "attacks": [
+      {
+        "name": "Retreat Cost",
+        "cost": [
+          "Pokemon TCG Pocket - Retreat Cost"
+        ],
+        "damage": "Flip a coin for each Metal Energy attached to this Pokémon. This attack does 50 damage for each heads."
+      },
+      {
+        "name": "Scintillating Surfing",
+        "cost": [
+          "Metal",
+          "Colorless 2"
+        ],
+        "damage": "Flip a coin for each Metal Energy attached to this Pokémon. This attack does 50 damage for each heads."
+      }
+    ],
+    "obtained_from": "Open Shining Revelry (A2b) packs"
+  },
+  {
+    "metadata": {
+      "number": "A2b 078",
+      "name": "Wigglytuff",
+      "collection_name": "Shining Revelry (A2b)",
+      "rarity": "Star",
+      "image_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+    },
+    "stats": {
+      "hp": "100",
+      "stage": "Stage 1",
+      "type": "Pokemon TCG Pocket - Colorless"
+    },
+    "attacks": [
+      {
+        "name": "Retreat Cost",
+        "cost": [
+          "Pokemon TCG Pocket - Retreat Cost"
+        ],
+        "damage": "50"
+      },
+      {
+        "name": "Gentle Slap",
+        "cost": [
+          "Colorless 2"
+        ],
+        "damage": "50"
+      }
+    ],
+    "obtained_from": "Open Shining Revelry (A2b) packs"
+  },
+  {
+    "metadata": {
+      "number": "A2b 079",
+      "name": "Beedrill ex",
+      "collection_name": "Shining Revelry (A2b)",
+      "rarity": "Double Star",
+      "image_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+    },
+    "stats": {
+      "hp": "170",
+      "stage": "Stage 2",
+      "type": "Pokemon TCG Pocket - Grass"
+    },
+    "attacks": [
+      {
+        "name": "Retreat Cost",
+        "cost": [
+          "Pokemon TCG Pocket - Retreat Cost"
+        ],
+        "damage": "Discard a random Energy from your opponent's Active Pokemon."
+      },
+      {
+        "name": "Crushing Spear",
+        "cost": [
+          "Grass 2"
+        ],
+        "damage": "Discard a random Energy from your opponent's Active Pokemon."
+      }
+    ],
+    "obtained_from": "Open Shining Revelry (A2b) packs"
+  },
+  {
+    "metadata": {
+      "number": "A2b 080",
+      "name": "Charizard ex",
+      "collection_name": "Shining Revelry (A2b)",
+      "rarity": "Double Star",
+      "image_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+    },
+    "stats": {
+      "hp": "180",
+      "stage": "Stage 2",
+      "type": "Pokemon TCG Pocket - Fire"
+    },
+    "attacks": [
+      {
+        "name": "Retreat Cost",
+        "cost": [
+          "Pokemon TCG Pocket - Retreat Cost"
+        ],
+        "damage": "150"
+      },
+      {
+        "name": "Stoke",
+        "cost": [
+          "Fire"
+        ],
+        "damage": "150"
+      },
+      {
+        "name": "Steam Artillery",
+        "cost": [
+          "Fire 3",
+          "Colorless 2"
+        ],
+        "damage": "150"
+      }
+    ],
+    "obtained_from": "Open Shining Revelry (A2b) packs"
+  },
+  {
+    "metadata": {
+      "number": "A2b 081",
+      "name": "Wugtrio ex",
+      "collection_name": "Shining Revelry (A2b)",
+      "rarity": "Double Star",
+      "image_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+    },
+    "stats": {
+      "hp": "140",
+      "stage": "Stage 1",
+      "type": "Pokemon TCG Pocket - Water"
+    },
+    "attacks": [
+      {
+        "name": "Retreat Cost",
+        "cost": [
+          "Pokemon TCG Pocket - Retreat Cost"
+        ],
+        "damage": "1 of your opponent's Pokemon is chosen at random 3 times. For each time a Pokemon was chosen, do 50 damage to it."
+      },
+      {
+        "name": "Pop Out Throughout",
+        "cost": [
+          "Water 3"
+        ],
+        "damage": "1 of your opponent's Pokemon is chosen at random 3 times. For each time a Pokemon was chosen, do 50 damage to it."
+      }
+    ],
+    "obtained_from": "Open Shining Revelry (A2b) packs"
+  },
+  {
+    "metadata": {
+      "number": "A2b 082",
+      "name": "Pikachu ex",
+      "collection_name": "Shining Revelry (A2b)",
+      "rarity": "Double Star",
+      "image_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+    },
+    "stats": {
+      "hp": "120",
+      "stage": "Basic",
+      "type": "Pokemon TCG Pocket - Lightning"
+    },
+    "attacks": [
+      {
+        "name": "Retreat Cost",
+        "cost": [
+          "Pokemon TCG Pocket - Retreat Cost"
+        ],
+        "damage": "Discard all energy from this Pokemon."
+      },
+      {
+        "name": "Thunderbolt",
+        "cost": [
+          "Lightning 3"
+        ],
+        "damage": "Discard all energy from this Pokemon."
+      }
+    ],
+    "obtained_from": "Open Shining Revelry (A2b) packs"
+  },
+  {
+    "metadata": {
+      "number": "A2b 083",
+      "name": "Giratina ex",
+      "collection_name": "Shining Revelry (A2b)",
+      "rarity": "Double Star",
+      "image_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+    },
+    "stats": {
+      "hp": "150",
+      "stage": "Basic",
+      "type": "Pokemon TCG Pocket - Psychic"
+    },
+    "attacks": [
+      {
+        "name": "Retreat Cost",
+        "cost": [
+          "Pokemon TCG Pocket - Retreat Cost"
+        ],
+        "damage": "This Pokemon also does 20 damage to itself."
+      },
+      {
+        "name": "Chaotic Impact",
+        "cost": [
+          "Psychic 3",
+          "Colorless"
+        ],
+        "damage": "This Pokemon also does 20 damage to itself."
+      }
+    ],
+    "obtained_from": "Open Shining Revelry (A2b) packs"
+  },
+  {
+    "metadata": {
+      "number": "A2b 084",
+      "name": "Lucario ex",
+      "collection_name": "Shining Revelry (A2b)",
+      "rarity": "Double Star",
+      "image_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+    },
+    "stats": {
+      "hp": "150",
+      "stage": "Stage 1",
+      "type": "Pokemon TCG Pocket - Fighting"
+    },
+    "attacks": [
+      {
+        "name": "Retreat Cost",
+        "cost": [
+          "Pokemon TCG Pocket - Retreat Cost"
+        ],
+        "damage": "The attack also does 30 damage to 1 of your opponent's benched Pokemon."
+      },
+      {
+        "name": "Aura Sphere",
+        "cost": [
+          "Fighting 3"
+        ],
+        "damage": "The attack also does 30 damage to 1 of your opponent's benched Pokemon."
+      }
+    ],
+    "obtained_from": "Open Shining Revelry (A2b) packs"
+  },
+  {
+    "metadata": {
+      "number": "A2b 085",
+      "name": "Paldean Clodsire ex",
+      "collection_name": "Shining Revelry (A2b)",
+      "rarity": "Double Star",
+      "image_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+    },
+    "stats": {
+      "hp": "160",
+      "stage": "Stage 1",
+      "type": "Pokemon TCG Pocket - Darkness"
+    },
+    "attacks": [
+      {
+        "name": "Retreat Cost",
+        "cost": [
+          "Pokemon TCG Pocket - Retreat Cost"
+        ],
+        "damage": "If your opponent's Active Pokemon is Poisoned, this attack does 60 more damage."
+      },
+      {
+        "name": "Venoshock",
+        "cost": [
+          "Darkness 2"
+        ],
+        "damage": "If your opponent's Active Pokemon is Poisoned, this attack does 60 more damage."
+      }
+    ],
+    "obtained_from": "Open Shining Revelry (A2b) packs"
+  },
+  {
+    "metadata": {
+      "number": "A2b 086",
+      "name": "Tinkaton ex",
+      "collection_name": "Shining Revelry (A2b)",
+      "rarity": "Double Star",
+      "image_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+    },
+    "stats": {
+      "hp": "170",
+      "stage": "Stage 2",
+      "type": "Pokemon TCG Pocket - Metal"
+    },
+    "attacks": [
+      {
+        "name": "Retreat Cost",
+        "cost": [
+          "Pokemon TCG Pocket - Retreat Cost"
+        ],
+        "damage": "Flip a coin. If heads, this attack does 80 more damage."
+      },
+      {
+        "name": "Terrific Thumping",
+        "cost": [
+          "Metal 2",
+          "Colorless"
+        ],
+        "damage": "Flip a coin. If heads, this attack does 80 more damage."
+      }
+    ],
+    "obtained_from": "Open Shining Revelry (A2b) packs"
+  },
+  {
+    "metadata": {
+      "number": "A2b 087",
+      "name": "Bibarel ex",
+      "collection_name": "Shining Revelry (A2b)",
+      "rarity": "Double Star",
+      "image_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+    },
+    "stats": {
+      "hp": "160",
+      "stage": "Stage 1",
+      "type": "Pokemon TCG Pocket - Colorless"
+    },
+    "attacks": [
+      {
+        "name": "Retreat Cost",
+        "cost": [
+          "Pokemon TCG Pocket - Retreat Cost"
+        ],
+        "damage": "Heal 30 damage from this Pokémon."
+      },
+      {
+        "name": "Carefree Press",
+        "cost": [
+          "Colorless 4"
+        ],
+        "damage": "Heal 30 damage from this Pokémon."
+      }
+    ],
+    "obtained_from": "Open Shining Revelry (A2b) packs"
+  },
+  {
+    "metadata": {
+      "number": "A2b 088",
+      "name": "Iono",
+      "collection_name": "Shining Revelry (A2b)",
+      "rarity": "Double Star",
+      "image_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+    },
+    "stats": {
+      "hp": "",
+      "stage": "",
+      "type": "Pokemon TCG Pocket - Supporter"
+    },
+    "attacks": [],
+    "obtained_from": "Open Shining Revelry (A2b) packs"
+  },
+  {
+    "metadata": {
+      "number": "A2b 089",
+      "name": "Pokemon Center Lady",
+      "collection_name": "Shining Revelry (A2b)",
+      "rarity": "Double Star",
+      "image_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+    },
+    "stats": {
+      "hp": "",
+      "stage": "",
+      "type": "Pokemon TCG Pocket - Supporter"
+    },
+    "attacks": [],
+    "obtained_from": "Open Shining Revelry (A2b) packs"
+  },
+  {
+    "metadata": {
+      "number": "A2b 090",
+      "name": "Red",
+      "collection_name": "Shining Revelry (A2b)",
+      "rarity": "Double Star",
+      "image_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+    },
+    "stats": {
+      "hp": "",
+      "stage": "",
+      "type": "Pokemon TCG Pocket - Supporter"
+    },
+    "attacks": [],
+    "obtained_from": "Open Shining Revelry (A2b) packs"
+  },
+  {
+    "metadata": {
+      "number": "A2b 091",
+      "name": "Team Rocket Grunt",
+      "collection_name": "Shining Revelry (A2b)",
+      "rarity": "Double Star",
+      "image_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+    },
+    "stats": {
+      "hp": "",
+      "stage": "",
+      "type": "Pokemon TCG Pocket - Supporter"
+    },
+    "attacks": [],
+    "obtained_from": "Open Shining Revelry (A2b) packs"
+  },
+  {
+    "metadata": {
+      "number": "A2b 092",
+      "name": "Pikachu ex",
+      "collection_name": "Shining Revelry (A2b)",
+      "rarity": "Double Star",
+      "image_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+    },
+    "stats": {
+      "hp": "120",
+      "stage": "Basic",
+      "type": "Pokemon TCG Pocket - Lightning"
+    },
+    "attacks": [
+      {
+        "name": "Retreat Cost",
+        "cost": [
+          "Pokemon TCG Pocket - Retreat Cost"
+        ],
+        "damage": "Discard all energy from this Pokemon."
+      },
+      {
+        "name": "Thunderbolt",
+        "cost": [
+          "Lightning 3"
+        ],
+        "damage": "Discard all energy from this Pokemon."
+      }
+    ],
+    "obtained_from": "Open Shining Revelry (A2b) packs"
+  },
+  {
+    "metadata": {
+      "number": "A2b 093",
+      "name": "Paldean Clodsire ex",
+      "collection_name": "Shining Revelry (A2b)",
+      "rarity": "Double Star",
+      "image_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+    },
+    "stats": {
+      "hp": "160",
+      "stage": "Stage 1",
+      "type": "Pokemon TCG Pocket - Darkness"
+    },
+    "attacks": [
+      {
+        "name": "Retreat Cost",
+        "cost": [
+          "Pokemon TCG Pocket - Retreat Cost"
+        ],
+        "damage": "If your opponent's Active Pokemon is Poisoned, this attack does 60 more damage."
+      },
+      {
+        "name": "Venoshock",
+        "cost": [
+          "Darkness 2"
+        ],
+        "damage": "If your opponent's Active Pokemon is Poisoned, this attack does 60 more damage."
+      }
+    ],
+    "obtained_from": "Open Shining Revelry (A2b) packs"
+  },
+  {
+    "metadata": {
+      "number": "A2b 094",
+      "name": "Tinkaton ex",
+      "collection_name": "Shining Revelry (A2b)",
+      "rarity": "Double Star",
+      "image_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+    },
+    "stats": {
+      "hp": "170",
+      "stage": "Stage 2",
+      "type": "Pokemon TCG Pocket - Metal"
+    },
+    "attacks": [
+      {
+        "name": "Retreat Cost",
+        "cost": [
+          "Pokemon TCG Pocket - Retreat Cost"
+        ],
+        "damage": "Flip a coin. If heads, this attack does 80 more damage."
+      },
+      {
+        "name": "Terrific Thumping",
+        "cost": [
+          "Metal 2",
+          "Colorless"
+        ],
+        "damage": "Flip a coin. If heads, this attack does 80 more damage."
+      }
+    ],
+    "obtained_from": "Open Shining Revelry (A2b) packs"
+  },
+  {
+    "metadata": {
+      "number": "A2b 095",
+      "name": "Bibarel ex",
+      "collection_name": "Shining Revelry (A2b)",
+      "rarity": "Double Star",
+      "image_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+    },
+    "stats": {
+      "hp": "160",
+      "stage": "Stage 1",
+      "type": "Pokemon TCG Pocket - Colorless"
+    },
+    "attacks": [
+      {
+        "name": "Retreat Cost",
+        "cost": [
+          "Pokemon TCG Pocket - Retreat Cost"
+        ],
+        "damage": "Heal 30 damage from this Pokémon."
+      },
+      {
+        "name": "Carefree Press",
+        "cost": [
+          "Colorless 4"
+        ],
+        "damage": "Heal 30 damage from this Pokémon."
+      }
+    ],
+    "obtained_from": "Open Shining Revelry (A2b) packs"
+  },
+  {
+    "metadata": {
+      "number": "A2b 096",
+      "name": "Giratina ex",
+      "collection_name": "Shining Revelry (A2b)",
+      "rarity": "Triple Star",
+      "image_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+    },
+    "stats": {
+      "hp": "150",
+      "stage": "Basic",
+      "type": "Pokemon TCG Pocket - Psychic"
+    },
+    "attacks": [
+      {
+        "name": "Retreat Cost",
+        "cost": [
+          "Pokemon TCG Pocket - Retreat Cost"
+        ],
+        "damage": "This Pokemon also does 20 damage to itself."
+      },
+      {
+        "name": "Chaotic Impact",
+        "cost": [
+          "Psychic 3",
+          "Colorless"
+        ],
+        "damage": "This Pokemon also does 20 damage to itself."
+      }
+    ],
+    "obtained_from": "Open Shining Revelry (A2b) packs"
+  },
+  {
+    "metadata": {
+      "number": "A2b 097",
+      "name": "Weedle",
+      "collection_name": "Shining Revelry (A2b)",
+      "rarity": "Unknown",
+      "image_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+    },
+    "stats": {
+      "hp": "50",
+      "stage": "Basic",
+      "type": "Pokemon TCG Pocket - Grass"
+    },
+    "attacks": [
+      {
+        "name": "Retreat Cost",
+        "cost": [
+          "Pokemon TCG Pocket - Retreat Cost"
+        ],
+        "damage": "Put 1 random Weedle from your deck onto your Bench."
+      },
+      {
+        "name": "Multiply",
+        "cost": [
+          "Grass"
+        ],
+        "damage": "Put 1 random Weedle from your deck onto your Bench."
+      }
+    ],
+    "obtained_from": "Open Shining Revelry (A2b) packs"
+  },
+  {
+    "metadata": {
+      "number": "A2b 098",
+      "name": "Kakuna",
+      "collection_name": "Shining Revelry (A2b)",
+      "rarity": "Unknown",
+      "image_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+    },
+    "stats": {
+      "hp": "80",
+      "stage": "Stage 1",
+      "type": "Pokemon TCG Pocket - Grass"
+    },
+    "attacks": [
+      {
+        "name": "Retreat Cost",
+        "cost": [
+          "Pokemon TCG Pocket - Retreat Cost"
+        ],
+        "damage": "Flip a coin. If heads, your opponent's Active Pokemon is now Paralyzed."
+      },
+      {
+        "name": "String Shot",
+        "cost": [
+          "Grass"
+        ],
+        "damage": "Flip a coin. If heads, your opponent's Active Pokemon is now Paralyzed."
+      }
+    ],
+    "obtained_from": "Open Shining Revelry (A2b) packs"
+  },
+  {
+    "metadata": {
+      "number": "A2b 099",
+      "name": "Charmander",
+      "collection_name": "Shining Revelry (A2b)",
+      "rarity": "Unknown",
+      "image_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+    },
+    "stats": {
+      "hp": "60",
+      "stage": "Basic",
+      "type": "Pokemon TCG Pocket - Fire"
+    },
+    "attacks": [
+      {
+        "name": "Retreat Cost",
+        "cost": [
+          "Pokemon TCG Pocket - Retreat Cost"
+        ],
+        "damage": "20"
+      },
+      {
+        "name": "Combustion",
+        "cost": [
+          "Fire"
+        ],
+        "damage": "20"
+      }
+    ],
+    "obtained_from": "Open Shining Revelry (A2b) packs"
+  },
+  {
+    "metadata": {
+      "number": "A2b 100",
+      "name": "Charmeleon",
+      "collection_name": "Shining Revelry (A2b)",
+      "rarity": "Unknown",
+      "image_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+    },
+    "stats": {
+      "hp": "90",
+      "stage": "Stage 1",
+      "type": "Pokemon TCG Pocket - Fire"
+    },
+    "attacks": [
+      {
+        "name": "Retreat Cost",
+        "cost": [
+          "Pokemon TCG Pocket - Retreat Cost"
+        ],
+        "damage": "40"
+      },
+      {
+        "name": "Combustion",
+        "cost": [
+          "Fire 2"
+        ],
+        "damage": "40"
+      }
+    ],
+    "obtained_from": "Open Shining Revelry (A2b) packs"
+  },
+  {
+    "metadata": {
+      "number": "A2b 101",
+      "name": "Wiglett",
+      "collection_name": "Shining Revelry (A2b)",
+      "rarity": "Unknown",
+      "image_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+    },
+    "stats": {
+      "hp": "60",
+      "stage": "Basic",
+      "type": "Pokemon TCG Pocket - Water"
+    },
+    "attacks": [
+      {
+        "name": "Retreat Cost",
+        "cost": [
+          "Pokemon TCG Pocket - Retreat Cost"
+        ],
+        "damage": "1 of your opponent's Pokemon is chosen at random. Do 30 damage on it."
+      },
+      {
+        "name": "Spring Out",
+        "cost": [
+          "Water"
+        ],
+        "damage": "1 of your opponent's Pokemon is chosen at random. Do 30 damage on it."
+      }
+    ],
+    "obtained_from": "Open Shining Revelry (A2b) packs"
+  },
+  {
+    "metadata": {
+      "number": "A2b 102",
+      "name": "Dondozo",
+      "collection_name": "Shining Revelry (A2b)",
+      "rarity": "Unknown",
+      "image_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+    },
+    "stats": {
+      "hp": "120",
+      "stage": "Basic",
+      "type": "Pokemon TCG Pocket - Water"
+    },
+    "attacks": [
+      {
+        "name": "Retreat Cost",
+        "cost": [
+          "Pokemon TCG Pocket - Retreat Cost"
+        ],
+        "damage": "This attack also does 10 damage to each of your opponent's Benched Pokemon."
+      },
+      {
+        "name": "Ocean Cyclone",
+        "cost": [
+          "Water 4"
+        ],
+        "damage": "This attack also does 10 damage to each of your opponent's Benched Pokemon."
+      }
+    ],
+    "obtained_from": "Open Shining Revelry (A2b) packs"
+  },
+  {
+    "metadata": {
+      "number": "A2b 103",
+      "name": "Pachirisu",
+      "collection_name": "Shining Revelry (A2b)",
+      "rarity": "Unknown",
+      "image_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+    },
+    "stats": {
+      "hp": "70",
+      "stage": "Basic",
+      "type": "Pokemon TCG Pocket - Lightning"
+    },
+    "attacks": [
+      {
+        "name": "Retreat Cost",
+        "cost": [
+          "Pokemon TCG Pocket - Retreat Cost"
+        ],
+        "damage": "Take a Lightning Energy from your Energy Zone and attach it to 1 of your Benched Lightning Pokemon."
+      },
+      {
+        "name": "Plasma",
+        "cost": [
+          "Lightning"
+        ],
+        "damage": "Take a Lightning Energy from your Energy Zone and attach it to 1 of your Benched Lightning Pokemon."
+      }
+    ],
+    "obtained_from": "Open Shining Revelry (A2b) packs"
+  },
+  {
+    "metadata": {
+      "number": "A2b 104",
+      "name": "Riolu",
+      "collection_name": "Shining Revelry (A2b)",
+      "rarity": "Unknown",
+      "image_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+    },
+    "stats": {
+      "hp": "70",
+      "stage": "Basic",
+      "type": "Pokemon TCG Pocket - Fighting"
+    },
+    "attacks": [
+      {
+        "name": "Retreat Cost",
+        "cost": [
+          "Pokemon TCG Pocket - Retreat Cost"
+        ],
+        "damage": "40"
+      },
+      {
+        "name": "Punch",
+        "cost": [
+          "Fighting 2"
+        ],
+        "damage": "40"
+      }
+    ],
+    "obtained_from": "Open Shining Revelry (A2b) packs"
+  },
+  {
+    "metadata": {
+      "number": "A2b 105",
+      "name": "Varoom",
+      "collection_name": "Shining Revelry (A2b)",
+      "rarity": "Unknown",
+      "image_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+    },
+    "stats": {
+      "hp": "70",
+      "stage": "Basic",
+      "type": "Pokemon TCG Pocket - Metal"
+    },
+    "attacks": [
+      {
+        "name": "Retreat Cost",
+        "cost": [
+          "Pokemon TCG Pocket - Retreat Cost"
+        ],
+        "damage": "10"
+      },
+      {
+        "name": "Headbutt",
+        "cost": [
+          "Metal"
+        ],
+        "damage": "10"
+      }
+    ],
+    "obtained_from": "Open Shining Revelry (A2b) packs"
+  },
+  {
+    "metadata": {
+      "number": "A2b 106",
+      "name": "Revavroom",
+      "collection_name": "Shining Revelry (A2b)",
+      "rarity": "Unknown",
+      "image_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+    },
+    "stats": {
+      "hp": "110",
+      "stage": "Stage 1",
+      "type": "Pokemon TCG Pocket - Metal"
+    },
+    "attacks": [
+      {
+        "name": "Retreat Cost",
+        "cost": [
+          "Pokemon TCG Pocket - Retreat Cost"
+        ],
+        "damage": "Flip a coin. If heads, during your opponent's next turn, prevent all damage from–and effects of–attacks done to this Pokémon."
+      },
+      {
+        "name": "Spinning Drift",
+        "cost": [
+          "Metal 2",
+          "Colorless"
+        ],
+        "damage": "Flip a coin. If heads, during your opponent's next turn, prevent all damage from–and effects of–attacks done to this Pokémon."
+      }
+    ],
+    "obtained_from": "Open Shining Revelry (A2b) packs"
+  },
+  {
+    "metadata": {
+      "number": "A2b 107",
+      "name": "Beedrill ex",
+      "collection_name": "Shining Revelry (A2b)",
+      "rarity": "Unknown",
+      "image_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+    },
+    "stats": {
+      "hp": "170",
+      "stage": "Stage 2",
+      "type": "Pokemon TCG Pocket - Grass"
+    },
+    "attacks": [
+      {
+        "name": "Retreat Cost",
+        "cost": [
+          "Pokemon TCG Pocket - Retreat Cost"
+        ],
+        "damage": "Discard a random Energy from your opponent's Active Pokemon."
+      },
+      {
+        "name": "Crushing Spear",
+        "cost": [
+          "Grass 2"
+        ],
+        "damage": "Discard a random Energy from your opponent's Active Pokemon."
+      }
+    ],
+    "obtained_from": "Open Shining Revelry (A2b) packs"
+  },
+  {
+    "metadata": {
+      "number": "A2b 108",
+      "name": "Charizard ex",
+      "collection_name": "Shining Revelry (A2b)",
+      "rarity": "Unknown",
+      "image_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+    },
+    "stats": {
+      "hp": "180",
+      "stage": "Stage 2",
+      "type": "Pokemon TCG Pocket - Fire"
+    },
+    "attacks": [
+      {
+        "name": "Retreat Cost",
+        "cost": [
+          "Pokemon TCG Pocket - Retreat Cost"
+        ],
+        "damage": "150"
+      },
+      {
+        "name": "Stoke",
+        "cost": [
+          "Fire"
+        ],
+        "damage": "150"
+      },
+      {
+        "name": "Steam Artillery",
+        "cost": [
+          "Fire 3",
+          "Colorless 2"
+        ],
+        "damage": "150"
+      }
+    ],
+    "obtained_from": "Open Shining Revelry (A2b) packs"
+  },
+  {
+    "metadata": {
+      "number": "A2b 109",
+      "name": "Wugtrio ex",
+      "collection_name": "Shining Revelry (A2b)",
+      "rarity": "Unknown",
+      "image_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+    },
+    "stats": {
+      "hp": "140",
+      "stage": "Stage 1",
+      "type": "Pokemon TCG Pocket - Water"
+    },
+    "attacks": [
+      {
+        "name": "Retreat Cost",
+        "cost": [
+          "Pokemon TCG Pocket - Retreat Cost"
+        ],
+        "damage": "1 of your opponent's Pokemon is chosen at random 3 times. For each time a Pokemon was chosen, do 50 damage to it."
+      },
+      {
+        "name": "Pop Out Throughout",
+        "cost": [
+          "Water 3"
+        ],
+        "damage": "1 of your opponent's Pokemon is chosen at random 3 times. For each time a Pokemon was chosen, do 50 damage to it."
+      }
+    ],
+    "obtained_from": "Open Shining Revelry (A2b) packs"
+  },
+  {
+    "metadata": {
+      "number": "A2b 110",
+      "name": "Lucario ex",
+      "collection_name": "Shining Revelry (A2b)",
+      "rarity": "Unknown",
+      "image_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+    },
+    "stats": {
+      "hp": "150",
+      "stage": "Stage 1",
+      "type": "Pokemon TCG Pocket - Fighting"
+    },
+    "attacks": [
+      {
+        "name": "Retreat Cost",
+        "cost": [
+          "Pokemon TCG Pocket - Retreat Cost"
+        ],
+        "damage": "The attack also does 30 damage to 1 of your opponent's benched Pokemon."
+      },
+      {
+        "name": "Aura Sphere",
+        "cost": [
+          "Fighting 3"
+        ],
+        "damage": "The attack also does 30 damage to 1 of your opponent's benched Pokemon."
+      }
+    ],
+    "obtained_from": "Open Shining Revelry (A2b) packs"
+  },
+  {
+    "metadata": {
+      "number": "A2b 111",
+      "name": "Poke Ball",
+      "collection_name": "Shining Revelry (A2b)",
+      "rarity": "Crown",
+      "image_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+    },
+    "stats": {
+      "hp": "",
+      "stage": "",
+      "type": "Pokemon TCG Pocket - Item"
+    },
+    "attacks": [],
+    "obtained_from": "Open Shining Revelry (A2b) packs"
+  }
+]

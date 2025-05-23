@@ -1,0 +1,2910 @@
+[
+  {
+    "metadata": {
+      "number": "A2a 001",
+      "name": "Heracross",
+      "collection_name": "Triumphant Light (A2a)",
+      "rarity": "Uncommon",
+      "image_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+    },
+    "stats": {
+      "hp": "100",
+      "stage": "Basic",
+      "type": "Pokemon TCG Pocket - Grass"
+    },
+    "attacks": [
+      {
+        "name": "Retreat Cost",
+        "cost": [
+          "Pokemon TCG Pocket - Retreat Cost"
+        ],
+        "damage": "Flip 2 coins. If both of them are heads, this attack does 70 more damage."
+      },
+      {
+        "name": "Single-Horn Throw",
+        "cost": [
+          "Grass",
+          "Colorless 2"
+        ],
+        "damage": "Flip 2 coins. If both of them are heads, this attack does 70 more damage."
+      }
+    ],
+    "obtained_from": "Open Triumphant Light (A2a) packs"
+  },
+  {
+    "metadata": {
+      "number": "A2a 002",
+      "name": "Burmy",
+      "collection_name": "Triumphant Light (A2a)",
+      "rarity": "Common",
+      "image_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+    },
+    "stats": {
+      "hp": "50",
+      "stage": "Basic",
+      "type": "Pokemon TCG Pocket - Grass"
+    },
+    "attacks": [
+      {
+        "name": "Retreat Cost",
+        "cost": [
+          "Pokemon TCG Pocket - Retreat Cost"
+        ],
+        "damage": "20"
+      },
+      {
+        "name": "Ram",
+        "cost": [
+          "Grass"
+        ],
+        "damage": "20"
+      }
+    ],
+    "obtained_from": "Open Triumphant Light (A2a) packs"
+  },
+  {
+    "metadata": {
+      "number": "A2a 003",
+      "name": "Mothim",
+      "collection_name": "Triumphant Light (A2a)",
+      "rarity": "Uncommon",
+      "image_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+    },
+    "stats": {
+      "hp": "90",
+      "stage": "Stage 1",
+      "type": "Pokemon TCG Pocket - Grass"
+    },
+    "attacks": [
+      {
+        "name": "Retreat Cost",
+        "cost": [
+          "Pokemon TCG Pocket - Retreat Cost"
+        ],
+        "damage": "50"
+      },
+      {
+        "name": "Gust",
+        "cost": [
+          "Colorless 2"
+        ],
+        "damage": "50"
+      }
+    ],
+    "obtained_from": "Open Triumphant Light (A2a) packs"
+  },
+  {
+    "metadata": {
+      "number": "A2a 004",
+      "name": "Combee",
+      "collection_name": "Triumphant Light (A2a)",
+      "rarity": "Common",
+      "image_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+    },
+    "stats": {
+      "hp": "50",
+      "stage": "Basic",
+      "type": "Pokemon TCG Pocket - Grass"
+    },
+    "attacks": [
+      {
+        "name": "Retreat Cost",
+        "cost": [
+          "Pokemon TCG Pocket - Retreat Cost"
+        ],
+        "damage": "20"
+      },
+      {
+        "name": "Bug Bite",
+        "cost": [
+          "Grass"
+        ],
+        "damage": "20"
+      }
+    ],
+    "obtained_from": "Open Triumphant Light (A2a) packs"
+  },
+  {
+    "metadata": {
+      "number": "A2a 005",
+      "name": "Vespiquen",
+      "collection_name": "Triumphant Light (A2a)",
+      "rarity": "Uncommon",
+      "image_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+    },
+    "stats": {
+      "hp": "100",
+      "stage": "Stage 1",
+      "type": "Pokemon TCG Pocket - Grass"
+    },
+    "attacks": [
+      {
+        "name": "Retreat Cost",
+        "cost": [
+          "Pokemon TCG Pocket - Retreat Cost"
+        ],
+        "damage": "This Pokemon also does 30 damage to itself."
+      },
+      {
+        "name": "Reckless Charge",
+        "cost": [
+          "Grass 3"
+        ],
+        "damage": "This Pokemon also does 30 damage to itself."
+      }
+    ],
+    "obtained_from": "Open Triumphant Light (A2a) packs"
+  },
+  {
+    "metadata": {
+      "number": "A2a 006",
+      "name": "Cherubi",
+      "collection_name": "Triumphant Light (A2a)",
+      "rarity": "Common",
+      "image_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+    },
+    "stats": {
+      "hp": "50",
+      "stage": "Basic",
+      "type": "Pokemon TCG Pocket - Grass"
+    },
+    "attacks": [
+      {
+        "name": "Retreat Cost",
+        "cost": [
+          "Pokemon TCG Pocket - Retreat Cost"
+        ],
+        "damage": "20"
+      },
+      {
+        "name": "Leafage",
+        "cost": [
+          "Grass"
+        ],
+        "damage": "20"
+      }
+    ],
+    "obtained_from": "Open Triumphant Light (A2a) packs"
+  },
+  {
+    "metadata": {
+      "number": "A2a 007",
+      "name": "Cherrim",
+      "collection_name": "Triumphant Light (A2a)",
+      "rarity": "Uncommon",
+      "image_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+    },
+    "stats": {
+      "hp": "80",
+      "stage": "Stage 1",
+      "type": "Pokemon TCG Pocket - Grass"
+    },
+    "attacks": [
+      {
+        "name": "Retreat Cost",
+        "cost": [
+          "Pokemon TCG Pocket - Retreat Cost"
+        ],
+        "damage": "Your opponent's Active Pokemon is now Confused."
+      },
+      {
+        "name": "Worry Seed",
+        "cost": [
+          "Grass"
+        ],
+        "damage": "Your opponent's Active Pokemon is now Confused."
+      }
+    ],
+    "obtained_from": "Open Triumphant Light (A2a) packs"
+  },
+  {
+    "metadata": {
+      "number": "A2a 008",
+      "name": "Cherrim",
+      "collection_name": "Triumphant Light (A2a)",
+      "rarity": "Uncommon",
+      "image_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+    },
+    "stats": {
+      "hp": "80",
+      "stage": "Stage 1",
+      "type": "Pokemon TCG Pocket - Grass"
+    },
+    "attacks": [
+      {
+        "name": "Retreat Cost",
+        "cost": [
+          "Pokemon TCG Pocket - Retreat Cost"
+        ],
+        "damage": "Heal 20 damage from this Pokemon."
+      },
+      {
+        "name": "Leech Seed",
+        "cost": [
+          "Grass 2"
+        ],
+        "damage": "Heal 20 damage from this Pokemon."
+      }
+    ],
+    "obtained_from": "Open Triumphant Light (A2a) packs"
+  },
+  {
+    "metadata": {
+      "number": "A2a 009",
+      "name": "Carnivine",
+      "collection_name": "Triumphant Light (A2a)",
+      "rarity": "Rare",
+      "image_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+    },
+    "stats": {
+      "hp": "80",
+      "stage": "Basic",
+      "type": "Pokemon TCG Pocket - Grass"
+    },
+    "attacks": [
+      {
+        "name": "Retreat Cost",
+        "cost": [
+          "Pokemon TCG Pocket - Retreat Cost"
+        ],
+        "damage": "20"
+      },
+      {
+        "name": "Vine Whip",
+        "cost": [
+          "Grass"
+        ],
+        "damage": "20"
+      }
+    ],
+    "obtained_from": "Open Triumphant Light (A2a) packs"
+  },
+  {
+    "metadata": {
+      "number": "A2a 010",
+      "name": "Leafeon ex",
+      "collection_name": "Triumphant Light (A2a)",
+      "rarity": "Super Rare",
+      "image_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+    },
+    "stats": {
+      "hp": "140",
+      "stage": "Stage 1",
+      "type": "Pokemon TCG Pocket - Grass"
+    },
+    "attacks": [
+      {
+        "name": "Retreat Cost",
+        "cost": [
+          "Pokemon TCG Pocket - Retreat Cost"
+        ],
+        "damage": "70"
+      },
+      {
+        "name": "Solar Beam",
+        "cost": [
+          "Grass",
+          "Colorless 2"
+        ],
+        "damage": "70"
+      }
+    ],
+    "obtained_from": "Open Triumphant Light (A2a) packs"
+  },
+  {
+    "metadata": {
+      "number": "A2a 011",
+      "name": "Houndour",
+      "collection_name": "Triumphant Light (A2a)",
+      "rarity": "Common",
+      "image_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+    },
+    "stats": {
+      "hp": "60",
+      "stage": "Basic",
+      "type": "Pokemon TCG Pocket - Fire"
+    },
+    "attacks": [
+      {
+        "name": "Retreat Cost",
+        "cost": [
+          "Pokemon TCG Pocket - Retreat Cost"
+        ],
+        "damage": "20"
+      },
+      {
+        "name": "Flare Blitz",
+        "cost": [
+          "Fire"
+        ],
+        "damage": "20"
+      }
+    ],
+    "obtained_from": "Open Triumphant Light (A2a) packs"
+  },
+  {
+    "metadata": {
+      "number": "A2a 012",
+      "name": "Houndoom",
+      "collection_name": "Triumphant Light (A2a)",
+      "rarity": "Uncommon",
+      "image_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+    },
+    "stats": {
+      "hp": "100",
+      "stage": "Stage 1",
+      "type": "Pokemon TCG Pocket - Fire"
+    },
+    "attacks": [
+      {
+        "name": "Retreat Cost",
+        "cost": [
+          "Pokemon TCG Pocket - Retreat Cost"
+        ],
+        "damage": "During your opponent's next turn, the Defending Pokemon can't retreat."
+      },
+      {
+        "name": "Corner",
+        "cost": [
+          "Fire",
+          "Colorless"
+        ],
+        "damage": "During your opponent's next turn, the Defending Pokemon can't retreat."
+      }
+    ],
+    "obtained_from": "Open Triumphant Light (A2a) packs"
+  },
+  {
+    "metadata": {
+      "number": "A2a 013",
+      "name": "Heatran",
+      "collection_name": "Triumphant Light (A2a)",
+      "rarity": "Rare",
+      "image_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+    },
+    "stats": {
+      "hp": "110",
+      "stage": "Basic",
+      "type": "Pokemon TCG Pocket - Fire"
+    },
+    "attacks": [
+      {
+        "name": "Retreat Cost",
+        "cost": [
+          "Pokemon TCG Pocket - Retreat Cost"
+        ],
+        "damage": "If this Pokemon has damage on it, this attack does 40 more damage."
+      },
+      {
+        "name": "Ragin' Mad Strike",
+        "cost": [
+          "Fire 2"
+        ],
+        "damage": "If this Pokemon has damage on it, this attack does 40 more damage."
+      }
+    ],
+    "obtained_from": "Open Triumphant Light (A2a) packs"
+  },
+  {
+    "metadata": {
+      "number": "A2a 014",
+      "name": "Marill",
+      "collection_name": "Triumphant Light (A2a)",
+      "rarity": "Common",
+      "image_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+    },
+    "stats": {
+      "hp": "60",
+      "stage": "Basic",
+      "type": "Pokemon TCG Pocket - Water"
+    },
+    "attacks": [
+      {
+        "name": "Retreat Cost",
+        "cost": [
+          "Pokemon TCG Pocket - Retreat Cost"
+        ],
+        "damage": "20"
+      },
+      {
+        "name": "Water Gun",
+        "cost": [
+          "Water"
+        ],
+        "damage": "20"
+      }
+    ],
+    "obtained_from": "Open Triumphant Light (A2a) packs"
+  },
+  {
+    "metadata": {
+      "number": "A2a 015",
+      "name": "Azumarill",
+      "collection_name": "Triumphant Light (A2a)",
+      "rarity": "Common",
+      "image_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+    },
+    "stats": {
+      "hp": "100",
+      "stage": "Stage 1",
+      "type": "Pokemon TCG Pocket - Water"
+    },
+    "attacks": [
+      {
+        "name": "Retreat Cost",
+        "cost": [
+          "Pokemon TCG Pocket - Retreat Cost"
+        ],
+        "damage": "60"
+      },
+      {
+        "name": "Waterfall",
+        "cost": [
+          "Water",
+          "Colorless"
+        ],
+        "damage": "60"
+      }
+    ],
+    "obtained_from": "Open Triumphant Light (A2a) packs"
+  },
+  {
+    "metadata": {
+      "number": "A2a 016",
+      "name": "Barboach",
+      "collection_name": "Triumphant Light (A2a)",
+      "rarity": "Common",
+      "image_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+    },
+    "stats": {
+      "hp": "60",
+      "stage": "Basic",
+      "type": "Pokemon TCG Pocket - Water"
+    },
+    "attacks": [
+      {
+        "name": "Retreat Cost",
+        "cost": [
+          "Pokemon TCG Pocket - Retreat Cost"
+        ],
+        "damage": "30"
+      },
+      {
+        "name": "Mud-Slap",
+        "cost": [
+          "Water",
+          "Colorless"
+        ],
+        "damage": "30"
+      }
+    ],
+    "obtained_from": "Open Triumphant Light (A2a) packs"
+  },
+  {
+    "metadata": {
+      "number": "A2a 017",
+      "name": "Whiscash",
+      "collection_name": "Triumphant Light (A2a)",
+      "rarity": "Uncommon",
+      "image_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+    },
+    "stats": {
+      "hp": "120",
+      "stage": "Stage 1",
+      "type": "Pokemon TCG Pocket - Water"
+    },
+    "attacks": [
+      {
+        "name": "Retreat Cost",
+        "cost": [
+          "Pokemon TCG Pocket - Retreat Cost"
+        ],
+        "damage": "Flip a coin. If heads, this attack does 60 more damage. If tails, this Pokemon also does 20 damage to itself."
+      },
+      {
+        "name": "Thrash",
+        "cost": [
+          "Water 2",
+          "Colorless 2"
+        ],
+        "damage": "Flip a coin. If heads, this attack does 60 more damage. If tails, this Pokemon also does 20 damage to itself."
+      }
+    ],
+    "obtained_from": "Open Triumphant Light (A2a) packs"
+  },
+  {
+    "metadata": {
+      "number": "A2a 018",
+      "name": "Snorunt",
+      "collection_name": "Triumphant Light (A2a)",
+      "rarity": "Common",
+      "image_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+    },
+    "stats": {
+      "hp": "60",
+      "stage": "Basic",
+      "type": "Pokemon TCG Pocket - Water"
+    },
+    "attacks": [
+      {
+        "name": "Retreat Cost",
+        "cost": [
+          "Pokemon TCG Pocket - Retreat Cost"
+        ],
+        "damage": "20"
+      },
+      {
+        "name": "Icicle",
+        "cost": [
+          "Water"
+        ],
+        "damage": "20"
+      }
+    ],
+    "obtained_from": "Open Triumphant Light (A2a) packs"
+  },
+  {
+    "metadata": {
+      "number": "A2a 019",
+      "name": "Froslass",
+      "collection_name": "Triumphant Light (A2a)",
+      "rarity": "Uncommon",
+      "image_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+    },
+    "stats": {
+      "hp": "90",
+      "stage": "Stage 1",
+      "type": "Pokemon TCG Pocket - Water"
+    },
+    "attacks": [
+      {
+        "name": "Retreat Cost",
+        "cost": [
+          "Pokemon TCG Pocket - Retreat Cost"
+        ],
+        "damage": "This attack also does 10 damage to each of your opponent's Benched Pokemon."
+      },
+      {
+        "name": "Blizzard",
+        "cost": [
+          "Water",
+          "Colorless"
+        ],
+        "damage": "This attack also does 10 damage to each of your opponent's Benched Pokemon."
+      }
+    ],
+    "obtained_from": "Open Triumphant Light (A2a) packs"
+  },
+  {
+    "metadata": {
+      "number": "A2a 020",
+      "name": "Snover",
+      "collection_name": "Triumphant Light (A2a)",
+      "rarity": "Common",
+      "image_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+    },
+    "stats": {
+      "hp": "70",
+      "stage": "Basic",
+      "type": "Pokemon TCG Pocket - Water"
+    },
+    "attacks": [
+      {
+        "name": "Retreat Cost",
+        "cost": [
+          "Pokemon TCG Pocket - Retreat Cost"
+        ],
+        "damage": "30"
+      },
+      {
+        "name": "Corkscrew Punch",
+        "cost": [
+          "Water",
+          "Colorless"
+        ],
+        "damage": "30"
+      }
+    ],
+    "obtained_from": "Open Triumphant Light (A2a) packs"
+  },
+  {
+    "metadata": {
+      "number": "A2a 021",
+      "name": "Abomasnow",
+      "collection_name": "Triumphant Light (A2a)",
+      "rarity": "Rare",
+      "image_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+    },
+    "stats": {
+      "hp": "120",
+      "stage": "Stage 1",
+      "type": "Pokemon TCG Pocket - Water"
+    },
+    "attacks": [
+      {
+        "name": "Retreat Cost",
+        "cost": [
+          "Pokemon TCG Pocket - Retreat Cost"
+        ],
+        "damage": "80"
+      },
+      {
+        "name": "Mega Punch",
+        "cost": [
+          "Water 2",
+          "Colorless"
+        ],
+        "damage": "80"
+      }
+    ],
+    "obtained_from": "Open Triumphant Light (A2a) packs"
+  },
+  {
+    "metadata": {
+      "number": "A2a 022",
+      "name": "Glaceon ex",
+      "collection_name": "Triumphant Light (A2a)",
+      "rarity": "Super Rare",
+      "image_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+    },
+    "stats": {
+      "hp": "140",
+      "stage": "Stage 1",
+      "type": "Pokemon TCG Pocket - Water"
+    },
+    "attacks": [
+      {
+        "name": "Retreat Cost",
+        "cost": [
+          "Pokemon TCG Pocket - Retreat Cost"
+        ],
+        "damage": "90"
+      },
+      {
+        "name": "Freezing Wind",
+        "cost": [
+          "Water 2",
+          "Colorless"
+        ],
+        "damage": "90"
+      }
+    ],
+    "obtained_from": "Open Triumphant Light (A2a) packs"
+  },
+  {
+    "metadata": {
+      "number": "A2a 023",
+      "name": "Origin Forme Palkia",
+      "collection_name": "Triumphant Light (A2a)",
+      "rarity": "Rare",
+      "image_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+    },
+    "stats": {
+      "hp": "120",
+      "stage": "Basic",
+      "type": "Pokemon TCG Pocket - Water"
+    },
+    "attacks": [
+      {
+        "name": "Retreat Cost",
+        "cost": [
+          "Pokemon TCG Pocket - Retreat Cost"
+        ],
+        "damage": "Flip a coin. If heads, this attack does 60 more damage."
+      },
+      {
+        "name": "Zone Smash",
+        "cost": [
+          "Water 3"
+        ],
+        "damage": "Flip a coin. If heads, this attack does 60 more damage."
+      }
+    ],
+    "obtained_from": "Open Triumphant Light (A2a) packs"
+  },
+  {
+    "metadata": {
+      "number": "A2a 024",
+      "name": "Phione",
+      "collection_name": "Triumphant Light (A2a)",
+      "rarity": "Uncommon",
+      "image_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+    },
+    "stats": {
+      "hp": "60",
+      "stage": "Basic",
+      "type": "Pokemon TCG Pocket - Water"
+    },
+    "attacks": [
+      {
+        "name": "Retreat Cost",
+        "cost": [
+          "Pokemon TCG Pocket - Retreat Cost"
+        ],
+        "damage": "Your opponent's Active Pokemon is now Asleep."
+      },
+      {
+        "name": "Water Pulse",
+        "cost": [
+          "Water 2"
+        ],
+        "damage": "Your opponent's Active Pokemon is now Asleep."
+      }
+    ],
+    "obtained_from": "Open Triumphant Light (A2a) packs"
+  },
+  {
+    "metadata": {
+      "number": "A2a 025",
+      "name": "Pikachu",
+      "collection_name": "Triumphant Light (A2a)",
+      "rarity": "Common",
+      "image_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+    },
+    "stats": {
+      "hp": "60",
+      "stage": "Basic",
+      "type": "Pokemon TCG Pocket - Lightning"
+    },
+    "attacks": [
+      {
+        "name": "Retreat Cost",
+        "cost": [
+          "Pokemon TCG Pocket - Retreat Cost"
+        ],
+        "damage": "This attack also does 10 damage to 1 of your opponent's Benched Pokemon."
+      },
+      {
+        "name": "Spark",
+        "cost": [
+          "Lightning"
+        ],
+        "damage": "This attack also does 10 damage to 1 of your opponent's Benched Pokemon."
+      }
+    ],
+    "obtained_from": "Open Triumphant Light (A2a) packs"
+  },
+  {
+    "metadata": {
+      "number": "A2a 026",
+      "name": "Raichu",
+      "collection_name": "Triumphant Light (A2a)",
+      "rarity": "Rare",
+      "image_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+    },
+    "stats": {
+      "hp": "90",
+      "stage": "Stage 1",
+      "type": "Pokemon TCG Pocket - Lightning"
+    },
+    "attacks": [
+      {
+        "name": "Retreat Cost",
+        "cost": [
+          "Pokemon TCG Pocket - Retreat Cost"
+        ],
+        "damage": "This attack does 20 damage to 1 of your opponent's Benched Pokemon."
+      },
+      {
+        "name": "Spark",
+        "cost": [
+          "Lightning 2"
+        ],
+        "damage": "This attack does 20 damage to 1 of your opponent's Benched Pokemon."
+      }
+    ],
+    "obtained_from": "Open Triumphant Light (A2a) packs"
+  },
+  {
+    "metadata": {
+      "number": "A2a 027",
+      "name": "Electrike",
+      "collection_name": "Triumphant Light (A2a)",
+      "rarity": "Common",
+      "image_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+    },
+    "stats": {
+      "hp": "60",
+      "stage": "Basic",
+      "type": "Pokemon TCG Pocket - Lightning"
+    },
+    "attacks": [
+      {
+        "name": "Retreat Cost",
+        "cost": [
+          "Pokemon TCG Pocket - Retreat Cost"
+        ],
+        "damage": "20"
+      },
+      {
+        "name": "Zap Kick",
+        "cost": [
+          "Lightning"
+        ],
+        "damage": "20"
+      }
+    ],
+    "obtained_from": "Open Triumphant Light (A2a) packs"
+  },
+  {
+    "metadata": {
+      "number": "A2a 028",
+      "name": "Manectric",
+      "collection_name": "Triumphant Light (A2a)",
+      "rarity": "Uncommon",
+      "image_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+    },
+    "stats": {
+      "hp": "90",
+      "stage": "Stage 1",
+      "type": "Pokemon TCG Pocket - Lightning"
+    },
+    "attacks": [
+      {
+        "name": "Retreat Cost",
+        "cost": [
+          "Pokemon TCG Pocket - Retreat Cost"
+        ],
+        "damage": "During your opponent's next turn, if the Defending Pokemon tries to use an attack, your opponent flips a coin. If tails, that attack doesn't happen."
+      },
+      {
+        "name": "Flash",
+        "cost": [
+          "Lightning"
+        ],
+        "damage": "During your opponent's next turn, if the Defending Pokemon tries to use an attack, your opponent flips a coin. If tails, that attack doesn't happen."
+      }
+    ],
+    "obtained_from": "Open Triumphant Light (A2a) packs"
+  },
+  {
+    "metadata": {
+      "number": "A2a 029",
+      "name": "Clefairy",
+      "collection_name": "Triumphant Light (A2a)",
+      "rarity": "Common",
+      "image_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+    },
+    "stats": {
+      "hp": "60",
+      "stage": "Basic",
+      "type": "Pokemon TCG Pocket - Psychic"
+    },
+    "attacks": [
+      {
+        "name": "Retreat Cost",
+        "cost": [
+          "Pokemon TCG Pocket - Retreat Cost"
+        ],
+        "damage": "30"
+      },
+      {
+        "name": "Smack",
+        "cost": [
+          "Psychic",
+          "Colorless"
+        ],
+        "damage": "30"
+      }
+    ],
+    "obtained_from": "Open Triumphant Light (A2a) packs"
+  },
+  {
+    "metadata": {
+      "number": "A2a 030",
+      "name": "Clefable",
+      "collection_name": "Triumphant Light (A2a)",
+      "rarity": "Uncommon",
+      "image_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+    },
+    "stats": {
+      "hp": "100",
+      "stage": "Stage 1",
+      "type": "Pokemon TCG Pocket - Psychic"
+    },
+    "attacks": [
+      {
+        "name": "Retreat Cost",
+        "cost": [
+          "Pokemon TCG Pocket - Retreat Cost"
+        ],
+        "damage": "During your opponent's next turn, attacks used by the Defending Pokemon do -30 damage."
+      },
+      {
+        "name": "Moonblast",
+        "cost": [
+          "Psychic",
+          "Colorless 2"
+        ],
+        "damage": "During your opponent's next turn, attacks used by the Defending Pokemon do -30 damage."
+      }
+    ],
+    "obtained_from": "Open Triumphant Light (A2a) packs"
+  },
+  {
+    "metadata": {
+      "number": "A2a 031",
+      "name": "Gastly",
+      "collection_name": "Triumphant Light (A2a)",
+      "rarity": "Common",
+      "image_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+    },
+    "stats": {
+      "hp": "50",
+      "stage": "Basic",
+      "type": "Pokemon TCG Pocket - Psychic"
+    },
+    "attacks": [
+      {
+        "name": "Retreat Cost",
+        "cost": [
+          "Pokemon TCG Pocket - Retreat Cost"
+        ],
+        "damage": "Flip a coin. If heads, your opponent reveals a random card from their hand and shuffles it into their deck."
+      },
+      {
+        "name": "Astonish",
+        "cost": [
+          "Colorless"
+        ],
+        "damage": "Flip a coin. If heads, your opponent reveals a random card from their hand and shuffles it into their deck."
+      }
+    ],
+    "obtained_from": "Open Triumphant Light (A2a) packs"
+  },
+  {
+    "metadata": {
+      "number": "A2a 032",
+      "name": "Haunter",
+      "collection_name": "Triumphant Light (A2a)",
+      "rarity": "Common",
+      "image_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+    },
+    "stats": {
+      "hp": "80",
+      "stage": "Stage 1",
+      "type": "Pokemon TCG Pocket - Psychic"
+    },
+    "attacks": [
+      {
+        "name": "Retreat Cost",
+        "cost": [
+          "Pokemon TCG Pocket - Retreat Cost"
+        ],
+        "damage": "40"
+      },
+      {
+        "name": "Mumble",
+        "cost": [
+          "Psychic 2"
+        ],
+        "damage": "40"
+      }
+    ],
+    "obtained_from": "Open Triumphant Light (A2a) packs"
+  },
+  {
+    "metadata": {
+      "number": "A2a 033",
+      "name": "Gengar",
+      "collection_name": "Triumphant Light (A2a)",
+      "rarity": "Uncommon",
+      "image_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+    },
+    "stats": {
+      "hp": "140",
+      "stage": "Stage 2",
+      "type": "Pokemon TCG Pocket - Psychic"
+    },
+    "attacks": [
+      {
+        "name": "Retreat Cost",
+        "cost": [
+          "Pokemon TCG Pocket - Retreat Cost"
+        ],
+        "damage": "Your opponent's Active Pokemon is now Asleep."
+      },
+      {
+        "name": "Hypnoblast",
+        "cost": [
+          "Psychic 2"
+        ],
+        "damage": "Your opponent's Active Pokemon is now Asleep."
+      }
+    ],
+    "obtained_from": "Open Triumphant Light (A2a) packs"
+  },
+  {
+    "metadata": {
+      "number": "A2a 034",
+      "name": "Unown",
+      "collection_name": "Triumphant Light (A2a)",
+      "rarity": "Uncommon",
+      "image_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+    },
+    "stats": {
+      "hp": "60",
+      "stage": "Basic",
+      "type": "Pokemon TCG Pocket - Psychic"
+    },
+    "attacks": [
+      {
+        "name": "Retreat Cost",
+        "cost": [
+          "Pokemon TCG Pocket - Retreat Cost"
+        ],
+        "damage": "20"
+      },
+      {
+        "name": "Hidden Power",
+        "cost": [
+          "Colorless"
+        ],
+        "damage": "20"
+      }
+    ],
+    "obtained_from": "Open Triumphant Light (A2a) packs"
+  },
+  {
+    "metadata": {
+      "number": "A2a 035",
+      "name": "Rotom",
+      "collection_name": "Triumphant Light (A2a)",
+      "rarity": "Rare",
+      "image_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+    },
+    "stats": {
+      "hp": "70",
+      "stage": "Basic",
+      "type": "Pokemon TCG Pocket - Psychic"
+    },
+    "attacks": [
+      {
+        "name": "Retreat Cost",
+        "cost": [
+          "Pokemon TCG Pocket - Retreat Cost"
+        ],
+        "damage": "This attack does 20 damage to 1 of your opponent's Benched Pokemon."
+      },
+      {
+        "name": "Dash Attack",
+        "cost": [
+          "Colorless"
+        ],
+        "damage": "This attack does 20 damage to 1 of your opponent's Benched Pokemon."
+      }
+    ],
+    "obtained_from": "Open Triumphant Light (A2a) packs"
+  },
+  {
+    "metadata": {
+      "number": "A2a 036",
+      "name": "Sudowoodo",
+      "collection_name": "Triumphant Light (A2a)",
+      "rarity": "Uncommon",
+      "image_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+    },
+    "stats": {
+      "hp": "80",
+      "stage": "Basic",
+      "type": "Pokemon TCG Pocket - Fighting"
+    },
+    "attacks": [
+      {
+        "name": "Retreat Cost",
+        "cost": [
+          "Pokemon TCG Pocket - Retreat Cost"
+        ],
+        "damage": "If your opponent's Active Pokemon is a Pokemon ex, this attack does 30 more damage."
+      },
+      {
+        "name": "Fighting Headbutt",
+        "cost": [
+          "Fighting"
+        ],
+        "damage": "If your opponent's Active Pokemon is a Pokemon ex, this attack does 30 more damage."
+      }
+    ],
+    "obtained_from": "Open Triumphant Light (A2a) packs"
+  },
+  {
+    "metadata": {
+      "number": "A2a 037",
+      "name": "Phanpy",
+      "collection_name": "Triumphant Light (A2a)",
+      "rarity": "Common",
+      "image_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+    },
+    "stats": {
+      "hp": "60",
+      "stage": "Basic",
+      "type": "Pokemon TCG Pocket - Fighting"
+    },
+    "attacks": [
+      {
+        "name": "Retreat Cost",
+        "cost": [
+          "Pokemon TCG Pocket - Retreat Cost"
+        ],
+        "damage": "20"
+      },
+      {
+        "name": "Rollout",
+        "cost": [
+          "Fighting"
+        ],
+        "damage": "20"
+      }
+    ],
+    "obtained_from": "Open Triumphant Light (A2a) packs"
+  },
+  {
+    "metadata": {
+      "number": "A2a 038",
+      "name": "Donphan",
+      "collection_name": "Triumphant Light (A2a)",
+      "rarity": "Uncommon",
+      "image_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+    },
+    "stats": {
+      "hp": "120",
+      "stage": "Stage 1",
+      "type": "Pokemon TCG Pocket - Fighting"
+    },
+    "attacks": [
+      {
+        "name": "Retreat Cost",
+        "cost": [
+          "Pokemon TCG Pocket - Retreat Cost"
+        ],
+        "damage": "During your next turn, this Pokemon's Rolling Spin attack does +60 damage."
+      },
+      {
+        "name": "Rolling Spin",
+        "cost": [
+          "Fighting 3"
+        ],
+        "damage": "During your next turn, this Pokemon's Rolling Spin attack does +60 damage."
+      }
+    ],
+    "obtained_from": "Open Triumphant Light (A2a) packs"
+  },
+  {
+    "metadata": {
+      "number": "A2a 039",
+      "name": "Larvitar",
+      "collection_name": "Triumphant Light (A2a)",
+      "rarity": "Common",
+      "image_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+    },
+    "stats": {
+      "hp": "60",
+      "stage": "Basic",
+      "type": "Pokemon TCG Pocket - Fighting"
+    },
+    "attacks": [
+      {
+        "name": "Retreat Cost",
+        "cost": [
+          "Pokemon TCG Pocket - Retreat Cost"
+        ],
+        "damage": "30"
+      },
+      {
+        "name": "Corkscrew Punch",
+        "cost": [
+          "Fighting",
+          "Colorless"
+        ],
+        "damage": "30"
+      }
+    ],
+    "obtained_from": "Open Triumphant Light (A2a) packs"
+  },
+  {
+    "metadata": {
+      "number": "A2a 040",
+      "name": "Pupitar",
+      "collection_name": "Triumphant Light (A2a)",
+      "rarity": "Uncommon",
+      "image_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+    },
+    "stats": {
+      "hp": "80",
+      "stage": "Stage 1",
+      "type": "Pokemon TCG Pocket - Fighting"
+    },
+    "attacks": [
+      {
+        "name": "Retreat Cost",
+        "cost": [
+          "Pokemon TCG Pocket - Retreat Cost"
+        ],
+        "damage": "50"
+      },
+      {
+        "name": "Speed Attack",
+        "cost": [
+          "Fighting",
+          "Colorless 2"
+        ],
+        "damage": "50"
+      }
+    ],
+    "obtained_from": "Open Triumphant Light (A2a) packs"
+  },
+  {
+    "metadata": {
+      "number": "A2a 041",
+      "name": "Tyranitar",
+      "collection_name": "Triumphant Light (A2a)",
+      "rarity": "Rare",
+      "image_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+    },
+    "stats": {
+      "hp": "160",
+      "stage": "Stage 2",
+      "type": "Pokemon TCG Pocket - Fighting"
+    },
+    "attacks": [
+      {
+        "name": "Retreat Cost",
+        "cost": [
+          "Pokemon TCG Pocket - Retreat Cost"
+        ],
+        "damage": "130"
+      },
+      {
+        "name": "Land Crush",
+        "cost": [
+          "Fighting 3",
+          "Colorless"
+        ],
+        "damage": "130"
+      }
+    ],
+    "obtained_from": "Open Triumphant Light (A2a) packs"
+  },
+  {
+    "metadata": {
+      "number": "A2a 042",
+      "name": "Nosepass",
+      "collection_name": "Triumphant Light (A2a)",
+      "rarity": "Common",
+      "image_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+    },
+    "stats": {
+      "hp": "80",
+      "stage": "Basic",
+      "type": "Pokemon TCG Pocket - Fighting"
+    },
+    "attacks": [
+      {
+        "name": "Retreat Cost",
+        "cost": [
+          "Pokemon TCG Pocket - Retreat Cost"
+        ],
+        "damage": "10"
+      },
+      {
+        "name": "Tackle",
+        "cost": [
+          "Colorless"
+        ],
+        "damage": "10"
+      }
+    ],
+    "obtained_from": "Open Triumphant Light (A2a) packs"
+  },
+  {
+    "metadata": {
+      "number": "A2a 043",
+      "name": "Meditite",
+      "collection_name": "Triumphant Light (A2a)",
+      "rarity": "Common",
+      "image_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+    },
+    "stats": {
+      "hp": "60",
+      "stage": "Basic",
+      "type": "Pokemon TCG Pocket - Fighting"
+    },
+    "attacks": [
+      {
+        "name": "Retreat Cost",
+        "cost": [
+          "Pokemon TCG Pocket - Retreat Cost"
+        ],
+        "damage": "20"
+      },
+      {
+        "name": "Kick",
+        "cost": [
+          "Fighting"
+        ],
+        "damage": "20"
+      }
+    ],
+    "obtained_from": "Open Triumphant Light (A2a) packs"
+  },
+  {
+    "metadata": {
+      "number": "A2a 044",
+      "name": "Medicham",
+      "collection_name": "Triumphant Light (A2a)",
+      "rarity": "Uncommon",
+      "image_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+    },
+    "stats": {
+      "hp": "100",
+      "stage": "Stage 1",
+      "type": "Pokemon TCG Pocket - Fighting"
+    },
+    "attacks": [
+      {
+        "name": "Retreat Cost",
+        "cost": [
+          "Pokemon TCG Pocket - Retreat Cost"
+        ],
+        "damage": "Flip a coin. If tails, this attack does nothing."
+      },
+      {
+        "name": "Kick Shot",
+        "cost": [
+          "Fighting"
+        ],
+        "damage": "Flip a coin. If tails, this attack does nothing."
+      }
+    ],
+    "obtained_from": "Open Triumphant Light (A2a) packs"
+  },
+  {
+    "metadata": {
+      "number": "A2a 045",
+      "name": "Gible",
+      "collection_name": "Triumphant Light (A2a)",
+      "rarity": "Common",
+      "image_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+    },
+    "stats": {
+      "hp": "60",
+      "stage": "Basic",
+      "type": "Pokemon TCG Pocket - Fighting"
+    },
+    "attacks": [
+      {
+        "name": "Retreat Cost",
+        "cost": [
+          "Pokemon TCG Pocket - Retreat Cost"
+        ],
+        "damage": "20"
+      },
+      {
+        "name": "Tackle",
+        "cost": [
+          "Fighting"
+        ],
+        "damage": "20"
+      }
+    ],
+    "obtained_from": "Open Triumphant Light (A2a) packs"
+  },
+  {
+    "metadata": {
+      "number": "A2a 046",
+      "name": "Gabite",
+      "collection_name": "Triumphant Light (A2a)",
+      "rarity": "Common",
+      "image_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+    },
+    "stats": {
+      "hp": "80",
+      "stage": "Stage 1",
+      "type": "Pokemon TCG Pocket - Fighting"
+    },
+    "attacks": [
+      {
+        "name": "Retreat Cost",
+        "cost": [
+          "Pokemon TCG Pocket - Retreat Cost"
+        ],
+        "damage": "30"
+      },
+      {
+        "name": "Sharp Scythe",
+        "cost": [
+          "Fighting"
+        ],
+        "damage": "30"
+      }
+    ],
+    "obtained_from": "Open Triumphant Light (A2a) packs"
+  },
+  {
+    "metadata": {
+      "number": "A2a 047",
+      "name": "Garchomp ex",
+      "collection_name": "Triumphant Light (A2a)",
+      "rarity": "Super Rare",
+      "image_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+    },
+    "stats": {
+      "hp": "170",
+      "stage": "Stage 2",
+      "type": "Pokemon TCG Pocket - Fighting"
+    },
+    "attacks": [
+      {
+        "name": "Retreat Cost",
+        "cost": [
+          "Pokemon TCG Pocket - Retreat Cost"
+        ],
+        "damage": "100"
+      },
+      {
+        "name": "Linear Attack",
+        "cost": [
+          "Fighting"
+        ],
+        "damage": "100"
+      },
+      {
+        "name": "Dragon Claw",
+        "cost": [
+          "Fighting 2",
+          "Colorless"
+        ],
+        "damage": "100"
+      }
+    ],
+    "obtained_from": "Open Triumphant Light (A2a) packs"
+  },
+  {
+    "metadata": {
+      "number": "A2a 048",
+      "name": "Zubat",
+      "collection_name": "Triumphant Light (A2a)",
+      "rarity": "Common",
+      "image_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+    },
+    "stats": {
+      "hp": "50",
+      "stage": "Basic",
+      "type": "Pokemon TCG Pocket - Darkness"
+    },
+    "attacks": [
+      {
+        "name": "Retreat Cost",
+        "cost": [
+          "Pokemon TCG Pocket - Retreat Cost"
+        ],
+        "damage": "20"
+      },
+      {
+        "name": "Bite",
+        "cost": [
+          "Darkness"
+        ],
+        "damage": "20"
+      }
+    ],
+    "obtained_from": "Open Triumphant Light (A2a) packs"
+  },
+  {
+    "metadata": {
+      "number": "A2a 049",
+      "name": "Golbat",
+      "collection_name": "Triumphant Light (A2a)",
+      "rarity": "Common",
+      "image_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+    },
+    "stats": {
+      "hp": "80",
+      "stage": "Stage 1",
+      "type": "Pokemon TCG Pocket - Darkness"
+    },
+    "attacks": [
+      {
+        "name": "Retreat Cost",
+        "cost": [
+          "Pokemon TCG Pocket - Retreat Cost"
+        ],
+        "damage": "30"
+      },
+      {
+        "name": "Bite",
+        "cost": [
+          "Darkness"
+        ],
+        "damage": "30"
+      }
+    ],
+    "obtained_from": "Open Triumphant Light (A2a) packs"
+  },
+  {
+    "metadata": {
+      "number": "A2a 050",
+      "name": "Crobat",
+      "collection_name": "Triumphant Light (A2a)",
+      "rarity": "Rare",
+      "image_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+    },
+    "stats": {
+      "hp": "110",
+      "stage": "Stage 2",
+      "type": "Pokemon TCG Pocket - Darkness"
+    },
+    "attacks": [
+      {
+        "name": "Retreat Cost",
+        "cost": [
+          "Pokemon TCG Pocket - Retreat Cost"
+        ],
+        "damage": "50"
+      },
+      {
+        "name": "Darkness Fang",
+        "cost": [
+          "Darkness"
+        ],
+        "damage": "50"
+      }
+    ],
+    "obtained_from": "Open Triumphant Light (A2a) packs"
+  },
+  {
+    "metadata": {
+      "number": "A2a 051",
+      "name": "Croagunk",
+      "collection_name": "Triumphant Light (A2a)",
+      "rarity": "Common",
+      "image_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+    },
+    "stats": {
+      "hp": "60",
+      "stage": "Basic",
+      "type": "Pokemon TCG Pocket - Darkness"
+    },
+    "attacks": [
+      {
+        "name": "Retreat Cost",
+        "cost": [
+          "Pokemon TCG Pocket - Retreat Cost"
+        ],
+        "damage": "20"
+      },
+      {
+        "name": "Beat",
+        "cost": [
+          "Darkness"
+        ],
+        "damage": "20"
+      }
+    ],
+    "obtained_from": "Open Triumphant Light (A2a) packs"
+  },
+  {
+    "metadata": {
+      "number": "A2a 052",
+      "name": "Toxicroak",
+      "collection_name": "Triumphant Light (A2a)",
+      "rarity": "Uncommon",
+      "image_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+    },
+    "stats": {
+      "hp": "100",
+      "stage": "Stage 1",
+      "type": "Pokemon TCG Pocket - Darkness"
+    },
+    "attacks": [
+      {
+        "name": "Retreat Cost",
+        "cost": [
+          "Pokemon TCG Pocket - Retreat Cost"
+        ],
+        "damage": "Your opponent's Active Pokemon is now Poisoned. Do 20 damage to this Pokemon instead of the usual amount for this Special Condition."
+      },
+      {
+        "name": "Toxic",
+        "cost": [
+          "Darkness"
+        ],
+        "damage": "Your opponent's Active Pokemon is now Poisoned. Do 20 damage to this Pokemon instead of the usual amount for this Special Condition."
+      }
+    ],
+    "obtained_from": "Open Triumphant Light (A2a) packs"
+  },
+  {
+    "metadata": {
+      "number": "A2a 053",
+      "name": "Magnemite",
+      "collection_name": "Triumphant Light (A2a)",
+      "rarity": "Common",
+      "image_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+    },
+    "stats": {
+      "hp": "60",
+      "stage": "Basic",
+      "type": "Pokemon TCG Pocket - Metal"
+    },
+    "attacks": [
+      {
+        "name": "Retreat Cost",
+        "cost": [
+          "Pokemon TCG Pocket - Retreat Cost"
+        ],
+        "damage": "20"
+      },
+      {
+        "name": "Tackle",
+        "cost": [
+          "Metal"
+        ],
+        "damage": "20"
+      }
+    ],
+    "obtained_from": "Open Triumphant Light (A2a) packs"
+  },
+  {
+    "metadata": {
+      "number": "A2a 054",
+      "name": "Magneton",
+      "collection_name": "Triumphant Light (A2a)",
+      "rarity": "Common",
+      "image_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+    },
+    "stats": {
+      "hp": "90",
+      "stage": "Stage 1",
+      "type": "Pokemon TCG Pocket - Metal"
+    },
+    "attacks": [
+      {
+        "name": "Retreat Cost",
+        "cost": [
+          "Pokemon TCG Pocket - Retreat Cost"
+        ],
+        "damage": "30"
+      },
+      {
+        "name": "Rolling Attack",
+        "cost": [
+          "Metal",
+          "Colorless"
+        ],
+        "damage": "30"
+      }
+    ],
+    "obtained_from": "Open Triumphant Light (A2a) packs"
+  },
+  {
+    "metadata": {
+      "number": "A2a 055",
+      "name": "Magnezone",
+      "collection_name": "Triumphant Light (A2a)",
+      "rarity": "Rare",
+      "image_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+    },
+    "stats": {
+      "hp": "140",
+      "stage": "Stage 2",
+      "type": "Pokemon TCG Pocket - Metal"
+    },
+    "attacks": [
+      {
+        "name": "Retreat Cost",
+        "cost": [
+          "Pokemon TCG Pocket - Retreat Cost"
+        ],
+        "damage": "80"
+      },
+      {
+        "name": "Power Beam",
+        "cost": [
+          "Metal 2",
+          "Colorless"
+        ],
+        "damage": "80"
+      }
+    ],
+    "obtained_from": "Open Triumphant Light (A2a) packs"
+  },
+  {
+    "metadata": {
+      "number": "A2a 056",
+      "name": "Mawile",
+      "collection_name": "Triumphant Light (A2a)",
+      "rarity": "Common",
+      "image_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+    },
+    "stats": {
+      "hp": "70",
+      "stage": "Basic",
+      "type": "Pokemon TCG Pocket - Metal"
+    },
+    "attacks": [
+      {
+        "name": "Retreat Cost",
+        "cost": [
+          "Pokemon TCG Pocket - Retreat Cost"
+        ],
+        "damage": "If your opponent's Active Pokemon is a Metal Pokemon, this attack does 30 more damage."
+      },
+      {
+        "name": "Iron Beam Breaker",
+        "cost": [
+          "Colorless"
+        ],
+        "damage": "If your opponent's Active Pokemon is a Metal Pokemon, this attack does 30 more damage."
+      }
+    ],
+    "obtained_from": "Open Triumphant Light (A2a) packs"
+  },
+  {
+    "metadata": {
+      "number": "A2a 057",
+      "name": "Probopass ex",
+      "collection_name": "Triumphant Light (A2a)",
+      "rarity": "Super Rare",
+      "image_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+    },
+    "stats": {
+      "hp": "160",
+      "stage": "Stage 1",
+      "type": "Pokemon TCG Pocket - Metal"
+    },
+    "attacks": [
+      {
+        "name": "Retreat Cost",
+        "cost": [
+          "Pokemon TCG Pocket - Retreat Cost"
+        ],
+        "damage": "During your opponent's next turn, this Pokemon takes -20 damage from attacks."
+      },
+      {
+        "name": "Defensive Unit",
+        "cost": [
+          "Metal 2",
+          "Colorless"
+        ],
+        "damage": "During your opponent's next turn, this Pokemon takes -20 damage from attacks."
+      }
+    ],
+    "obtained_from": "Open Triumphant Light (A2a) packs"
+  },
+  {
+    "metadata": {
+      "number": "A2a 058",
+      "name": "Bronzor",
+      "collection_name": "Triumphant Light (A2a)",
+      "rarity": "Common",
+      "image_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+    },
+    "stats": {
+      "hp": "60",
+      "stage": "Basic",
+      "type": "Pokemon TCG Pocket - Metal"
+    },
+    "attacks": [
+      {
+        "name": "Retreat Cost",
+        "cost": [
+          "Pokemon TCG Pocket - Retreat Cost"
+        ],
+        "damage": "10"
+      },
+      {
+        "name": "Ram",
+        "cost": [
+          "Colorless"
+        ],
+        "damage": "10"
+      }
+    ],
+    "obtained_from": "Open Triumphant Light (A2a) packs"
+  },
+  {
+    "metadata": {
+      "number": "A2a 059",
+      "name": "Bronzong",
+      "collection_name": "Triumphant Light (A2a)",
+      "rarity": "Uncommon",
+      "image_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+    },
+    "stats": {
+      "hp": "120",
+      "stage": "Stage 1",
+      "type": "Pokemon TCG Pocket - Metal"
+    },
+    "attacks": [
+      {
+        "name": "Retreat Cost",
+        "cost": [
+          "Pokemon TCG Pocket - Retreat Cost"
+        ],
+        "damage": "This attack does 20 more damage for each Energy attached to your opponent's Active Pokemon."
+      },
+      {
+        "name": "Psychic",
+        "cost": [
+          "Colorless 3"
+        ],
+        "damage": "This attack does 20 more damage for each Energy attached to your opponent's Active Pokemon."
+      }
+    ],
+    "obtained_from": "Open Triumphant Light (A2a) packs"
+  },
+  {
+    "metadata": {
+      "number": "A2a 060",
+      "name": "Origin Forme Dialga",
+      "collection_name": "Triumphant Light (A2a)",
+      "rarity": "Rare",
+      "image_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+    },
+    "stats": {
+      "hp": "120",
+      "stage": "Basic",
+      "type": "Pokemon TCG Pocket - Metal"
+    },
+    "attacks": [
+      {
+        "name": "Retreat Cost",
+        "cost": [
+          "Pokemon TCG Pocket - Retreat Cost"
+        ],
+        "damage": "Flip a coin. If tails, during your next turn, this Pokemon can't attack."
+      },
+      {
+        "name": "Time Mash",
+        "cost": [
+          "Metal 2",
+          "Colorless"
+        ],
+        "damage": "Flip a coin. If tails, during your next turn, this Pokemon can't attack."
+      }
+    ],
+    "obtained_from": "Open Triumphant Light (A2a) packs"
+  },
+  {
+    "metadata": {
+      "number": "A2a 061",
+      "name": "Giratina",
+      "collection_name": "Triumphant Light (A2a)",
+      "rarity": "Rare",
+      "image_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+    },
+    "stats": {
+      "hp": "120",
+      "stage": "Basic",
+      "type": "Pokemon TCG Pocket - Dragon"
+    },
+    "attacks": [
+      {
+        "name": "Retreat Cost",
+        "cost": [
+          "Pokemon TCG Pocket - Retreat Cost"
+        ],
+        "damage": "Discard 2 random Energy from this Pokemon."
+      },
+      {
+        "name": "Crisis Dive",
+        "cost": [
+          "Psychic",
+          "Grass",
+          "Colorless"
+        ],
+        "damage": "Discard 2 random Energy from this Pokemon."
+      }
+    ],
+    "obtained_from": "Open Triumphant Light (A2a) packs"
+  },
+  {
+    "metadata": {
+      "number": "A2a 062",
+      "name": "Eevee",
+      "collection_name": "Triumphant Light (A2a)",
+      "rarity": "Common",
+      "image_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+    },
+    "stats": {
+      "hp": "60",
+      "stage": "Basic",
+      "type": "Pokemon TCG Pocket - Colorless"
+    },
+    "attacks": [
+      {
+        "name": "Retreat Cost",
+        "cost": [
+          "Pokemon TCG Pocket - Retreat Cost"
+        ],
+        "damage": "30"
+      },
+      {
+        "name": "Tail Whap",
+        "cost": [
+          "Colorless 2"
+        ],
+        "damage": "30"
+      }
+    ],
+    "obtained_from": "Open Triumphant Light (A2a) packs"
+  },
+  {
+    "metadata": {
+      "number": "A2a 063",
+      "name": "Snorlax",
+      "collection_name": "Triumphant Light (A2a)",
+      "rarity": "Uncommon",
+      "image_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+    },
+    "stats": {
+      "hp": "140",
+      "stage": "Basic",
+      "type": "Pokemon TCG Pocket - Colorless"
+    },
+    "attacks": [
+      {
+        "name": "Retreat Cost",
+        "cost": [
+          "Pokemon TCG Pocket - Retreat Cost"
+        ],
+        "damage": "This Pokemon is now Asleep."
+      },
+      {
+        "name": "Collapse",
+        "cost": [
+          "Colorless 4"
+        ],
+        "damage": "This Pokemon is now Asleep."
+      }
+    ],
+    "obtained_from": "Open Triumphant Light (A2a) packs"
+  },
+  {
+    "metadata": {
+      "number": "A2a 064",
+      "name": "Hoothoot",
+      "collection_name": "Triumphant Light (A2a)",
+      "rarity": "Common",
+      "image_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+    },
+    "stats": {
+      "hp": "60",
+      "stage": "Basic",
+      "type": "Pokemon TCG Pocket - Colorless"
+    },
+    "attacks": [
+      {
+        "name": "Retreat Cost",
+        "cost": [
+          "Pokemon TCG Pocket - Retreat Cost"
+        ],
+        "damage": "20"
+      },
+      {
+        "name": "Peck",
+        "cost": [
+          "Colorless"
+        ],
+        "damage": "20"
+      }
+    ],
+    "obtained_from": "Open Triumphant Light (A2a) packs"
+  },
+  {
+    "metadata": {
+      "number": "A2a 065",
+      "name": "Noctowl",
+      "collection_name": "Triumphant Light (A2a)",
+      "rarity": "Uncommon",
+      "image_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+    },
+    "stats": {
+      "hp": "100",
+      "stage": "Stage 1",
+      "type": "Pokemon TCG Pocket - Colorless"
+    },
+    "attacks": [
+      {
+        "name": "Retreat Cost",
+        "cost": [
+          "Pokemon TCG Pocket - Retreat Cost"
+        ],
+        "damage": "Your opponent reveals their hand."
+      },
+      {
+        "name": "Silent Wing",
+        "cost": [
+          "Colorless 2"
+        ],
+        "damage": "Your opponent reveals their hand."
+      }
+    ],
+    "obtained_from": "Open Triumphant Light (A2a) packs"
+  },
+  {
+    "metadata": {
+      "number": "A2a 066",
+      "name": "Starly",
+      "collection_name": "Triumphant Light (A2a)",
+      "rarity": "Common",
+      "image_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+    },
+    "stats": {
+      "hp": "60",
+      "stage": "Basic",
+      "type": "Pokemon TCG Pocket - Colorless"
+    },
+    "attacks": [
+      {
+        "name": "Retreat Cost",
+        "cost": [
+          "Pokemon TCG Pocket - Retreat Cost"
+        ],
+        "damage": "20"
+      },
+      {
+        "name": "Glide",
+        "cost": [
+          "Colorless"
+        ],
+        "damage": "20"
+      }
+    ],
+    "obtained_from": "Open Triumphant Light (A2a) packs"
+  },
+  {
+    "metadata": {
+      "number": "A2a 067",
+      "name": "Staravia",
+      "collection_name": "Triumphant Light (A2a)",
+      "rarity": "Common",
+      "image_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+    },
+    "stats": {
+      "hp": "80",
+      "stage": "Stage 1",
+      "type": "Pokemon TCG Pocket - Colorless"
+    },
+    "attacks": [
+      {
+        "name": "Retreat Cost",
+        "cost": [
+          "Pokemon TCG Pocket - Retreat Cost"
+        ],
+        "damage": "30"
+      },
+      {
+        "name": "Wing Attaack",
+        "cost": [
+          "Colorless"
+        ],
+        "damage": "30"
+      }
+    ],
+    "obtained_from": "Open Triumphant Light (A2a) packs"
+  },
+  {
+    "metadata": {
+      "number": "A2a 068",
+      "name": "Staraptor",
+      "collection_name": "Triumphant Light (A2a)",
+      "rarity": "Uncommon",
+      "image_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+    },
+    "stats": {
+      "hp": "150",
+      "stage": "Stage 2",
+      "type": "Pokemon TCG Pocket - Colorless"
+    },
+    "attacks": [
+      {
+        "name": "Retreat Cost",
+        "cost": [
+          "Pokemon TCG Pocket - Retreat Cost"
+        ],
+        "damage": "This Pokemon also does 20 damage to itself."
+      },
+      {
+        "name": "Brave Bird",
+        "cost": [
+          "Colorless 3"
+        ],
+        "damage": "This Pokemon also does 20 damage to itself."
+      }
+    ],
+    "obtained_from": "Open Triumphant Light (A2a) packs"
+  },
+  {
+    "metadata": {
+      "number": "A2a 069",
+      "name": "Shaymin",
+      "collection_name": "Triumphant Light (A2a)",
+      "rarity": "Rare",
+      "image_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+    },
+    "stats": {
+      "hp": "70",
+      "stage": "Basic",
+      "type": "Pokemon TCG Pocket - Colorless"
+    },
+    "attacks": [
+      {
+        "name": "Retreat Cost",
+        "cost": [
+          "Pokemon TCG Pocket - Retreat Cost"
+        ],
+        "damage": "30"
+      },
+      {
+        "name": "Flap",
+        "cost": [
+          "Colorless 2"
+        ],
+        "damage": "30"
+      }
+    ],
+    "obtained_from": "Open Triumphant Light (A2a) packs"
+  },
+  {
+    "metadata": {
+      "number": "A2a 070",
+      "name": "Arceus",
+      "collection_name": "Triumphant Light (A2a)",
+      "rarity": "Rare",
+      "image_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+    },
+    "stats": {
+      "hp": "120",
+      "stage": "Basic",
+      "type": "Pokemon TCG Pocket - Colorless"
+    },
+    "attacks": [
+      {
+        "name": "Retreat Cost",
+        "cost": [
+          "Pokemon TCG Pocket - Retreat Cost"
+        ],
+        "damage": "Discard a random Energy from this Pokemon."
+      },
+      {
+        "name": "Power Blast",
+        "cost": [
+          "Colorless 4"
+        ],
+        "damage": "Discard a random Energy from this Pokemon."
+      }
+    ],
+    "obtained_from": "Open Triumphant Light (A2a) packs"
+  },
+  {
+    "metadata": {
+      "number": "A2a 071",
+      "name": "Arceus ex",
+      "collection_name": "Triumphant Light (A2a)",
+      "rarity": "Super Rare",
+      "image_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+    },
+    "stats": {
+      "hp": "140",
+      "stage": "Basic",
+      "type": "Pokemon TCG Pocket - Colorless"
+    },
+    "attacks": [
+      {
+        "name": "Retreat Cost",
+        "cost": [
+          "Pokemon TCG Pocket - Retreat Cost"
+        ],
+        "damage": "This attack does 20 more damage for each of your Benched Pokemon."
+      },
+      {
+        "name": "Ultimate Force",
+        "cost": [
+          "Colorless 3"
+        ],
+        "damage": "This attack does 20 more damage for each of your Benched Pokemon."
+      }
+    ],
+    "obtained_from": "Open Triumphant Light (A2a) packs"
+  },
+  {
+    "metadata": {
+      "number": "A2a 072",
+      "name": "Irida",
+      "collection_name": "Triumphant Light (A2a)",
+      "rarity": "Uncommon",
+      "image_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+    },
+    "stats": {
+      "hp": "",
+      "stage": "",
+      "type": "Pokemon TCG Pocket - Supporter"
+    },
+    "attacks": [],
+    "obtained_from": "Open Triumphant Light (A2a) packs"
+  },
+  {
+    "metadata": {
+      "number": "A2a 073",
+      "name": "Celestic Town Elder",
+      "collection_name": "Triumphant Light (A2a)",
+      "rarity": "Uncommon",
+      "image_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+    },
+    "stats": {
+      "hp": "",
+      "stage": "",
+      "type": "Pokemon TCG Pocket - Supporter"
+    },
+    "attacks": [],
+    "obtained_from": "Open Triumphant Light (A2a) packs"
+  },
+  {
+    "metadata": {
+      "number": "A2a 074",
+      "name": "Barry",
+      "collection_name": "Triumphant Light (A2a)",
+      "rarity": "Uncommon",
+      "image_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+    },
+    "stats": {
+      "hp": "",
+      "stage": "",
+      "type": "Pokemon TCG Pocket - Supporter"
+    },
+    "attacks": [],
+    "obtained_from": "Open Triumphant Light (A2a) packs"
+  },
+  {
+    "metadata": {
+      "number": "A2a 075",
+      "name": "Adaman",
+      "collection_name": "Triumphant Light (A2a)",
+      "rarity": "Uncommon",
+      "image_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+    },
+    "stats": {
+      "hp": "",
+      "stage": "",
+      "type": "Pokemon TCG Pocket - Supporter"
+    },
+    "attacks": [],
+    "obtained_from": "Open Triumphant Light (A2a) packs"
+  },
+  {
+    "metadata": {
+      "number": "A2a 076",
+      "name": "Houndoom",
+      "collection_name": "Triumphant Light (A2a)",
+      "rarity": "Star",
+      "image_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+    },
+    "stats": {
+      "hp": "100",
+      "stage": "Stage 1",
+      "type": "Pokemon TCG Pocket - Fire"
+    },
+    "attacks": [
+      {
+        "name": "Retreat Cost",
+        "cost": [
+          "Pokemon TCG Pocket - Retreat Cost"
+        ],
+        "damage": "During your opponent's next turn, the Defending Pokemon can't retreat."
+      },
+      {
+        "name": "Corner",
+        "cost": [
+          "Fire",
+          "Colorless"
+        ],
+        "damage": "During your opponent's next turn, the Defending Pokemon can't retreat."
+      }
+    ],
+    "obtained_from": "Open Triumphant Light (A2a) packs"
+  },
+  {
+    "metadata": {
+      "number": "A2a 077",
+      "name": "Marill",
+      "collection_name": "Triumphant Light (A2a)",
+      "rarity": "Star",
+      "image_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+    },
+    "stats": {
+      "hp": "60",
+      "stage": "Basic",
+      "type": "Pokemon TCG Pocket - Water"
+    },
+    "attacks": [
+      {
+        "name": "Retreat Cost",
+        "cost": [
+          "Pokemon TCG Pocket - Retreat Cost"
+        ],
+        "damage": "20"
+      },
+      {
+        "name": "Water Gun",
+        "cost": [
+          "Water"
+        ],
+        "damage": "20"
+      }
+    ],
+    "obtained_from": "Open Triumphant Light (A2a) packs"
+  },
+  {
+    "metadata": {
+      "number": "A2a 078",
+      "name": "Unown",
+      "collection_name": "Triumphant Light (A2a)",
+      "rarity": "Star",
+      "image_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+    },
+    "stats": {
+      "hp": "60",
+      "stage": "Basic",
+      "type": "Pokemon TCG Pocket - Psychic"
+    },
+    "attacks": [
+      {
+        "name": "Retreat Cost",
+        "cost": [
+          "Pokemon TCG Pocket - Retreat Cost"
+        ],
+        "damage": "20"
+      },
+      {
+        "name": "Hidden Power",
+        "cost": [
+          "Colorless"
+        ],
+        "damage": "20"
+      }
+    ],
+    "obtained_from": "Open Triumphant Light (A2a) packs"
+  },
+  {
+    "metadata": {
+      "number": "A2a 079",
+      "name": "Sudowoodo",
+      "collection_name": "Triumphant Light (A2a)",
+      "rarity": "Star",
+      "image_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+    },
+    "stats": {
+      "hp": "80",
+      "stage": "Basic",
+      "type": "Pokemon TCG Pocket - Fighting"
+    },
+    "attacks": [
+      {
+        "name": "Retreat Cost",
+        "cost": [
+          "Pokemon TCG Pocket - Retreat Cost"
+        ],
+        "damage": "If your opponent's Active Pokemon is a Pokemon ex, this attack does 30 more damage."
+      },
+      {
+        "name": "Fighting Headbutt",
+        "cost": [
+          "Fighting"
+        ],
+        "damage": "If your opponent's Active Pokemon is a Pokemon ex, this attack does 30 more damage."
+      }
+    ],
+    "obtained_from": "Open Triumphant Light (A2a) packs"
+  },
+  {
+    "metadata": {
+      "number": "A2a 080",
+      "name": "Magnemite",
+      "collection_name": "Triumphant Light (A2a)",
+      "rarity": "Star",
+      "image_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+    },
+    "stats": {
+      "hp": "60",
+      "stage": "Basic",
+      "type": "Pokemon TCG Pocket - Metal"
+    },
+    "attacks": [
+      {
+        "name": "Retreat Cost",
+        "cost": [
+          "Pokemon TCG Pocket - Retreat Cost"
+        ],
+        "damage": "20"
+      },
+      {
+        "name": "Tackle",
+        "cost": [
+          "Metal"
+        ],
+        "damage": "20"
+      }
+    ],
+    "obtained_from": "Open Triumphant Light (A2a) packs"
+  },
+  {
+    "metadata": {
+      "number": "A2a 081",
+      "name": "Shaymin",
+      "collection_name": "Triumphant Light (A2a)",
+      "rarity": "Star",
+      "image_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+    },
+    "stats": {
+      "hp": "70",
+      "stage": "Basic",
+      "type": "Pokemon TCG Pocket - Colorless"
+    },
+    "attacks": [
+      {
+        "name": "Retreat Cost",
+        "cost": [
+          "Pokemon TCG Pocket - Retreat Cost"
+        ],
+        "damage": "30"
+      },
+      {
+        "name": "Flap",
+        "cost": [
+          "Colorless 2"
+        ],
+        "damage": "30"
+      }
+    ],
+    "obtained_from": "Open Triumphant Light (A2a) packs"
+  },
+  {
+    "metadata": {
+      "number": "A2a 082",
+      "name": "Leafeon ex",
+      "collection_name": "Triumphant Light (A2a)",
+      "rarity": "Double Star",
+      "image_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+    },
+    "stats": {
+      "hp": "140",
+      "stage": "Stage 1",
+      "type": "Pokemon TCG Pocket - Grass"
+    },
+    "attacks": [
+      {
+        "name": "Retreat Cost",
+        "cost": [
+          "Pokemon TCG Pocket - Retreat Cost"
+        ],
+        "damage": "70"
+      },
+      {
+        "name": "Solar Beam",
+        "cost": [
+          "Grass",
+          "Colorless 2"
+        ],
+        "damage": "70"
+      }
+    ],
+    "obtained_from": "Open Triumphant Light (A2a) packs"
+  },
+  {
+    "metadata": {
+      "number": "A2a 083",
+      "name": "Glaceon ex",
+      "collection_name": "Triumphant Light (A2a)",
+      "rarity": "Double Star",
+      "image_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+    },
+    "stats": {
+      "hp": "140",
+      "stage": "Stage 1",
+      "type": "Pokemon TCG Pocket - Water"
+    },
+    "attacks": [
+      {
+        "name": "Retreat Cost",
+        "cost": [
+          "Pokemon TCG Pocket - Retreat Cost"
+        ],
+        "damage": "90"
+      },
+      {
+        "name": "Freezing Wind",
+        "cost": [
+          "Water 2",
+          "Colorless"
+        ],
+        "damage": "90"
+      }
+    ],
+    "obtained_from": "Open Triumphant Light (A2a) packs"
+  },
+  {
+    "metadata": {
+      "number": "A2a 084",
+      "name": "Garchomp ex",
+      "collection_name": "Triumphant Light (A2a)",
+      "rarity": "Double Star",
+      "image_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+    },
+    "stats": {
+      "hp": "170",
+      "stage": "Stage 2",
+      "type": "Pokemon TCG Pocket - Fighting"
+    },
+    "attacks": [
+      {
+        "name": "Retreat Cost",
+        "cost": [
+          "Pokemon TCG Pocket - Retreat Cost"
+        ],
+        "damage": "100"
+      },
+      {
+        "name": "Linear Attack",
+        "cost": [
+          "Fighting"
+        ],
+        "damage": "100"
+      },
+      {
+        "name": "Dragon Claw",
+        "cost": [
+          "Fighting 2",
+          "Colorless"
+        ],
+        "damage": "100"
+      }
+    ],
+    "obtained_from": "Open Triumphant Light (A2a) packs"
+  },
+  {
+    "metadata": {
+      "number": "A2a 085",
+      "name": "Probopass ex",
+      "collection_name": "Triumphant Light (A2a)",
+      "rarity": "Double Star",
+      "image_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+    },
+    "stats": {
+      "hp": "160",
+      "stage": "Stage 1",
+      "type": "Pokemon TCG Pocket - Metal"
+    },
+    "attacks": [
+      {
+        "name": "Retreat Cost",
+        "cost": [
+          "Pokemon TCG Pocket - Retreat Cost"
+        ],
+        "damage": "During your opponent's next turn, this Pokemon takes -20 damage from attacks."
+      },
+      {
+        "name": "Defensive Unit",
+        "cost": [
+          "Metal 2",
+          "Colorless"
+        ],
+        "damage": "During your opponent's next turn, this Pokemon takes -20 damage from attacks."
+      }
+    ],
+    "obtained_from": "Open Triumphant Light (A2a) packs"
+  },
+  {
+    "metadata": {
+      "number": "A2a 086",
+      "name": "Arceus ex",
+      "collection_name": "Triumphant Light (A2a)",
+      "rarity": "Double Star",
+      "image_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+    },
+    "stats": {
+      "hp": "140",
+      "stage": "Basic",
+      "type": "Pokemon TCG Pocket - Colorless"
+    },
+    "attacks": [
+      {
+        "name": "Retreat Cost",
+        "cost": [
+          "Pokemon TCG Pocket - Retreat Cost"
+        ],
+        "damage": "This attack does 20 more damage for each of your Benched Pokemon."
+      },
+      {
+        "name": "Ultimate Force",
+        "cost": [
+          "Colorless 3"
+        ],
+        "damage": "This attack does 20 more damage for each of your Benched Pokemon."
+      }
+    ],
+    "obtained_from": "Open Triumphant Light (A2a) packs"
+  },
+  {
+    "metadata": {
+      "number": "A2a 087",
+      "name": "Irida",
+      "collection_name": "Triumphant Light (A2a)",
+      "rarity": "Double Star",
+      "image_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+    },
+    "stats": {
+      "hp": "",
+      "stage": "",
+      "type": "Pokemon TCG Pocket - Supporter"
+    },
+    "attacks": [],
+    "obtained_from": "Open Triumphant Light (A2a) packs"
+  },
+  {
+    "metadata": {
+      "number": "A2a 088",
+      "name": "Celestic Town Elder",
+      "collection_name": "Triumphant Light (A2a)",
+      "rarity": "Double Star",
+      "image_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+    },
+    "stats": {
+      "hp": "",
+      "stage": "",
+      "type": "Pokemon TCG Pocket - Supporter"
+    },
+    "attacks": [],
+    "obtained_from": "Open Triumphant Light (A2a) packs"
+  },
+  {
+    "metadata": {
+      "number": "A2a 089",
+      "name": "Barry",
+      "collection_name": "Triumphant Light (A2a)",
+      "rarity": "Double Star",
+      "image_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+    },
+    "stats": {
+      "hp": "",
+      "stage": "",
+      "type": "Pokemon TCG Pocket - Supporter"
+    },
+    "attacks": [],
+    "obtained_from": "Open Triumphant Light (A2a) packs"
+  },
+  {
+    "metadata": {
+      "number": "A2a 090",
+      "name": "Adaman",
+      "collection_name": "Triumphant Light (A2a)",
+      "rarity": "Double Star",
+      "image_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+    },
+    "stats": {
+      "hp": "",
+      "stage": "",
+      "type": "Pokemon TCG Pocket - Supporter"
+    },
+    "attacks": [],
+    "obtained_from": "Open Triumphant Light (A2a) packs"
+  },
+  {
+    "metadata": {
+      "number": "A2a 091",
+      "name": "Leafeon ex",
+      "collection_name": "Triumphant Light (A2a)",
+      "rarity": "Double Star",
+      "image_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+    },
+    "stats": {
+      "hp": "140",
+      "stage": "Stage 1",
+      "type": "Pokemon TCG Pocket - Grass"
+    },
+    "attacks": [
+      {
+        "name": "Retreat Cost",
+        "cost": [
+          "Pokemon TCG Pocket - Retreat Cost"
+        ],
+        "damage": "70"
+      },
+      {
+        "name": "Solar Beam",
+        "cost": [
+          "Grass",
+          "Colorless 2"
+        ],
+        "damage": "70"
+      }
+    ],
+    "obtained_from": "Open Triumphant Light (A2a) packs"
+  },
+  {
+    "metadata": {
+      "number": "A2a 092",
+      "name": "Glaceon ex",
+      "collection_name": "Triumphant Light (A2a)",
+      "rarity": "Double Star",
+      "image_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+    },
+    "stats": {
+      "hp": "140",
+      "stage": "Stage 1",
+      "type": "Pokemon TCG Pocket - Water"
+    },
+    "attacks": [
+      {
+        "name": "Retreat Cost",
+        "cost": [
+          "Pokemon TCG Pocket - Retreat Cost"
+        ],
+        "damage": "90"
+      },
+      {
+        "name": "Freezing Wind",
+        "cost": [
+          "Water 2",
+          "Colorless"
+        ],
+        "damage": "90"
+      }
+    ],
+    "obtained_from": "Open Triumphant Light (A2a) packs"
+  },
+  {
+    "metadata": {
+      "number": "A2a 093",
+      "name": "Garchomp ex",
+      "collection_name": "Triumphant Light (A2a)",
+      "rarity": "Double Star",
+      "image_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+    },
+    "stats": {
+      "hp": "170",
+      "stage": "Stage 2",
+      "type": "Pokemon TCG Pocket - Fighting"
+    },
+    "attacks": [
+      {
+        "name": "Retreat Cost",
+        "cost": [
+          "Pokemon TCG Pocket - Retreat Cost"
+        ],
+        "damage": "100"
+      },
+      {
+        "name": "Linear Attack",
+        "cost": [
+          "Fighting"
+        ],
+        "damage": "100"
+      },
+      {
+        "name": "Dragon Claw",
+        "cost": [
+          "Fighting 2",
+          "Colorless"
+        ],
+        "damage": "100"
+      }
+    ],
+    "obtained_from": "Open Triumphant Light (A2a) packs"
+  },
+  {
+    "metadata": {
+      "number": "A2a 094",
+      "name": "Probopass ex",
+      "collection_name": "Triumphant Light (A2a)",
+      "rarity": "Double Star",
+      "image_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+    },
+    "stats": {
+      "hp": "160",
+      "stage": "Stage 1",
+      "type": "Pokemon TCG Pocket - Metal"
+    },
+    "attacks": [
+      {
+        "name": "Retreat Cost",
+        "cost": [
+          "Pokemon TCG Pocket - Retreat Cost"
+        ],
+        "damage": "During your opponent's next turn, this Pokemon takes -20 damage from attacks."
+      },
+      {
+        "name": "Defensive Unit",
+        "cost": [
+          "Metal 2",
+          "Colorless"
+        ],
+        "damage": "During your opponent's next turn, this Pokemon takes -20 damage from attacks."
+      }
+    ],
+    "obtained_from": "Open Triumphant Light (A2a) packs"
+  },
+  {
+    "metadata": {
+      "number": "A2a 095",
+      "name": "Arceus ex",
+      "collection_name": "Triumphant Light (A2a)",
+      "rarity": "Triple Star",
+      "image_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+    },
+    "stats": {
+      "hp": "140",
+      "stage": "Basic",
+      "type": "Pokemon TCG Pocket - Colorless"
+    },
+    "attacks": [
+      {
+        "name": "Retreat Cost",
+        "cost": [
+          "Pokemon TCG Pocket - Retreat Cost"
+        ],
+        "damage": "This attack does 20 more damage for each of your Benched Pokemon."
+      },
+      {
+        "name": "Ultimate Force",
+        "cost": [
+          "Colorless 3"
+        ],
+        "damage": "This attack does 20 more damage for each of your Benched Pokemon."
+      }
+    ],
+    "obtained_from": "Open Triumphant Light (A2a) packs"
+  },
+  {
+    "metadata": {
+      "number": "A2a 096",
+      "name": "Arceus ex",
+      "collection_name": "Triumphant Light (A2a)",
+      "rarity": "Crown",
+      "image_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+    },
+    "stats": {
+      "hp": "140",
+      "stage": "Basic",
+      "type": "Pokemon TCG Pocket - Colorless"
+    },
+    "attacks": [
+      {
+        "name": "Retreat Cost",
+        "cost": [
+          "Pokemon TCG Pocket - Retreat Cost"
+        ],
+        "damage": "This attack does 20 more damage for each of your Benched Pokemon."
+      },
+      {
+        "name": "Ultimate Force",
+        "cost": [
+          "Colorless 3"
+        ],
+        "damage": "This attack does 20 more damage for each of your Benched Pokemon."
+      }
+    ],
+    "obtained_from": "Open Triumphant Light (A2a) packs"
+  }
+]
